@@ -1,0 +1,1501 @@
+Customer_ID,Age,Gender,City,Membership_Type,Device_Type,Payment_Method,Preferred_Category,Registration_Date,Last_Purchase_Date,Order_Count,Average_Order_Value,Total_Spending,Discount_Percent,Return_Count,Review_Rating,Support_Tickets,Website_Visits,App_Sessions,Email_Opt_In,Coupon_Usage,Delivery_Delay_Days,Churn
+CUST10000,56,Female,Chennai,Silver,Tablet,Net Banking,Sports,2021-03-18,2022-07-06,10,1963.47,24259.69,3.8,1,4.4,2,26,32,No,9,0.0,Yes
+CUST10001,46,Female,Kochi,Gold,Mobile,COD,Electronics,2023-10-17,2025-01-26,12,2860.0,37587.51,27.0,0,2.8,1,20,24,Yes,7,0.9,No
+CUST10002,32,Male,Bengaluru,Basic,Tablet,Net Banking,Beauty,2025-03-25,2025-12-31,10,1688.6,13529.39,9.7,1,4.5,0,18,21,Yes,5,2.5,No
+CUST10003,60,Male,Kochi,Basic,Tablet,UPI,Home & Kitchen,2021-01-24,2022-02-02,10,5414.01,47225.31,22.9,2,3.8,0,14,23,Yes,14,3.2,Yes
+CUST10004,25,Female,Delhi,Basic,Mobile,Net Banking,Sports,2023-11-05,2025-12-31,11,5802.46,66861.92,16.4,1,3.9,3,17,16,No,12,0.0,No
+CUST10005,38,Female,Chennai,Silver,Mobile,COD,Electronics,2022-11-07,2025-06-12,9,2757.9,22035.62,4.7,0,2.5,0,19,25,Yes,13,1.5,No
+CUST10006,56,Female,Delhi,Silver,Mobile,Debit Card,Electronics,2022-06-09,2025-05-25,6,3574.07,26350.28,25.0,1,5.0,0,22,32,Yes,5,1.8,No
+CUST10007,36,Male,Pune,Gold,Mobile,Debit Card,Grocery,2021-12-13,2025-06-01,13,5010.81,62057.82,17.0,0,4.1,1,23,25,Yes,2,6.6,No
+CUST10008,40,Female,Bengaluru,Silver,Mobile,UPI,Grocery,2021-06-21,2023-04-12,3,2587.22,7595.68,25.7,0,3.0,0,26,26,Yes,9,2.4,Yes
+CUST10009,28,Female,Bengaluru,Silver,Mobile,Debit Card,Sports,2024-09-12,2025-12-31,7,3479.41,26810.97,13.5,0,4.2,2,19,30,No,8,0.0,No
+CUST10010,28,Female,Coimbatore,Basic,Mobile,Net Banking,Electronics,2022-12-13,2024-10-26,7,1595.38,11303.07,20.6,1,4.2,3,25,25,No,8,4.2,Yes
+CUST10011,41,Female,Kochi,Silver,Mobile,UPI,Sports,2025-02-17,2025-12-31,7,1105.12,7279.99,0.9,0,4.8,2,19,18,Yes,3,2.0,No
+CUST10012,53,Male,Coimbatore,Silver,Tablet,COD,Electronics,2022-05-04,2022-12-10,14,4142.07,45713.81,11.0,0,3.8,2,20,17,Yes,12,4.0,Yes
+CUST10013,57,Male,Chennai,Basic,Desktop,UPI,Grocery,2025-01-25,2025-05-08,7,2660.08,19518.5,4.8,0,4.0,2,19,29,No,12,4.5,Yes
+CUST10014,41,Female,Kochi,Basic,Desktop,UPI,Beauty,2022-01-13,2024-08-20,7,5722.78,47421.99,12.0,0,3.6,1,24,14,Yes,9,0.8,No
+CUST10015,20,Female,Pune,Basic,Mobile,Credit Card,Fashion,2025-05-31,2025-12-31,10,2103.89,22993.02,18.8,1,4.4,0,24,30,No,11,1.7,No
+CUST10016,39,Female,Delhi,Basic,Desktop,Credit Card,Fashion,2024-04-02,2025-12-31,9,1535.71,13002.44,10.2,1,3.5,1,21,26,Yes,5,1.7,No
+CUST10017,19,Female,Pune,Silver,Mobile,UPI,Electronics,2022-01-07,2023-01-30,15,3958.26,48322.22,21.9,1,3.4,1,17,17,Yes,4,4.3,Yes
+CUST10018,41,Female,Bengaluru,Basic,Desktop,Debit Card,Grocery,2025-05-16,2025-12-31,7,5509.38,44665.56,8.1,0,4.0,0,20,25,Yes,3,5.7,No
+CUST10019,61,Female,Chennai,Gold,Tablet,Credit Card,Home & Kitchen,2023-09-27,2025-12-31,5,1603.16,9786.28,22.1,0,3.2,2,21,24,Yes,1,5.8,No
+CUST10020,47,Male,Hyderabad,Gold,Mobile,COD,Home & Kitchen,2023-09-04,2025-12-31,10,1815.9,17144.57,25.5,2,5.0,2,21,22,Yes,3,2.1,No
+CUST10021,55,Female,Chennai,Silver,Desktop,Net Banking,Fashion,2024-12-18,2025-12-31,8,4921.96,43877.15,23.1,1,5.0,3,18,22,No,6,5.6,No
+CUST10022,19,Male,Mumbai,Platinum,Desktop,Credit Card,Beauty,2023-01-27,2025-01-21,9,6543.66,56265.24,12.2,0,3.7,3,19,22,Yes,2,3.2,No
+CUST10023,38,Male,Chennai,Silver,Tablet,UPI,Fashion,2022-04-22,2025-01-24,9,3492.47,31467.86,0.0,1,3.1,1,24,18,Yes,2,1.8,No
+CUST10024,50,Other,Pune,Silver,Desktop,Debit Card,Electronics,2022-01-17,2025-11-11,11,2020.24,25961.34,19.7,1,4.2,0,17,15,Yes,10,0.9,No
+CUST10025,29,Male,Mumbai,Platinum,Mobile,Net Banking,Beauty,2021-06-04,2021-08-12,7,4723.14,26175.57,14.0,4,3.7,0,21,19,Yes,2,3.5,Yes
+CUST10026,39,Male,Mumbai,Basic,Mobile,Credit Card,Home & Kitchen,2021-09-14,2024-04-29,5,2431.46,12341.7,7.2,0,4.8,1,18,19,Yes,8,5.7,Yes
+CUST10027,61,Male,Kochi,Platinum,Mobile,Debit Card,Grocery,2025-11-15,2025-12-31,11,2049.14,19324.23,,2,3.5,1,16,20,No,13,5.0,No
+CUST10028,42,Female,Kochi,Basic,Desktop,Debit Card,Grocery,2022-11-05,2024-06-27,11,2186.31,22123.12,26.5,1,4.4,5,14,20,Yes,0,0.9,Yes
+CUST10029,44,Male,Mumbai,Silver,Mobile,Debit Card,Electronics,2021-03-09,2022-01-31,6,3727.78,23981.88,5.9,0,4.1,1,14,19,No,4,3.2,Yes
+CUST10030,59,Male,Hyderabad,Basic,Desktop,UPI,Fashion,2021-12-10,2025-01-25,8,2826.07,17264.22,18.7,0,3.6,2,16,14,Yes,8,0.8,No
+CUST10031,45,Male,Kochi,Gold,Mobile,COD,Electronics,2024-07-24,2024-08-23,9,3403.46,32068.12,16.7,2,4.2,0,24,28,Yes,13,2.9,No
+CUST10032,33,Male,Chennai,Silver,Mobile,Debit Card,Grocery,2022-11-04,2025-12-31,5,4008.99,17874.51,12.1,2,4.6,1,19,24,Yes,6,3.4,No
+CUST10033,32,Male,Pune,Gold,Mobile,Net Banking,Home & Kitchen,2022-01-26,2022-03-10,8,2489.66,21605.11,20.2,1,4.1,1,12,24,No,11,3.1,Yes
+CUST10034,64,Male,Chennai,Silver,Desktop,Credit Card,Grocery,2025-01-12,2025-12-31,13,4241.06,45253.29,28.1,1,4.1,3,16,29,Yes,11,4.5,No
+CUST10035,61,Female,Hyderabad,Silver,Mobile,Net Banking,Beauty,2021-09-16,2022-09-21,9,2779.2,27961.95,12.6,0,3.4,2,19,21,No,0,1.1,Yes
+CUST10036,20,Male,Bengaluru,Basic,Mobile,UPI,Sports,2021-11-03,2025-09-20,7,2201.19,16530.36,13.1,3,4.7,2,10,18,Yes,3,5.2,No
+CUST10037,54,Male,Coimbatore,Basic,Mobile,UPI,Grocery,2024-01-24,2025-12-31,6,1384.14,10261.63,20.0,1,4.7,4,11,27,No,5,1.8,No
+CUST10038,24,Male,Pune,Platinum,Mobile,Net Banking,Grocery,2023-08-08,2025-03-08,9,2442.12,26498.37,22.3,2,3.7,2,27,24,Yes,4,0.2,No
+CUST10039,38,Male,Kochi,Silver,Mobile,COD,Sports,2025-01-27,2025-12-31,10,5156.76,45980.32,14.0,1,,0,8,16,Yes,1,4.5,No
+CUST10040,26,Female,Pune,Gold,Desktop,UPI,Beauty,2023-08-28,2024-08-23,5,3916.23,14953.31,12.6,0,4.9,1,25,29,Yes,0,3.4,Yes
+CUST10041,56,Female,Chennai,Gold,Mobile,UPI,Fashion,2021-09-03,2024-01-10,10,3393.53,36571.54,0.0,0,3.3,1,17,25,Yes,10,4.4,Yes
+CUST10042,35,Male,Coimbatore,Silver,Mobile,Net Banking,Grocery,2023-01-03,2025-07-27,7,1666.43,12265.1,8.8,0,4.4,2,22,18,Yes,3,2.8,No
+CUST10043,21,Male,Delhi,Silver,Desktop,UPI,Electronics,2025-07-17,2025-12-31,12,2168.67,19874.93,5.9,2,3.6,3,14,21,Yes,11,0.0,No
+CUST10044,42,Male,Delhi,Basic,Tablet,COD,Grocery,2021-07-06,2021-08-14,10,3672.41,29795.69,20.5,1,5.0,4,18,22,Yes,9,0.8,Yes
+CUST10045,31,Female,Kochi,Basic,Mobile,COD,Electronics,2025-12-03,2025-12-31,9,4085.95,38330.94,13.0,0,4.0,3,23,15,Yes,4,2.7,No
+CUST10046,26,Female,Hyderabad,Basic,Mobile,COD,Beauty,2023-07-14,2024-06-21,9,3956.98,42945.99,12.7,1,4.8,4,19,23,Yes,14,2.4,Yes
+CUST10047,43,Female,Delhi,Silver,Desktop,Credit Card,Grocery,2023-02-24,2025-12-31,8,3100.67,29847.05,14.9,1,3.5,2,19,25,No,3,6.1,No
+CUST10048,19,Male,Pune,Silver,Tablet,COD,Beauty,2024-10-28,2025-12-31,8,1920.43,12686.25,8.0,3,3.2,3,24,22,Yes,2,0.9,No
+CUST10049,37,Female,Delhi,Silver,Desktop,COD,Beauty,2025-05-15,2025-12-31,8,4090.39,30834.57,27.4,0,3.8,0,21,20,No,9,4.2,No
+CUST10050,45,Male,Bengaluru,Silver,Mobile,Credit Card,Fashion,2024-11-30,2025-11-21,8,2161.5,13342.53,25.4,3,,1,19,21,No,14,3.7,No
+CUST10051,64,Male,Bengaluru,Silver,Mobile,Debit Card,Grocery,2022-02-12,2024-08-11,13,4115.94,52685.13,,3,3.7,1,17,19,Yes,7,0.0,No
+CUST10052,24,Male,Kochi,Gold,Desktop,UPI,Electronics,2024-02-23,2025-12-31,12,2444.43,33045.03,20.5,3,4.5,2,18,23,Yes,11,2.5,No
+CUST10053,61,Male,Bengaluru,Gold,Mobile,COD,Electronics,2024-09-22,2025-11-06,8,5589.0,51194.63,14.8,2,3.9,2,22,21,Yes,13,2.7,No
+CUST10054,25,Female,Delhi,Basic,Mobile,UPI,Grocery,2021-12-07,2023-06-16,5,2329.06,11639.42,27.9,3,2.6,2,21,24,Yes,5,5.1,Yes
+CUST10055,64,Female,Hyderabad,Basic,Desktop,Net Banking,,2022-07-17,2024-01-08,15,2308.83,27634.44,9.6,0,,1,17,24,Yes,10,0.0,Yes
+CUST10056,52,Male,Mumbai,Gold,Desktop,UPI,Fashion,2024-04-16,2025-12-31,11,2672.01,27648.63,8.0,0,3.4,2,14,23,No,14,4.0,No
+CUST10057,31,Female,Mumbai,Silver,Mobile,Credit Card,Fashion,2022-10-13,2025-12-31,12,1933.51,28214.96,10.2,2,3.8,1,18,19,No,13,3.3,No
+CUST10058,34,Other,Kochi,Gold,Desktop,UPI,Fashion,2023-08-10,2025-12-31,6,1778.14,9226.48,19.2,1,5.0,0,21,14,No,11,5.1,No
+CUST10059,53,Female,Coimbatore,Basic,Mobile,UPI,Electronics,2024-04-08,2025-12-31,14,1903.78,24250.88,,3,5.0,0,23,25,Yes,2,1.2,No
+CUST10060,57,Female,Mumbai,Silver,Mobile,UPI,Beauty,2023-11-29,2025-12-31,9,4840.11,48937.01,13.8,1,3.6,1,15,26,No,5,4.0,No
+CUST10061,21,Female,Mumbai,Basic,Desktop,Debit Card,Sports,2021-03-10,2024-06-09,6,1829.74,12260.62,2.2,1,4.4,2,25,21,Yes,14,0.3,Yes
+CUST10062,19,Other,Bengaluru,Basic,Mobile,Debit Card,Fashion,2024-06-13,2025-12-31,8,2318.57,22371.44,18.8,0,3.6,3,22,28,No,9,6.6,No
+CUST10063,23,Female,Bengaluru,Silver,Mobile,Net Banking,Electronics,2025-05-03,2025-12-31,9,6822.36,57966.41,2.9,0,3.8,1,15,25,Yes,7,1.7,No
+CUST10064,59,Male,Delhi,Silver,Tablet,Credit Card,Electronics,2022-01-16,2025-06-03,11,4172.89,46236.84,7.5,2,3.6,0,22,23,Yes,6,0.0,No
+CUST10065,21,Male,Kochi,Gold,Mobile,UPI,Beauty,2021-02-26,2022-04-25,6,4139.97,24434.84,24.7,0,2.9,3,19,26,Yes,14,0.8,Yes
+CUST10066,46,Female,Coimbatore,Gold,Mobile,UPI,Grocery,2024-07-24,2025-12-31,6,6339.48,46172.06,24.4,1,4.1,0,14,19,Yes,12,4.4,No
+CUST10067,35,Male,Kochi,Silver,Tablet,UPI,Grocery,2023-04-30,2023-07-24,5,2637.97,14966.07,18.0,0,4.2,1,19,14,Yes,0,2.4,Yes
+CUST10068,43,Female,Chennai,Gold,Desktop,UPI,Fashion,2024-01-28,2025-12-31,6,1139.25,7968.29,17.2,2,3.6,0,16,23,No,5,4.5,No
+CUST10069,61,Male,Pune,Basic,Desktop,Debit Card,Fashion,2023-07-05,2025-01-14,13,3966.53,42105.27,10.8,2,4.7,2,21,28,Yes,0,5.7,No
+CUST10070,51,Male,Coimbatore,Silver,Desktop,Net Banking,Sports,2025-03-31,2025-12-31,3,2510.48,8630.45,8.8,0,3.7,3,25,27,Yes,12,4.4,No
+CUST10071,27,Male,Coimbatore,Gold,Mobile,COD,Beauty,2021-11-21,2023-07-30,8,6851.05,52971.74,12.1,1,3.6,3,24,33,Yes,3,4.4,Yes
+CUST10072,53,Male,Hyderabad,Silver,Desktop,Credit Card,Fashion,2022-04-06,2025-12-31,10,1073.88,8179.41,2.9,1,4.3,3,19,23,Yes,9,0.5,No
+CUST10073,31,Female,Kochi,Silver,Mobile,UPI,Beauty,2021-06-28,2024-07-30,10,1778.56,13873.55,17.0,2,3.0,2,17,15,Yes,2,1.0,Yes
+CUST10074,48,Female,Delhi,Basic,Desktop,Net Banking,Electronics,2023-04-24,2025-10-09,8,2124.33,18506.38,15.4,0,4.6,1,28,27,No,6,0.1,No
+CUST10075,65,Female,Hyderabad,Silver,Mobile,COD,Fashion,2022-07-28,2024-12-05,11,2661.23,27400.21,7.5,2,3.7,0,14,23,Yes,1,2.6,Yes
+CUST10076,32,Female,Coimbatore,Gold,Desktop,Net Banking,Electronics,2021-04-29,2023-07-09,9,1472.7,15693.86,27.5,1,,2,24,22,No,12,6.4,Yes
+CUST10077,25,Male,Coimbatore,Gold,Mobile,,Home & Kitchen,2025-02-01,2025-12-31,11,3248.08,39914.04,19.9,2,4.8,0,17,23,Yes,11,2.0,No
+CUST10078,31,Female,Coimbatore,Gold,Mobile,COD,Beauty,2022-07-03,2022-07-18,11,2071.43,17336.29,20.5,0,4.4,2,28,23,No,3,6.0,Yes
+CUST10079,40,Female,Mumbai,Gold,Desktop,Net Banking,Home & Kitchen,2022-10-08,2025-12-31,4,4298.93,18802.56,11.1,0,3.5,2,14,21,Yes,14,0.0,No
+CUST10080,57,Female,Kochi,Silver,Desktop,Debit Card,Fashion,2025-01-18,2025-12-31,5,4992.88,21124.28,15.0,2,3.2,1,24,24,Yes,4,1.6,No
+CUST10081,38,Male,Pune,Silver,Desktop,Net Banking,Electronics,2021-01-26,2023-10-05,8,2380.55,18307.22,20.0,1,3.1,3,16,21,Yes,1,0.7,Yes
+CUST10082,33,Female,Pune,Basic,Mobile,Net Banking,Fashion,2025-02-22,2025-12-31,8,3489.45,29656.63,16.2,1,4.7,0,33,22,Yes,8,3.4,No
+CUST10083,62,Female,Hyderabad,Silver,Mobile,COD,Home & Kitchen,2023-10-29,2025-12-31,9,2769.01,29565.36,27.8,1,3.9,0,16,25,Yes,1,3.2,No
+CUST10084,35,Other,Coimbatore,Silver,Desktop,Debit Card,Fashion,2023-08-27,2024-01-22,5,2675.89,13085.76,13.4,3,3.6,0,22,23,Yes,5,0.0,Yes
+CUST10085,64,Female,Pune,Platinum,Desktop,UPI,Sports,2025-03-20,2025-12-31,10,1420.59,16397.09,11.0,1,3.9,0,22,25,No,11,0.8,No
+CUST10086,41,Male,Bengaluru,Silver,Desktop,Credit Card,Grocery,2022-06-17,2024-11-16,14,2609.66,41704.35,20.1,3,4.7,2,23,27,Yes,7,4.8,No
+CUST10087,43,Female,Kochi,Silver,Tablet,COD,Home & Kitchen,2021-05-29,2024-04-23,9,4102.04,35340.81,4.9,2,4.5,0,12,16,Yes,11,4.4,Yes
+CUST10088,42,Female,Pune,Silver,Desktop,Debit Card,Fashion,2025-02-20,2025-12-31,10,3286.28,32878.91,22.4,0,4.3,0,18,19,Yes,6,0.8,No
+CUST10089,62,Male,Delhi,Silver,Mobile,Net Banking,Electronics,2023-11-15,2025-12-31,11,1799.73,21781.53,4.6,1,4.4,3,19,27,No,13,1.0,No
+CUST10090,58,Female,Kochi,Gold,Desktop,Debit Card,Fashion,2022-10-17,2024-04-04,6,1426.18,6551.08,20.1,2,4.1,1,19,22,Yes,14,2.3,Yes
+CUST10091,46,Female,Delhi,Basic,Tablet,Credit Card,Electronics,2025-11-16,2025-12-31,7,2567.74,21486.44,9.8,2,4.2,4,16,17,Yes,5,0.7,No
+CUST10092,32,Male,Pune,Silver,Mobile,Credit Card,Grocery,2023-08-03,2025-10-21,6,1952.65,13296.47,18.8,0,4.1,1,18,26,Yes,14,3.3,No
+CUST10093,62,Male,Bengaluru,Gold,Desktop,UPI,Fashion,2022-07-09,2023-12-06,11,2055.97,19782.11,22.3,1,4.0,1,27,20,Yes,7,2.1,Yes
+CUST10094,18,Male,Delhi,Silver,Desktop,UPI,Grocery,2022-03-01,2025-11-06,8,1967.89,19530.76,16.2,0,4.5,0,22,23,Yes,4,4.4,No
+CUST10095,42,Male,Mumbai,Basic,Mobile,Credit Card,Home & Kitchen,2021-10-20,2022-07-12,10,2785.95,23393.49,5.4,1,4.2,3,27,31,Yes,9,2.0,Yes
+CUST10096,24,Male,Pune,Gold,Mobile,COD,Electronics,2024-04-23,2025-12-31,12,3599.94,52143.4,7.8,3,3.4,0,20,24,No,8,4.3,No
+CUST10097,26,Female,Mumbai,Gold,Mobile,COD,Sports,2022-07-08,2025-12-01,8,1919.26,14006.56,9.2,1,4.3,5,16,23,Yes,1,1.5,No
+CUST10098,41,Male,Pune,Basic,Tablet,Net Banking,Home & Kitchen,2022-03-07,2022-03-29,9,1881.37,19160.17,0.0,0,4.2,0,19,20,Yes,5,1.5,Yes
+CUST10099,18,Male,Chennai,Gold,Desktop,UPI,Electronics,2022-08-27,2022-12-27,10,1535.14,15016.56,24.0,0,4.4,0,26,20,No,11,2.4,Yes
+CUST10100,61,Female,Chennai,Gold,Mobile,Net Banking,Grocery,2021-11-13,2024-02-22,10,2994.45,33484.95,15.9,1,3.9,1,18,26,Yes,9,0.0,Yes
+CUST10101,25,Female,Chennai,Silver,Tablet,UPI,Beauty,2022-02-02,2023-07-24,6,4056.65,20150.8,5.9,1,4.5,2,12,27,Yes,11,2.4,Yes
+CUST10102,41,Male,Delhi,Platinum,Mobile,Credit Card,Fashion,2024-09-09,2025-12-31,11,2627.09,25567.59,26.6,1,4.0,4,23,21,Yes,11,4.7,No
+CUST10103,28,Male,Mumbai,Gold,Mobile,COD,Grocery,2025-05-08,2025-12-31,9,3607.91,25974.64,9.4,0,,1,29,23,Yes,10,0.2,No
+CUST10104,34,Male,Mumbai,Gold,Desktop,COD,Electronics,2022-08-19,2023-03-04,12,4565.27,64785.13,17.0,3,3.7,3,21,22,Yes,6,4.5,Yes
+CUST10105,25,Female,Mumbai,Gold,Desktop,Credit Card,Electronics,2022-06-30,2025-12-31,9,3083.06,24921.36,8.4,3,3.7,3,30,25,Yes,8,2.7,No
+CUST10106,52,Male,Bengaluru,Basic,Mobile,Net Banking,Electronics,2021-03-17,2023-10-09,6,1820.22,11983.29,0.0,2,4.4,1,17,26,Yes,4,2.9,Yes
+CUST10107,52,Female,Mumbai,Basic,Mobile,Net Banking,Electronics,2023-05-15,2025-12-31,10,1729.9,20068.75,4.1,2,3.8,0,22,23,Yes,5,3.3,No
+CUST10108,50,Other,Bengaluru,Silver,Mobile,Debit Card,Fashion,2023-07-05,2025-12-31,10,1870.02,22453.5,11.4,0,5.0,1,19,25,Yes,8,1.9,No
+CUST10109,22,Male,Chennai,Basic,Mobile,UPI,Home & Kitchen,2022-12-10,2025-12-31,10,5904.0,47417.89,22.2,1,4.4,2,21,22,No,9,3.2,No
+CUST10110,59,Female,Chennai,Silver,Mobile,Net Banking,Sports,2022-05-01,2025-12-31,6,6687.05,48006.63,17.8,1,4.0,0,19,18,Yes,5,2.0,No
+CUST10111,56,Other,Delhi,Platinum,Mobile,Credit Card,Beauty,2025-12-27,2025-12-31,11,2337.81,21823.2,16.1,0,4.5,0,20,25,Yes,13,1.3,No
+CUST10112,58,Male,Pune,Gold,Mobile,Net Banking,Fashion,2024-01-17,2025-12-31,11,4461.27,54886.83,0.0,0,3.7,0,11,21,Yes,10,4.9,No
+CUST10113,45,Female,Chennai,Silver,Mobile,COD,Electronics,2023-01-17,2025-12-31,10,4828.75,53812.77,25.2,2,4.6,0,12,31,Yes,11,0.0,No
+CUST10114,24,Female,Pune,Gold,Mobile,UPI,Fashion,2024-06-09,2025-12-31,9,1435.72,9746.05,16.8,0,4.6,3,20,21,No,0,1.5,No
+CUST10115,26,Female,Pune,Gold,Mobile,Debit Card,Grocery,2023-10-28,2024-05-27,9,5747.05,44498.3,14.0,2,4.8,0,9,20,Yes,3,4.2,Yes
+CUST10116,25,Female,Kochi,Silver,Desktop,UPI,Sports,2022-07-04,2025-12-31,11,2467.33,27030.83,24.1,1,3.7,0,19,27,Yes,3,0.7,No
+CUST10117,29,Female,Delhi,Basic,Desktop,COD,Electronics,2023-09-03,2023-10-24,11,2411.78,25468.86,25.0,0,3.2,3,25,23,Yes,2,2.2,Yes
+CUST10118,51,Female,Coimbatore,Silver,Mobile,COD,Beauty,2023-12-12,2025-12-31,4,1562.87,7559.83,24.2,1,3.6,0,16,18,No,13,0.0,No
+CUST10119,50,Female,Coimbatore,Gold,Mobile,COD,Electronics,2025-08-06,2025-12-31,15,5922.2,82603.18,13.0,3,3.8,0,16,26,Yes,7,1.7,No
+CUST10120,65,Female,Hyderabad,Silver,Mobile,COD,Sports,2023-07-31,2025-12-31,12,2857.54,41782.67,7.0,1,,1,18,21,Yes,5,0.0,No
+CUST10121,40,Female,Kochi,Gold,Mobile,Credit Card,Beauty,2023-07-08,2024-01-03,9,5645.46,49778.46,22.9,3,5.0,2,18,21,No,6,1.1,Yes
+CUST10122,41,Female,Delhi,Basic,Mobile,Debit Card,Sports,2024-11-20,2025-04-03,9,4691.49,52026.69,4.1,2,4.2,0,15,24,Yes,8,2.8,No
+CUST10123,54,Male,Hyderabad,Gold,Mobile,,Beauty,2024-05-29,2025-12-31,9,2357.03,23730.81,30.6,4,4.0,1,25,16,Yes,7,2.4,No
+CUST10124,52,Male,Hyderabad,Gold,Mobile,COD,Home & Kitchen,2024-12-22,2025-12-31,10,2900.15,33777.1,15.2,2,3.8,1,11,23,Yes,2,4.7,No
+CUST10125,61,Male,Kochi,Gold,Desktop,Net Banking,Home & Kitchen,2025-11-11,2025-12-31,13,2038.33,21263.25,6.5,0,4.5,0,23,21,No,14,3.9,No
+CUST10126,57,Male,Coimbatore,Platinum,Mobile,Debit Card,Fashion,2024-03-12,2025-12-31,14,2150.74,31407.23,5.1,0,5.0,2,14,23,Yes,3,1.8,No
+CUST10127,39,Male,Delhi,Gold,Mobile,UPI,Fashion,2021-12-29,2022-10-26,12,3371.11,33226.34,4.8,0,5.0,1,26,25,Yes,0,4.4,Yes
+CUST10128,44,Female,Coimbatore,Platinum,Desktop,Debit Card,Beauty,2022-01-17,2024-02-08,8,3862.39,27772.45,16.1,1,4.7,0,22,15,No,13,2.2,Yes
+CUST10129,52,Male,Hyderabad,Platinum,Mobile,Debit Card,Electronics,2025-05-04,2025-12-31,8,1121.42,9525.63,14.9,0,4.7,1,12,21,Yes,3,1.1,No
+CUST10130,18,Female,Delhi,Gold,Mobile,Debit Card,Grocery,2024-07-24,2025-12-31,6,1136.36,7589.38,5.1,1,4.5,3,17,18,Yes,11,0.0,No
+CUST10131,52,Male,Hyderabad,Gold,Mobile,COD,Grocery,2021-09-28,2023-01-07,7,2177.99,11733.14,12.1,0,4.0,3,15,20,No,8,5.4,Yes
+CUST10132,54,Female,Mumbai,Basic,Mobile,COD,Electronics,2023-11-04,2025-09-05,4,3148.11,12787.27,4.1,0,3.5,2,14,22,Yes,4,5.1,No
+CUST10133,64,Other,Kochi,Silver,Desktop,Credit Card,Electronics,2021-10-25,2025-05-27,10,4866.25,50251.67,19.7,0,4.0,2,16,22,No,2,2.1,No
+CUST10134,31,Male,Pune,Silver,Mobile,UPI,Home & Kitchen,2023-10-01,2025-12-31,14,2837.71,31361.79,14.6,1,4.3,0,18,23,No,1,2.3,No
+CUST10135,20,Female,Delhi,Basic,Mobile,Net Banking,Grocery,2025-01-27,2025-12-31,8,2461.19,19696.29,12.0,1,3.1,0,22,18,No,5,2.0,No
+CUST10136,18,Male,Delhi,Basic,Mobile,Debit Card,Beauty,2025-03-31,2025-12-31,8,3579.29,31695.93,4.7,0,3.9,0,22,23,Yes,3,0.0,No
+CUST10137,22,Female,Pune,Platinum,Mobile,UPI,Sports,2021-08-22,2025-11-04,12,1806.44,16834.87,12.6,1,3.5,4,23,20,Yes,5,2.3,No
+CUST10138,43,Male,Hyderabad,Platinum,Desktop,UPI,Fashion,2022-07-29,2025-04-03,7,2870.38,22707.4,11.7,0,4.7,0,20,21,Yes,2,0.0,No
+CUST10139,31,Female,Mumbai,Gold,Desktop,Credit Card,Sports,2025-09-28,2025-12-31,10,2601.01,27004.03,,1,3.6,4,15,34,Yes,2,0.1,No
+CUST10140,56,Male,Bengaluru,Silver,Mobile,Net Banking,Home & Kitchen,2021-01-27,2022-02-17,14,2971.48,48531.97,16.3,1,4.2,2,15,27,Yes,0,2.5,Yes
+CUST10141,44,Female,Pune,Basic,Mobile,Debit Card,,2025-02-03,2025-12-31,12,4584.99,47263.8,21.3,3,3.5,0,20,26,Yes,8,4.1,No
+CUST10142,26,Female,Kochi,Basic,Mobile,Net Banking,Electronics,2021-04-03,2024-01-15,12,1218.99,17065.42,11.1,1,5.0,2,20,19,Yes,6,0.0,Yes
+CUST10143,32,Male,Coimbatore,Basic,Desktop,Credit Card,Grocery,2022-09-09,2025-12-31,9,2667.38,19139.85,0.1,0,2.9,4,19,25,Yes,8,2.2,No
+CUST10144,32,Male,Hyderabad,Basic,Mobile,COD,Beauty,2021-11-05,2025-05-22,13,3855.34,47709.42,22.9,0,4.3,1,26,22,Yes,10,2.4,No
+CUST10145,43,Male,Pune,Basic,Mobile,UPI,Home & Kitchen,2021-02-21,2022-06-26,13,3469.97,38331.55,7.5,1,3.2,1,20,26,No,0,2.2,Yes
+CUST10146,59,Male,Pune,Platinum,Mobile,Debit Card,Electronics,2021-11-15,2022-06-28,16,1271.02,24159.76,6.1,1,3.7,0,25,15,No,7,3.2,Yes
+CUST10147,30,Female,Delhi,Gold,Mobile,COD,Sports,2021-06-30,2022-08-23,5,1133.82,6249.96,14.7,6,4.1,3,20,21,Yes,1,4.0,Yes
+CUST10148,49,Male,Coimbatore,Basic,Mobile,Credit Card,Beauty,2025-05-12,2025-12-31,7,3728.83,19907.35,17.4,2,4.2,1,20,18,Yes,2,2.6,No
+CUST10149,56,Male,Coimbatore,Basic,Mobile,Net Banking,Sports,2024-02-18,2025-12-31,6,1244.86,5637.44,10.8,1,4.1,0,22,25,Yes,0,5.6,No
+CUST10150,49,Male,Kochi,Silver,Mobile,UPI,,2023-05-25,2025-02-09,9,2894.58,23332.11,10.7,1,4.1,1,18,17,Yes,6,2.1,No
+CUST10151,21,Female,Coimbatore,Basic,Mobile,Debit Card,Home & Kitchen,2023-12-03,2025-12-31,11,4446.09,40184.02,11.9,0,3.6,3,16,27,Yes,11,0.5,No
+CUST10152,47,Male,Pune,Platinum,Mobile,COD,Beauty,2022-10-09,2024-05-26,8,1390.28,11846.88,26.3,0,3.9,0,11,19,Yes,10,6.1,Yes
+CUST10153,54,Male,Bengaluru,Silver,Desktop,COD,Beauty,2024-07-07,2025-12-31,8,5659.88,48987.32,15.0,1,4.0,1,20,17,No,4,7.4,No
+CUST10154,40,Male,Chennai,Silver,Mobile,UPI,Sports,2021-07-16,2021-08-24,4,3672.3,17935.15,7.3,3,4.1,1,18,27,Yes,12,3.7,Yes
+CUST10155,56,Male,Hyderabad,Silver,Mobile,Net Banking,Electronics,2022-10-07,2024-07-09,11,8440.94,113836.37,7.3,0,4.0,1,15,24,No,10,0.0,No
+CUST10156,62,Female,Chennai,Basic,Desktop,Credit Card,Fashion,2023-08-29,2025-12-31,10,2211.78,23875.02,13.0,1,4.5,2,19,18,Yes,2,3.0,No
+CUST10157,32,Male,Pune,Silver,Mobile,Net Banking,Sports,2021-09-12,2025-04-15,9,4968.78,33666.16,16.9,2,4.1,3,20,21,Yes,12,1.1,No
+CUST10158,60,Male,Chennai,Gold,Desktop,Net Banking,Beauty,2023-01-02,2023-12-23,10,2323.82,21599.88,18.9,5,4.1,3,17,25,Yes,3,5.5,Yes
+CUST10159,46,Female,Pune,Gold,Desktop,Net Banking,Home & Kitchen,2021-12-02,2022-07-16,8,2814.15,22661.13,16.0,3,3.8,0,30,24,Yes,11,2.5,Yes
+CUST10160,53,Female,Chennai,Basic,Mobile,UPI,Beauty,2025-04-26,2025-12-31,8,2018.29,16139.7,8.3,1,3.3,0,20,22,Yes,11,1.1,No
+CUST10161,30,Male,Coimbatore,Silver,Tablet,UPI,Grocery,2025-03-06,2025-12-31,11,2753.68,31855.6,11.6,0,4.1,3,16,22,No,9,3.2,No
+CUST10162,49,Female,Mumbai,Silver,Mobile,Credit Card,Home & Kitchen,2023-09-17,2025-05-11,7,4172.45,35932.85,20.9,2,4.8,2,18,15,Yes,5,5.1,No
+CUST10163,24,Female,Coimbatore,Gold,Mobile,Net Banking,Home & Kitchen,2023-06-19,2024-04-24,7,5752.12,48019.7,5.8,0,,6,17,18,Yes,5,0.9,Yes
+CUST10164,39,Male,Coimbatore,Silver,Mobile,UPI,Beauty,2024-07-02,2025-12-31,9,1834.9,13284.83,11.3,1,,3,16,30,Yes,14,4.0,No
+CUST10165,45,Female,Kochi,Silver,Mobile,Credit Card,Electronics,2022-05-29,2025-06-28,12,3010.14,31895.09,19.8,0,4.5,2,14,34,Yes,1,0.0,No
+CUST10166,19,Female,Delhi,Silver,Desktop,Credit Card,Home & Kitchen,2025-09-27,2025-12-31,9,2136.13,22427.21,22.0,1,,3,24,22,Yes,6,2.3,No
+CUST10167,59,Male,Delhi,Silver,Desktop,Net Banking,Grocery,2021-08-30,2022-11-14,12,3082.46,42987.5,13.5,0,,0,18,24,Yes,11,0.0,Yes
+CUST10168,62,Male,Chennai,Silver,Desktop,Debit Card,Sports,2021-05-29,2024-02-03,9,4454.29,35586.07,11.7,1,3.8,2,17,24,Yes,12,0.8,Yes
+CUST10169,23,Male,Pune,Silver,Tablet,Net Banking,Electronics,2025-09-30,2025-12-31,11,2219.84,27233.52,4.4,1,4.2,1,19,27,Yes,1,4.9,No
+CUST10170,45,Female,Kochi,Silver,Desktop,Debit Card,Electronics,2024-08-15,2025-12-31,7,3398.95,25839.26,19.2,0,3.7,4,23,22,Yes,8,1.8,No
+CUST10171,45,Other,Coimbatore,Gold,Mobile,Credit Card,Electronics,2023-01-27,2025-12-31,9,1782.82,15832.97,25.6,3,3.7,1,17,15,Yes,13,1.0,No
+CUST10172,61,Female,Kochi,Silver,Mobile,UPI,Home & Kitchen,2022-09-12,2025-12-31,8,4623.35,31465.69,35.5,3,3.0,3,15,13,No,1,4.8,No
+CUST10173,61,Male,Chennai,Platinum,Mobile,COD,Electronics,2022-03-29,2022-06-06,8,3919.63,37450.39,18.1,3,4.3,0,16,18,Yes,4,3.7,Yes
+CUST10174,37,Female,Delhi,Silver,Mobile,Credit Card,Beauty,2024-11-17,2025-12-31,4,1925.7,8387.78,14.6,1,4.2,0,15,16,No,7,0.0,No
+CUST10175,47,Female,Mumbai,Platinum,Desktop,UPI,Electronics,2021-07-31,2024-01-12,12,1904.23,19068.88,7.6,2,,1,15,27,Yes,7,2.4,Yes
+CUST10176,28,Male,Hyderabad,Gold,Mobile,Credit Card,Grocery,2022-10-30,2025-12-31,8,5100.86,44985.55,0.0,2,4.2,2,15,31,Yes,12,2.6,No
+CUST10177,45,Male,Chennai,Silver,Mobile,Net Banking,Fashion,2025-04-11,2025-12-31,7,6514.56,51106.84,16.4,1,3.5,0,19,28,Yes,10,4.1,No
+CUST10178,42,Female,Kochi,Gold,Mobile,Debit Card,Grocery,2022-08-17,2025-12-31,12,1964.42,28133.01,33.8,1,4.6,0,15,20,Yes,12,1.9,No
+CUST10179,56,Male,Mumbai,Basic,Mobile,Credit Card,Home & Kitchen,2025-06-07,2025-12-31,3,4185.82,10817.24,25.2,0,4.6,1,21,18,No,14,6.4,No
+CUST10180,50,Female,Hyderabad,Platinum,Mobile,UPI,Electronics,2021-05-11,2023-05-20,8,2367.19,23565.42,23.9,0,3.5,1,15,24,Yes,3,3.1,Yes
+CUST10181,18,Male,Bengaluru,Silver,Mobile,Net Banking,Electronics,2024-09-14,2024-10-02,10,5105.27,42205.1,17.0,0,4.3,1,22,23,Yes,6,0.0,No
+CUST10182,44,Male,Chennai,Basic,Mobile,COD,Beauty,2022-09-04,2023-09-17,9,2423.21,22906.85,17.9,0,4.6,0,14,16,Yes,7,1.8,Yes
+CUST10183,30,Male,Chennai,Silver,Mobile,Net Banking,Sports,2021-09-13,2025-05-05,13,3777.29,52963.83,0.0,3,3.7,1,22,22,No,7,4.7,No
+CUST10184,58,Male,Bengaluru,Platinum,Desktop,Debit Card,Electronics,2025-02-11,2025-12-31,7,2967.4,19930.05,21.1,1,3.8,2,15,33,Yes,4,1.9,No
+CUST10185,20,Female,Bengaluru,Basic,Mobile,Net Banking,Grocery,2022-07-15,2024-08-20,14,976.54,13500.92,10.4,3,4.3,3,20,21,Yes,9,2.7,Yes
+CUST10186,56,Male,Chennai,Silver,Mobile,COD,Home & Kitchen,2021-03-04,2024-01-05,12,1843.48,26445.57,9.4,3,3.0,1,21,24,Yes,1,2.4,Yes
+CUST10187,23,Female,Bengaluru,Gold,Mobile,UPI,Fashion,2024-08-27,2025-12-31,13,3745.36,52226.36,12.4,1,3.3,1,22,27,Yes,1,0.0,No
+CUST10188,25,Female,Coimbatore,Gold,Mobile,Credit Card,Electronics,2022-02-11,2025-12-31,5,3540.98,17678.35,12.1,1,3.4,0,16,29,Yes,4,1.7,No
+CUST10189,44,Female,Hyderabad,Silver,Mobile,Debit Card,Fashion,2023-03-13,2024-05-26,15,3147.28,38436.54,,0,2.8,2,19,18,Yes,3,1.6,Yes
+CUST10190,26,Male,Hyderabad,Basic,Mobile,COD,Electronics,2024-02-03,2025-03-22,5,5847.09,22033.85,15.1,0,4.7,2,22,18,Yes,13,5.8,No
+CUST10191,54,Female,Hyderabad,Basic,Mobile,Debit Card,Home & Kitchen,2025-06-29,2025-12-31,13,4054.31,42822.82,10.5,2,2.7,0,22,16,Yes,3,5.2,No
+CUST10192,50,Female,Coimbatore,Silver,Mobile,Net Banking,Sports,2021-01-15,2021-11-29,6,3825.4,28187.67,15.8,4,4.2,0,22,17,No,2,0.1,Yes
+CUST10193,59,Male,Pune,Silver,Mobile,Debit Card,Grocery,2025-09-07,2025-12-31,7,969.36,7681.5,3.1,0,4.5,0,19,23,No,8,0.0,No
+CUST10194,61,Male,Bengaluru,Platinum,Mobile,COD,Home & Kitchen,2021-09-16,2022-01-12,13,4147.87,66516.31,13.3,2,3.8,3,16,27,Yes,7,3.9,Yes
+CUST10195,41,Female,Mumbai,Basic,Desktop,Credit Card,Fashion,2022-12-24,2025-12-31,10,1304.48,10016.51,6.2,3,3.6,3,18,23,Yes,3,2.5,No
+CUST10196,32,Other,Bengaluru,Gold,Mobile,Credit Card,Electronics,2024-12-06,2025-12-19,11,2756.2,33050.18,9.9,1,4.2,2,11,13,Yes,6,2.8,No
+CUST10197,49,Male,Chennai,Basic,Tablet,Debit Card,Fashion,2024-07-06,2025-12-31,10,1311.4,10125.93,16.1,2,4.0,1,26,20,Yes,7,0.2,No
+CUST10198,49,Female,Delhi,Basic,Mobile,UPI,Grocery,2022-09-06,2025-09-30,9,3438.02,35305.9,2.2,1,4.7,3,19,25,Yes,13,2.4,No
+CUST10199,41,Female,Kochi,Silver,Mobile,Debit Card,Home & Kitchen,2024-07-07,2025-12-31,12,4539.89,51235.84,8.4,1,2.3,1,25,19,Yes,5,1.1,No
+CUST10200,58,Female,Kochi,Silver,Desktop,Net Banking,Fashion,2025-08-22,2025-12-31,8,2654.53,16944.03,19.6,0,3.4,3,29,28,Yes,1,0.2,No
+CUST10201,29,Other,Hyderabad,Gold,Desktop,Credit Card,Fashion,2023-12-05,2025-10-25,11,2694.5,30647.93,3.7,0,4.4,1,10,16,Yes,7,1.8,No
+CUST10202,56,Female,Bengaluru,Platinum,Mobile,Credit Card,Grocery,2023-03-24,2025-12-31,8,1764.0,12560.53,29.2,1,,1,23,21,Yes,2,2.1,No
+CUST10203,19,Male,Mumbai,Silver,Mobile,Credit Card,Electronics,2025-11-22,2025-12-31,17,4504.33,82683.19,24.6,1,4.5,0,16,22,No,13,0.0,No
+CUST10204,20,Male,Chennai,Platinum,Mobile,UPI,Fashion,2021-11-27,2022-12-14,8,1370.57,11831.72,11.0,1,,0,16,14,Yes,3,1.7,Yes
+CUST10205,54,Male,Coimbatore,Platinum,Mobile,UPI,Grocery,2021-06-14,2023-06-23,13,2967.71,42534.85,8.7,3,3.9,1,19,24,Yes,3,1.1,Yes
+CUST10206,34,Female,Pune,Silver,Mobile,COD,Electronics,2024-05-01,2025-12-31,6,2637.62,19722.53,16.6,1,3.8,0,17,31,Yes,6,2.1,No
+CUST10207,19,Female,Coimbatore,Gold,Mobile,Debit Card,Sports,2025-03-25,2025-12-31,8,3282.83,24774.83,3.4,0,5.0,2,19,31,Yes,7,1.7,No
+CUST10208,19,Male,Mumbai,Silver,Mobile,Debit Card,Electronics,2024-11-25,2025-12-31,12,3960.83,46705.68,0.0,0,5.0,3,22,26,No,8,5.8,No
+CUST10209,45,Female,Chennai,Basic,Mobile,Net Banking,Sports,2024-10-29,2025-12-31,9,2567.68,26628.77,,1,4.3,1,26,29,Yes,0,3.0,No
+CUST10210,40,Female,Hyderabad,Gold,Desktop,Credit Card,Home & Kitchen,2023-12-25,2025-12-31,12,4160.94,51887.84,13.9,2,4.1,2,15,24,Yes,0,1.5,No
+CUST10211,54,Female,Bengaluru,Basic,Desktop,UPI,Grocery,2022-01-22,2022-05-08,7,2717.72,14622.42,15.8,1,4.3,2,17,27,No,11,4.5,Yes
+CUST10212,49,Male,Chennai,Silver,Tablet,Net Banking,Electronics,2025-02-27,2025-12-31,10,3230.97,37852.08,10.1,2,4.5,2,18,18,No,13,0.0,No
+CUST10213,50,Female,Kochi,Gold,Mobile,Net Banking,Sports,2025-12-23,2025-12-31,8,1623.76,10077.05,25.2,1,4.3,0,21,19,Yes,6,3.6,No
+CUST10214,18,Male,Pune,Basic,Desktop,UPI,Sports,2025-09-13,2025-12-31,6,2273.26,11394.63,3.0,4,3.5,2,18,24,Yes,3,2.9,No
+CUST10215,36,Male,Coimbatore,Basic,Desktop,Debit Card,Home & Kitchen,2024-12-09,2025-06-10,9,1241.25,8948.62,5.9,1,5.0,3,17,22,Yes,9,3.1,Yes
+CUST10216,19,Male,Pune,Platinum,Mobile,Credit Card,Beauty,2025-12-23,2025-12-31,5,2844.82,11222.3,18.9,1,4.2,2,20,18,Yes,7,1.5,No
+CUST10217,61,Male,Pune,Silver,Mobile,Debit Card,Grocery,2025-12-20,2025-12-31,5,3859.7,14721.71,5.7,0,5.0,0,21,20,Yes,4,4.2,No
+CUST10218,43,Male,Mumbai,Basic,Tablet,Net Banking,Beauty,2023-11-20,2024-03-14,5,2510.57,9760.01,5.4,1,4.1,1,25,29,Yes,0,3.2,Yes
+CUST10219,49,Female,Mumbai,Gold,Mobile,Credit Card,Electronics,2024-07-13,2025-12-31,13,2645.15,33397.28,16.0,1,3.8,2,28,19,Yes,1,4.2,No
+CUST10220,23,Male,Bengaluru,Silver,Mobile,COD,Grocery,2021-11-24,2024-09-12,7,3309.44,20303.36,6.6,2,4.9,1,19,17,Yes,9,0.7,Yes
+CUST10221,49,Female,Mumbai,Silver,Mobile,Net Banking,Home & Kitchen,2025-02-24,2025-09-19,10,3474.19,28254.49,13.9,2,4.2,1,21,21,Yes,13,4.7,No
+CUST10222,21,Male,Mumbai,Platinum,Mobile,Debit Card,Electronics,2024-05-25,2025-12-31,9,1216.52,11817.49,9.4,1,4.1,2,15,22,No,2,1.4,No
+CUST10223,28,Female,Chennai,Gold,Desktop,Debit Card,Grocery,2021-11-16,2024-04-18,5,2082.07,8984.71,8.1,1,3.2,3,22,16,Yes,1,0.0,Yes
+CUST10224,34,Other,Kochi,Silver,Mobile,Debit Card,Grocery,2022-02-03,2024-02-06,11,1306.67,10916.21,0.0,1,4.4,1,21,32,Yes,8,6.2,Yes
+CUST10225,55,Male,Hyderabad,Gold,Mobile,UPI,Beauty,2021-04-15,2024-11-29,14,2300.45,30892.6,16.1,4,3.7,1,17,28,Yes,12,4.2,No
+CUST10226,41,Male,Bengaluru,Platinum,Mobile,Net Banking,Electronics,2022-11-27,2025-12-31,8,5349.91,38742.61,5.0,0,3.7,1,23,20,No,6,6.3,No
+CUST10227,22,Male,Chennai,Basic,Mobile,Credit Card,Home & Kitchen,2023-10-14,2025-12-31,7,3884.05,24722.43,13.7,3,3.7,1,17,23,Yes,1,2.5,No
+CUST10228,51,Female,Hyderabad,Basic,Mobile,Debit Card,Home & Kitchen,2021-11-26,2024-07-30,12,2752.59,32127.18,10.9,0,4.3,3,19,18,Yes,6,4.5,Yes
+CUST10229,23,Female,Pune,Basic,Mobile,Debit Card,Electronics,2022-10-22,2025-07-07,7,6038.89,45842.41,13.3,1,3.0,3,24,26,No,11,5.0,No
+CUST10230,39,Male,Chennai,Gold,Desktop,UPI,Electronics,2025-06-29,2025-12-31,9,3167.44,30167.19,13.8,0,3.9,1,20,23,Yes,11,1.8,No
+CUST10231,28,Female,Delhi,Silver,Mobile,Credit Card,Sports,2023-12-07,2024-12-16,7,7555.35,64450.28,16.5,1,4.6,1,17,22,No,9,0.0,No
+CUST10232,65,Male,Chennai,Silver,Mobile,Net Banking,Fashion,2022-08-22,2022-10-18,14,2939.74,41520.94,9.2,1,3.2,2,17,29,Yes,0,3.3,Yes
+CUST10233,33,Male,Mumbai,Platinum,Desktop,COD,Beauty,2023-04-01,2023-10-13,8,2077.57,16392.61,24.9,2,4.1,1,16,17,Yes,13,3.1,Yes
+CUST10234,50,Female,Hyderabad,Gold,Mobile,UPI,Electronics,2022-10-03,2024-03-11,6,1565.47,8046.9,0.2,2,3.6,3,20,17,Yes,13,3.2,Yes
+CUST10235,26,Male,Bengaluru,Basic,Desktop,Net Banking,Electronics,2025-11-29,2025-12-31,9,3696.35,37515.05,13.2,2,3.7,1,15,27,No,4,2.5,No
+CUST10236,23,Female,Bengaluru,Basic,Desktop,COD,Fashion,2021-11-10,2022-09-06,6,2289.63,11270.31,21.7,1,5.0,3,17,29,Yes,4,1.5,Yes
+CUST10237,33,Male,Hyderabad,Silver,Desktop,Debit Card,Fashion,2024-03-16,2025-12-31,13,2937.09,38012.89,18.8,2,2.9,0,21,27,Yes,8,1.3,No
+CUST10238,46,Other,Mumbai,Silver,Mobile,Debit Card,Grocery,2022-04-07,2025-12-31,12,3430.35,39544.85,7.2,3,4.5,1,20,15,No,3,3.9,No
+CUST10239,20,Male,Coimbatore,Gold,Mobile,Credit Card,Home & Kitchen,2025-05-27,2025-12-31,12,1838.03,23802.13,8.5,2,,3,16,26,Yes,3,0.0,No
+CUST10240,37,Male,Chennai,Platinum,Mobile,COD,Beauty,2022-05-01,2025-05-26,9,3143.35,34197.44,6.9,1,3.7,1,23,16,Yes,5,0.0,No
+CUST10241,53,Female,Mumbai,Basic,Mobile,Debit Card,Grocery,2025-08-03,2025-12-31,6,2530.05,18570.03,19.8,1,3.3,1,19,23,Yes,14,0.0,No
+CUST10242,36,Male,Delhi,Silver,Desktop,Debit Card,Electronics,2022-02-14,2022-11-12,10,1343.67,11204.86,9.1,0,4.5,1,21,22,Yes,13,0.0,Yes
+CUST10243,43,Other,Kochi,Gold,Desktop,Credit Card,Fashion,2021-01-27,2024-07-05,13,3514.63,40248.88,17.0,0,3.9,0,18,22,No,10,2.2,No
+CUST10244,20,Female,Pune,Silver,Desktop,Net Banking,Sports,2023-11-19,2025-05-08,15,3724.95,64580.44,17.1,1,3.8,1,20,23,No,1,3.6,No
+CUST10245,36,Female,Hyderabad,Basic,Tablet,Debit Card,Home & Kitchen,2021-09-28,2023-11-01,5,4883.95,24642.94,33.9,0,4.1,4,27,23,Yes,13,3.5,Yes
+CUST10246,37,Female,Kochi,Silver,Desktop,UPI,Grocery,2022-11-17,2025-10-16,7,1588.74,10860.02,17.5,4,3.9,1,16,22,Yes,9,0.1,No
+CUST10247,49,Female,Chennai,Basic,Mobile,UPI,Sports,2022-05-16,2025-11-25,12,6582.17,87304.28,8.5,2,2.7,1,22,25,No,5,0.0,No
+CUST10248,24,Female,Bengaluru,Platinum,Mobile,Net Banking,Home & Kitchen,2024-06-30,2025-12-31,10,1926.43,20246.06,3.3,1,3.7,1,20,16,Yes,6,2.8,No
+CUST10249,58,Female,Pune,Basic,Desktop,COD,Sports,2022-01-20,2023-11-22,11,6774.42,92057.1,12.8,2,4.6,2,20,27,Yes,3,3.5,No
+CUST10250,50,Female,Kochi,Silver,Mobile,Credit Card,Fashion,2021-03-01,2022-01-29,6,1026.62,6418.35,14.0,0,3.0,2,27,20,Yes,9,3.7,Yes
+CUST10251,57,Male,Coimbatore,Silver,Mobile,UPI,Grocery,2024-02-05,2025-12-31,5,2806.59,13794.21,0.0,0,3.3,1,13,21,No,8,0.0,No
+CUST10252,56,Male,Kochi,Platinum,Mobile,UPI,Grocery,2021-08-08,2022-10-07,6,3283.77,20124.43,9.3,3,3.7,2,20,29,Yes,4,4.2,Yes
+CUST10253,35,Female,Delhi,Basic,Desktop,Net Banking,Home & Kitchen,2025-01-04,2025-12-31,9,2578.36,26785.11,17.4,0,3.5,1,25,22,No,13,2.9,No
+CUST10254,57,Male,Bengaluru,Basic,Mobile,COD,Sports,2023-02-10,2025-12-31,13,1578.11,21671.22,10.7,1,4.0,0,16,26,Yes,2,0.5,No
+CUST10255,18,Female,Hyderabad,Basic,Desktop,COD,Fashion,2025-08-09,2025-12-31,7,2209.14,16600.95,22.7,4,3.3,1,18,30,Yes,8,1.2,No
+CUST10256,28,Male,Chennai,Basic,Desktop,Net Banking,Electronics,2022-07-18,2023-07-06,17,3195.65,67131.76,2.5,3,3.7,2,17,25,Yes,0,0.7,Yes
+CUST10257,45,Male,Hyderabad,Basic,Mobile,UPI,Grocery,2025-05-15,2025-12-31,6,7041.14,44747.76,20.4,4,4.0,2,16,29,Yes,7,0.9,No
+CUST10258,42,Female,Pune,Silver,Mobile,Credit Card,Electronics,2022-06-30,2025-12-25,8,1615.02,12146.79,22.3,0,4.4,1,14,19,Yes,0,4.7,No
+CUST10259,40,Female,Chennai,Basic,Mobile,UPI,Fashion,2021-04-06,2022-04-21,11,2068.75,24933.18,22.7,1,4.8,1,22,14,Yes,9,3.5,Yes
+CUST10260,48,Male,Mumbai,Basic,Desktop,COD,Grocery,2023-09-16,2024-12-07,8,1425.04,12309.26,2.5,0,3.8,0,16,28,Yes,7,0.3,No
+CUST10261,47,Female,Coimbatore,Gold,Desktop,UPI,Grocery,2024-01-18,2025-12-31,11,2297.96,19133.19,17.5,0,5.0,0,19,20,Yes,4,1.6,No
+CUST10262,59,Female,Mumbai,Silver,Desktop,Credit Card,Sports,2023-04-08,2024-07-14,7,2661.27,18324.58,9.6,2,3.9,0,21,21,No,6,3.7,Yes
+CUST10263,52,Male,Mumbai,Silver,Mobile,Debit Card,Electronics,2021-08-19,2023-01-22,9,4288.55,43284.62,3.8,0,4.5,2,20,35,No,7,0.0,Yes
+CUST10264,24,Female,Hyderabad,Basic,Mobile,UPI,Sports,2023-08-26,2025-12-31,11,3224.68,35454.48,11.7,2,5.0,2,18,29,Yes,14,3.7,No
+CUST10265,33,Male,Pune,Platinum,Mobile,Net Banking,Beauty,2021-10-02,2021-12-17,6,5234.02,35794.75,7.8,0,4.1,1,13,28,Yes,10,6.5,Yes
+CUST10266,43,Male,Coimbatore,Basic,Desktop,Debit Card,Electronics,2021-09-03,2025-06-03,7,2716.41,18547.9,22.4,3,3.1,1,21,16,Yes,11,3.1,No
+CUST10267,65,Other,Kochi,Platinum,Mobile,Net Banking,Electronics,2021-04-21,2021-11-08,11,635.46,8679.28,19.1,1,4.1,1,27,29,No,0,2.1,Yes
+CUST10268,19,Male,Chennai,Gold,Mobile,Net Banking,Beauty,2021-08-22,2025-12-14,4,3292.9,11807.63,5.8,0,3.6,2,21,22,Yes,0,0.0,No
+CUST10269,18,Female,Chennai,Basic,Mobile,Net Banking,Fashion,2024-07-25,2025-12-31,2,1170.03,1862.83,9.2,2,3.8,0,16,24,Yes,6,0.0,Yes
+CUST10270,65,Female,Delhi,Platinum,Mobile,UPI,Fashion,2025-02-09,2025-12-31,6,4227.03,24474.65,12.0,3,5.0,4,16,23,Yes,0,1.5,No
+CUST10271,29,Male,Bengaluru,Basic,Mobile,COD,Grocery,2022-02-21,2024-07-05,15,2718.06,41621.16,14.4,0,3.2,0,24,25,Yes,3,3.5,No
+CUST10272,22,Female,Delhi,Basic,Mobile,Debit Card,Home & Kitchen,2022-11-09,2024-07-23,9,2026.59,16863.1,23.1,1,4.2,1,15,20,Yes,14,2.2,Yes
+CUST10273,54,Female,Kochi,Gold,Mobile,Credit Card,Sports,2024-02-26,2025-12-31,8,1520.4,10595.86,20.5,0,3.4,0,21,19,Yes,5,5.0,No
+CUST10274,49,Male,Delhi,Gold,Mobile,COD,Home & Kitchen,2024-06-14,2025-12-31,8,2164.93,18809.42,15.4,2,3.8,1,23,25,Yes,1,3.2,No
+CUST10275,26,Female,Chennai,Silver,Desktop,UPI,Grocery,2023-03-14,2023-12-07,12,2660.05,29959.48,12.9,1,4.5,2,23,22,Yes,9,0.9,Yes
+CUST10276,58,Female,Hyderabad,Basic,Desktop,Net Banking,Home & Kitchen,2022-09-11,2024-04-26,9,6141.88,58907.74,0.8,0,4.2,0,20,26,Yes,4,5.0,No
+CUST10277,52,Female,Mumbai,Silver,Mobile,Credit Card,Electronics,2024-02-26,2025-01-19,3,2557.11,8741.75,25.3,2,3.9,0,20,24,Yes,9,3.7,Yes
+CUST10278,36,Female,Pune,Gold,Desktop,Debit Card,Electronics,2022-12-08,2025-09-23,15,3055.34,51810.99,11.4,1,3.6,2,18,18,Yes,9,0.0,No
+CUST10279,65,Male,Mumbai,Basic,Mobile,COD,Beauty,2023-05-01,2025-12-31,10,2624.85,24612.03,27.4,2,4.2,0,19,18,Yes,10,0.5,No
+CUST10280,33,Female,Mumbai,Basic,Mobile,COD,Beauty,2024-11-18,2025-12-31,6,3058.41,18973.44,,0,5.0,1,9,23,Yes,10,1.5,No
+CUST10281,20,Female,Coimbatore,Basic,Desktop,Credit Card,Grocery,2022-04-20,2023-07-09,12,2974.26,34792.74,31.2,3,3.4,2,24,15,Yes,14,6.0,Yes
+CUST10282,37,Female,Chennai,Basic,Desktop,UPI,Grocery,2022-10-17,2025-12-31,8,2740.18,25985.73,19.9,2,5.0,2,15,15,Yes,9,4.0,No
+CUST10283,41,Female,Kochi,Gold,Desktop,Debit Card,Grocery,2022-01-30,2025-12-31,7,1994.82,16608.18,3.5,1,4.8,2,24,19,No,10,0.4,No
+CUST10284,50,Female,Kochi,Silver,Mobile,Credit Card,Electronics,2021-04-21,2025-03-21,10,3758.97,34652.85,10.1,3,4.9,1,15,17,Yes,5,8.8,No
+CUST10285,41,Female,Pune,Platinum,Mobile,Net Banking,Home & Kitchen,2021-03-31,2021-11-22,10,1614.77,12851.45,13.6,0,4.2,2,22,22,Yes,4,4.1,Yes
+CUST10286,28,Female,Hyderabad,Silver,Desktop,Debit Card,Sports,2023-02-02,2025-12-31,8,3445.43,22982.15,8.0,2,4.8,3,26,24,Yes,9,0.1,No
+CUST10287,25,Female,Coimbatore,Gold,Mobile,COD,Grocery,2024-07-27,2025-06-24,6,3792.16,21239.91,12.0,0,3.3,2,21,16,Yes,7,1.9,No
+CUST10288,53,Female,Bengaluru,Basic,Mobile,Credit Card,Grocery,2024-09-18,2025-12-31,7,1057.9,7643.2,4.1,0,3.6,4,20,13,Yes,10,1.5,No
+CUST10289,55,Female,Hyderabad,Silver,Desktop,COD,Electronics,2024-06-01,2025-12-31,8,1543.01,13311.78,15.0,2,4.5,0,24,16,No,3,0.8,No
+CUST10290,57,Female,Delhi,Basic,Desktop,COD,Sports,2024-01-30,2025-12-31,14,1125.31,14426.02,16.9,1,4.2,2,23,27,Yes,7,5.1,No
+CUST10291,37,Male,Hyderabad,Basic,Desktop,COD,Electronics,2021-05-12,2025-05-27,8,4784.02,41477.44,7.0,0,3.9,0,10,24,Yes,10,2.2,No
+CUST10292,52,Male,Hyderabad,Silver,Mobile,UPI,Sports,2023-11-03,2025-12-22,9,2126.71,23329.65,30.5,3,2.4,1,14,24,Yes,2,4.4,No
+CUST10293,65,Male,Mumbai,Platinum,Desktop,COD,Electronics,2022-04-02,2024-04-12,3,4664.8,15058.07,15.5,0,3.7,2,19,26,Yes,6,2.3,Yes
+CUST10294,42,Female,Hyderabad,Gold,Mobile,Net Banking,Home & Kitchen,2025-01-04,2025-12-31,9,2341.78,17477.98,8.5,2,3.2,1,15,27,No,11,1.8,No
+CUST10295,52,Female,Kochi,Basic,Mobile,Net Banking,Grocery,2021-04-08,2021-07-03,5,1677.48,8721.51,2.0,3,4.3,3,26,24,No,4,1.3,Yes
+CUST10296,42,Female,Delhi,Basic,Desktop,Debit Card,Fashion,2024-02-18,2025-12-31,11,1947.37,21869.79,15.5,2,3.9,1,20,23,No,11,2.5,No
+CUST10297,46,Male,Delhi,Basic,Mobile,COD,Fashion,2021-10-20,2023-02-02,12,2948.64,41942.05,12.9,0,3.6,2,15,19,Yes,4,0.9,Yes
+CUST10298,35,Female,Chennai,Silver,Mobile,COD,Grocery,2025-10-01,2025-12-31,8,3773.45,27928.1,21.3,0,5.0,3,13,20,Yes,5,2.4,No
+CUST10299,63,Male,Hyderabad,Gold,Desktop,Credit Card,Grocery,2023-10-22,2025-12-31,12,2782.32,32101.5,13.9,2,4.7,3,17,27,Yes,14,1.4,No
+CUST10300,35,Male,Mumbai,Platinum,Mobile,UPI,Grocery,2022-07-26,2025-12-31,11,4158.67,48001.97,5.5,1,4.7,0,21,22,No,11,0.0,No
+CUST10301,19,Female,Hyderabad,Basic,Mobile,Debit Card,Grocery,2021-09-07,2023-05-24,12,2529.91,30729.68,28.4,2,5.0,2,16,21,Yes,4,1.8,Yes
+CUST10302,52,Female,Bengaluru,Silver,Mobile,COD,,2022-10-14,2024-06-16,13,2663.8,38421.61,18.5,2,4.5,0,18,23,No,12,0.0,No
+CUST10303,33,Male,Bengaluru,Silver,Mobile,Credit Card,Home & Kitchen,2021-05-29,2023-09-27,8,1889.03,11639.36,13.0,0,3.5,1,21,20,Yes,0,5.2,Yes
+CUST10304,58,Male,Mumbai,Gold,Mobile,UPI,Fashion,2024-11-19,2025-12-31,8,1795.6,14821.0,16.3,2,3.4,3,19,23,Yes,14,3.5,No
+CUST10305,53,Male,Chennai,Silver,Desktop,Debit Card,Beauty,2021-02-13,2023-08-06,9,3890.99,28394.59,18.8,0,4.6,1,22,23,Yes,8,1.6,Yes
+CUST10306,50,Male,Chennai,Gold,Desktop,Debit Card,Fashion,2025-09-18,2025-12-31,11,1617.5,16148.55,3.6,1,2.7,3,15,23,No,10,0.0,No
+CUST10307,21,Female,Delhi,Gold,Mobile,COD,Fashion,2025-07-02,2025-12-31,12,2338.94,30335.49,16.3,1,3.9,1,17,16,No,3,2.5,No
+CUST10308,50,Male,Delhi,Basic,Desktop,Debit Card,Electronics,2023-12-04,2025-12-31,11,3978.37,36265.94,11.4,1,2.6,2,25,17,Yes,4,3.0,No
+CUST10309,31,Female,Coimbatore,Gold,Mobile,Credit Card,Grocery,2024-01-07,2025-12-31,10,1226.33,11091.19,19.1,0,4.1,4,15,17,Yes,0,3.3,No
+CUST10310,38,Female,Mumbai,Basic,Mobile,Debit Card,Grocery,2024-06-03,2025-12-31,4,4842.26,21335.06,9.1,1,4.6,1,16,25,Yes,2,1.0,No
+CUST10311,65,Male,Hyderabad,Gold,Desktop,Net Banking,Grocery,2021-06-11,2021-08-02,8,1689.65,14536.43,10.2,2,4.2,0,28,17,Yes,2,2.9,Yes
+CUST10312,37,Male,Pune,Silver,Mobile,Credit Card,Electronics,2025-12-22,2025-12-31,4,4851.16,15436.78,28.3,0,4.6,2,23,23,No,7,6.3,No
+CUST10313,25,Male,Mumbai,Silver,Tablet,UPI,Home & Kitchen,2021-09-10,2023-06-26,11,1616.18,18464.82,24.8,0,5.0,0,14,21,No,10,1.5,Yes
+CUST10314,24,Male,Coimbatore,Platinum,Mobile,UPI,Home & Kitchen,2021-05-12,2021-10-13,8,3886.68,25609.4,0.0,2,3.9,1,25,22,Yes,7,4.6,Yes
+CUST10315,20,Male,Delhi,Platinum,Desktop,COD,Beauty,2025-01-11,2025-12-31,7,2099.0,12873.06,24.3,1,5.0,1,22,19,No,8,2.5,No
+CUST10316,34,Female,Mumbai,Gold,Mobile,COD,Home & Kitchen,2022-04-19,2024-11-06,12,6255.72,73537.66,14.4,1,4.1,0,15,22,Yes,13,2.2,No
+CUST10317,50,Male,Mumbai,Silver,Mobile,Net Banking,Home & Kitchen,2025-08-07,2025-12-31,8,2453.46,15793.87,9.3,1,4.6,4,24,25,Yes,9,2.8,No
+CUST10318,65,Other,Delhi,Gold,Mobile,UPI,Grocery,2025-12-07,2025-12-31,13,1517.51,24596.87,6.9,2,3.6,3,25,22,Yes,14,1.4,No
+CUST10319,29,Male,Kochi,Silver,Desktop,UPI,Sports,2024-02-07,2025-12-31,5,3446.81,14350.53,7.4,2,5.0,1,17,29,No,6,2.8,No
+CUST10320,39,Female,Coimbatore,Gold,Mobile,UPI,Fashion,2022-12-07,2023-07-24,9,2208.46,22671.84,9.6,0,4.7,1,13,27,Yes,5,4.4,Yes
+CUST10321,39,Female,Delhi,Silver,Tablet,UPI,Home & Kitchen,2023-11-25,2025-09-14,9,3608.04,37827.68,6.0,1,5.0,2,20,26,Yes,13,4.3,No
+CUST10322,63,Female,Chennai,Platinum,Mobile,Debit Card,Home & Kitchen,2025-01-30,2025-12-31,5,4816.43,30036.03,4.2,0,4.0,1,19,22,No,7,4.8,No
+CUST10323,47,Female,Hyderabad,Platinum,Mobile,Credit Card,Electronics,2021-10-02,2024-03-10,12,3936.26,45550.08,6.7,3,3.2,3,22,27,No,2,1.3,Yes
+CUST10324,55,Female,Delhi,Gold,Mobile,Credit Card,Beauty,2021-07-06,2022-08-13,8,1191.76,11317.4,17.6,2,4.3,3,15,20,Yes,14,2.6,Yes
+CUST10325,55,Female,Coimbatore,Basic,Mobile,Net Banking,Sports,2023-08-07,2025-12-31,9,1600.46,17699.37,15.4,1,2.9,2,22,20,Yes,14,6.9,No
+CUST10326,62,Female,Bengaluru,Basic,Desktop,Debit Card,Electronics,2021-08-31,2022-02-13,12,3094.47,31060.32,19.4,3,3.8,0,24,26,No,9,0.6,Yes
+CUST10327,25,Female,Chennai,Gold,Mobile,UPI,Grocery,2021-09-21,2024-11-05,4,3243.47,12840.48,14.5,1,4.1,1,15,22,No,9,2.3,Yes
+CUST10328,44,Male,Bengaluru,Basic,Desktop,UPI,Fashion,2022-06-06,2025-12-31,11,761.55,6534.14,4.5,2,5.0,2,15,29,No,9,0.1,No
+CUST10329,44,Male,Pune,Gold,Mobile,COD,Beauty,2023-08-21,2025-12-31,12,1446.48,18405.51,19.0,0,4.2,2,16,21,Yes,7,2.7,No
+CUST10330,51,Female,Delhi,Silver,Mobile,COD,Electronics,2025-08-29,2025-12-31,4,1674.46,6970.46,7.0,1,4.1,4,15,29,Yes,2,4.6,No
+CUST10331,38,Female,Chennai,Silver,Desktop,Net Banking,Home & Kitchen,2025-04-14,2025-09-08,11,4985.18,46724.57,20.2,0,4.0,5,10,22,Yes,12,5.9,No
+CUST10332,47,Female,Hyderabad,Platinum,Mobile,UPI,Home & Kitchen,2023-02-22,2025-12-31,10,1987.79,22838.74,5.7,2,3.1,0,15,30,Yes,1,0.5,No
+CUST10333,50,Female,Delhi,Silver,Mobile,Net Banking,Beauty,2024-01-16,2025-12-31,9,3760.84,26016.4,9.5,2,4.1,0,22,29,No,8,0.8,No
+CUST10334,45,Other,Hyderabad,Silver,Tablet,Debit Card,Home & Kitchen,2022-06-19,2024-07-14,10,4497.04,51855.98,12.1,3,4.1,2,21,23,Yes,0,5.7,No
+CUST10335,64,Male,Kochi,Silver,Desktop,Credit Card,Electronics,2021-07-29,2024-07-06,8,1953.51,11929.27,20.4,1,3.4,1,15,37,Yes,9,0.0,Yes
+CUST10336,50,Male,Mumbai,Silver,Mobile,UPI,Electronics,2021-02-15,2022-10-14,7,2620.21,19779.71,16.4,2,3.2,3,17,33,Yes,9,1.2,Yes
+CUST10337,22,Male,Bengaluru,Gold,Mobile,Debit Card,Home & Kitchen,2025-01-30,2025-12-31,11,3765.9,32700.18,15.2,0,3.7,2,21,21,Yes,1,4.4,No
+CUST10338,65,Male,Chennai,Basic,Mobile,UPI,Home & Kitchen,2025-04-13,2025-12-31,13,1186.59,13506.91,30.1,2,4.0,3,20,26,Yes,6,0.0,No
+CUST10339,36,Female,Hyderabad,Platinum,Mobile,COD,Grocery,2021-01-26,2022-01-19,9,2390.58,23902.48,0.3,5,3.7,2,29,27,Yes,0,0.4,Yes
+CUST10340,21,Male,Coimbatore,Platinum,Desktop,Net Banking,Fashion,2024-07-13,2025-11-23,10,4712.11,41947.32,6.7,3,3.3,1,11,23,Yes,11,5.0,No
+CUST10341,52,Female,Hyderabad,Basic,Desktop,COD,Beauty,2021-06-24,2025-09-30,12,3206.32,38690.8,6.4,0,4.2,4,14,20,Yes,4,0.0,No
+CUST10342,34,Male,Coimbatore,Gold,Mobile,Credit Card,Electronics,2025-03-20,2025-12-31,10,3222.76,38918.83,0.8,0,4.4,0,15,23,No,11,0.0,No
+CUST10343,61,Female,Delhi,Silver,Mobile,COD,Beauty,2024-08-27,2025-12-31,7,4168.57,22609.16,9.2,3,4.1,3,15,23,Yes,8,4.2,No
+CUST10344,45,Female,Chennai,Basic,Mobile,UPI,Grocery,2021-11-18,2024-04-09,9,2083.02,21663.11,20.5,1,3.6,1,26,12,Yes,8,5.7,Yes
+CUST10345,47,Male,Hyderabad,Platinum,Mobile,COD,Electronics,2025-05-22,2025-12-31,7,1646.05,9017.81,10.3,0,4.4,0,27,17,Yes,10,5.4,No
+CUST10346,46,Female,Pune,Basic,Mobile,UPI,Grocery,2024-03-04,2025-12-31,10,3123.4,25405.66,12.3,3,3.9,1,15,20,No,3,0.0,No
+CUST10347,63,Male,Hyderabad,Basic,Mobile,Credit Card,Grocery,2021-02-24,2024-01-09,8,2157.22,13972.91,,0,3.2,2,15,24,Yes,9,5.4,Yes
+CUST10348,23,Male,Kochi,Silver,Mobile,COD,Sports,2025-04-16,2025-12-31,8,2092.65,20877.13,8.6,3,4.7,1,12,22,Yes,13,2.7,No
+CUST10349,52,Male,Pune,Silver,Mobile,Net Banking,Home & Kitchen,2025-05-29,2025-12-31,7,1621.63,9536.24,11.3,0,4.2,1,21,17,Yes,14,0.9,No
+CUST10350,58,Male,Chennai,Silver,Mobile,Net Banking,Sports,2025-04-04,2025-08-27,10,3432.1,41129.63,20.1,1,3.9,0,23,19,Yes,1,0.6,No
+CUST10351,54,Male,Kochi,Gold,Mobile,Net Banking,Beauty,2024-03-25,2025-12-31,14,2487.11,43366.56,1.6,0,3.0,3,31,26,No,8,3.9,No
+CUST10352,41,Female,Hyderabad,Silver,Mobile,COD,Beauty,2022-10-30,2025-12-31,6,1638.69,9260.82,11.4,4,3.5,0,11,23,Yes,10,3.4,No
+CUST10353,46,Female,Coimbatore,Silver,Mobile,COD,Home & Kitchen,2021-05-27,2022-06-11,3,4286.33,13701.57,23.7,0,5.0,2,19,27,No,3,5.3,Yes
+CUST10354,63,Female,Hyderabad,Basic,Mobile,COD,Sports,2025-02-17,2025-12-31,6,2320.58,15866.44,11.4,0,3.0,1,19,19,Yes,2,1.2,No
+CUST10355,48,Male,Bengaluru,Silver,Mobile,UPI,Beauty,2022-08-22,2023-11-03,7,3470.56,22989.88,0.0,1,3.8,0,20,19,Yes,12,1.5,Yes
+CUST10356,52,Female,Delhi,Basic,Mobile,Credit Card,Sports,2021-01-20,2021-07-15,10,5543.79,46063.74,25.2,1,4.0,1,22,18,No,2,4.1,Yes
+CUST10357,50,Male,Mumbai,Basic,Desktop,Net Banking,Home & Kitchen,2024-07-16,2024-11-02,12,4252.85,49344.02,20.9,1,4.2,0,20,10,Yes,12,0.9,No
+CUST10358,38,Male,Coimbatore,Silver,Tablet,UPI,Electronics,2021-11-29,2025-03-13,10,5260.43,59755.53,22.0,1,3.0,1,13,22,Yes,6,4.1,No
+CUST10359,49,Female,Bengaluru,Basic,Desktop,Net Banking,,2025-04-28,2025-12-31,6,4213.88,28832.58,1.0,2,4.1,0,21,17,Yes,11,0.3,No
+CUST10360,40,Male,Pune,Basic,Mobile,UPI,Grocery,2023-06-26,2025-12-31,11,2396.0,22805.04,27.1,1,2.9,2,17,17,Yes,1,6.6,No
+CUST10361,50,Female,Delhi,Basic,Desktop,COD,Sports,2023-08-02,2025-12-31,6,1837.77,9234.6,8.8,3,4.1,2,16,20,Yes,4,6.5,No
+CUST10362,20,Female,Chennai,Platinum,Desktop,Net Banking,Beauty,2023-06-30,2025-12-31,15,2339.49,42471.58,10.9,0,3.6,0,17,28,Yes,1,1.0,No
+CUST10363,35,Male,Coimbatore,Platinum,Mobile,COD,Sports,2022-02-05,2022-09-28,6,2418.35,11201.79,9.4,0,3.4,0,25,22,Yes,6,2.6,Yes
+CUST10364,42,Male,Mumbai,Silver,Mobile,Net Banking,Sports,2023-08-08,2024-11-27,9,4801.51,48285.54,22.6,0,4.5,2,15,31,Yes,6,2.7,Yes
+CUST10365,59,Male,Delhi,Platinum,Desktop,Debit Card,Fashion,2024-08-22,2025-12-31,7,2182.38,11812.08,13.6,1,3.8,2,23,24,Yes,2,2.2,No
+CUST10366,48,Female,Pune,Gold,Mobile,UPI,Grocery,2021-01-28,2022-12-24,14,1453.19,23781.89,18.9,2,4.3,1,22,22,Yes,2,0.5,Yes
+CUST10367,20,Male,Kochi,Silver,Mobile,Debit Card,Home & Kitchen,2022-04-12,2025-12-25,9,3043.87,32947.96,15.6,0,4.3,1,14,21,Yes,7,2.7,No
+CUST10368,57,Male,Kochi,Basic,Desktop,UPI,Sports,2024-07-07,2025-12-31,7,2806.96,17658.49,14.2,0,4.8,1,15,27,Yes,6,0.0,No
+CUST10369,63,Male,Mumbai,Gold,Desktop,Credit Card,Fashion,2025-04-07,2025-12-31,8,1880.6,11839.77,7.4,1,,1,17,23,Yes,3,5.6,No
+CUST10370,41,Female,Chennai,Gold,Mobile,,Fashion,2023-09-09,2024-07-05,6,2272.6,13503.91,29.5,0,4.6,1,22,27,Yes,1,5.7,Yes
+CUST10371,49,Male,Chennai,Silver,Mobile,Credit Card,Grocery,2021-04-11,2024-08-13,12,5336.46,57584.56,3.3,0,4.0,0,14,24,Yes,11,5.2,No
+CUST10372,64,Male,Pune,Gold,Mobile,Credit Card,Grocery,2022-07-05,2024-10-16,12,3425.47,39402.55,18.3,1,3.8,0,20,24,No,12,5.3,No
+CUST10373,39,Female,Coimbatore,Silver,Desktop,UPI,Grocery,2023-03-13,2024-06-25,10,2355.88,25502.23,18.0,0,3.3,0,24,17,Yes,2,4.0,Yes
+CUST10374,40,Female,Pune,Gold,Mobile,Debit Card,Home & Kitchen,2021-12-19,2024-07-09,6,1874.94,9617.46,24.2,1,4.4,4,19,25,Yes,10,0.7,Yes
+CUST10375,19,Male,Hyderabad,Platinum,Mobile,COD,Fashion,2024-08-16,2025-06-01,12,6637.34,73951.31,26.1,1,3.4,0,17,34,Yes,10,0.0,No
+CUST10376,44,Male,Chennai,Silver,Desktop,UPI,Beauty,2025-09-02,2025-10-23,7,5851.09,46744.17,13.9,1,4.3,3,19,24,No,13,0.4,No
+CUST10377,59,Male,Delhi,Gold,Mobile,COD,Home & Kitchen,2021-10-23,2023-01-23,11,4086.31,48180.42,19.2,1,5.0,0,20,17,Yes,10,3.4,Yes
+CUST10378,19,Female,Hyderabad,Silver,Desktop,Credit Card,Electronics,2021-12-19,2024-05-26,5,2470.52,11279.63,29.1,4,4.6,0,16,26,No,14,0.0,Yes
+CUST10379,43,Male,Kochi,Gold,Mobile,COD,Sports,2023-06-27,2025-12-31,8,1833.51,15873.07,14.5,0,4.9,2,21,22,Yes,2,2.8,No
+CUST10380,34,Female,Kochi,Gold,Mobile,Debit Card,Grocery,2024-02-28,2024-05-20,12,1865.53,25356.06,6.5,0,3.5,4,14,22,Yes,4,3.6,Yes
+CUST10381,57,Female,Bengaluru,Basic,Desktop,UPI,Fashion,2023-10-16,2025-12-31,11,2456.67,28273.01,11.9,0,4.5,3,16,27,Yes,12,2.1,No
+CUST10382,50,Female,Mumbai,Silver,Mobile,Debit Card,Sports,2024-03-25,2025-04-03,8,2178.69,15159.3,4.6,1,3.3,1,19,28,No,6,2.6,No
+CUST10383,26,Male,Hyderabad,Basic,Mobile,Debit Card,Home & Kitchen,2024-01-03,2025-12-31,11,2719.8,22442.02,18.0,0,3.8,0,16,22,No,3,7.7,No
+CUST10384,60,Female,Mumbai,Gold,Mobile,UPI,Electronics,2024-09-27,2025-12-31,9,2659.56,27560.54,23.5,1,5.0,3,22,18,Yes,0,2.4,No
+CUST10385,65,Female,Pune,Silver,Desktop,Debit Card,Home & Kitchen,2025-01-28,2025-12-31,4,1704.31,7916.98,14.0,3,3.6,2,21,17,Yes,2,3.3,No
+CUST10386,56,Female,Hyderabad,Gold,Tablet,Net Banking,Home & Kitchen,2024-01-19,2025-12-31,8,1731.98,15224.83,2.0,1,4.7,3,21,28,Yes,2,4.9,No
+CUST10387,46,Male,Pune,Basic,Tablet,Net Banking,Beauty,2025-05-22,2025-12-31,7,2366.35,13057.6,23.2,0,4.7,4,18,23,Yes,0,4.3,No
+CUST10388,59,Other,Bengaluru,Silver,Mobile,Net Banking,Sports,2022-03-31,2023-01-28,9,2627.39,24654.11,0.8,2,4.7,1,10,21,Yes,7,4.2,Yes
+CUST10389,43,Male,Chennai,Basic,Mobile,COD,Beauty,2025-11-07,2025-12-31,10,5127.35,59503.43,2.6,3,3.2,0,17,21,Yes,3,3.0,No
+CUST10390,52,Male,Kochi,Gold,Mobile,Debit Card,Home & Kitchen,2022-12-13,2023-07-27,11,3123.66,32464.75,13.6,1,4.3,1,24,27,No,4,3.1,Yes
+CUST10391,42,Male,Bengaluru,Platinum,Desktop,UPI,Electronics,2023-09-07,2025-04-18,13,3070.94,33893.98,17.0,1,3.9,3,17,22,Yes,2,0.0,No
+CUST10392,41,Female,Kochi,Platinum,Mobile,UPI,Fashion,2024-09-17,2025-12-31,11,3180.36,36516.73,18.4,2,4.7,2,16,19,Yes,3,6.0,No
+CUST10393,30,Male,Chennai,Gold,Tablet,COD,Fashion,2023-01-09,2025-05-20,8,4560.78,42439.09,14.5,1,2.9,3,16,21,Yes,0,1.3,No
+CUST10394,24,Male,Pune,Gold,Mobile,UPI,Sports,2023-09-04,2024-07-04,8,11919.79,73848.82,29.1,0,4.2,2,19,20,No,12,4.3,No
+CUST10395,53,Male,Chennai,Basic,Tablet,Net Banking,Grocery,2024-10-03,2025-10-19,14,2101.82,30851.9,15.5,4,4.1,2,21,29,Yes,12,2.0,No
+CUST10396,62,Male,Kochi,Basic,Desktop,Debit Card,Grocery,2021-08-21,2021-10-01,9,6394.11,61666.6,23.3,2,,3,17,18,Yes,3,8.7,Yes
+CUST10397,37,Female,Kochi,Silver,Desktop,UPI,Fashion,2025-12-07,2025-12-31,14,1359.64,20009.24,21.3,2,3.4,1,15,19,Yes,1,0.8,No
+CUST10398,18,Female,Mumbai,Gold,Mobile,UPI,Home & Kitchen,2025-06-10,2025-12-31,6,2377.75,15336.73,4.7,1,2.8,1,15,30,No,9,7.2,No
+CUST10399,25,Male,Delhi,Platinum,Mobile,Credit Card,Home & Kitchen,2023-10-21,2025-12-31,8,1622.65,13833.9,13.6,1,3.5,3,21,29,Yes,13,2.2,No
+CUST10400,63,Male,Bengaluru,Basic,Mobile,Credit Card,Beauty,2021-04-12,2025-05-14,10,3710.16,30245.3,32.0,2,4.4,0,16,20,Yes,5,4.0,No
+CUST10401,33,Female,Hyderabad,Platinum,Mobile,Credit Card,Sports,2023-08-11,2025-11-07,4,4197.99,14566.49,,2,4.1,3,13,15,Yes,1,2.5,No
+CUST10402,31,Male,Kochi,Gold,Mobile,Debit Card,Beauty,2022-04-26,2024-01-12,12,1454.61,18493.86,9.6,1,4.1,1,12,30,Yes,14,5.7,Yes
+CUST10403,29,Male,Bengaluru,Silver,Mobile,Net Banking,Grocery,2024-05-22,2025-09-20,6,4440.34,20217.22,16.4,2,3.3,2,18,18,No,8,2.8,No
+CUST10404,40,Other,Mumbai,Basic,Mobile,Net Banking,Fashion,2021-04-18,2022-05-06,7,3215.66,24026.14,11.3,0,4.7,3,21,15,No,1,3.1,Yes
+CUST10405,32,Female,Chennai,Basic,Desktop,Net Banking,Home & Kitchen,2024-04-03,2025-12-31,9,3969.32,38678.01,8.7,1,4.0,1,10,21,Yes,3,2.7,No
+CUST10406,45,Male,Mumbai,Silver,Desktop,Debit Card,Fashion,2023-08-31,2024-10-28,5,4744.06,20626.87,11.1,0,4.0,0,19,22,Yes,12,3.6,No
+CUST10407,51,Female,Coimbatore,Gold,Mobile,Debit Card,Electronics,2025-06-15,2025-12-31,6,3759.15,23661.59,26.5,1,4.6,1,26,19,Yes,3,0.6,No
+CUST10408,19,Male,Coimbatore,Basic,Tablet,Credit Card,Fashion,2022-12-05,2025-11-02,16,1329.3,21631.33,13.9,0,3.4,0,18,21,No,11,0.0,No
+CUST10409,49,Female,Hyderabad,Silver,Mobile,UPI,Electronics,2021-12-01,2022-05-25,5,2268.84,9986.82,4.4,2,4.1,3,15,24,Yes,10,3.4,Yes
+CUST10410,40,Male,Mumbai,Gold,Mobile,COD,Beauty,2021-03-27,2024-08-11,6,1413.0,8321.05,2.9,2,4.3,2,10,24,Yes,0,6.8,Yes
+CUST10411,39,Male,Pune,Gold,Mobile,COD,Beauty,2023-01-04,2025-12-31,15,1010.47,18261.4,32.7,0,3.6,3,25,38,Yes,12,1.7,No
+CUST10412,42,Male,Hyderabad,Platinum,Desktop,UPI,Grocery,2023-05-25,2025-04-16,6,1573.48,9094.41,13.2,1,4.4,4,20,24,Yes,10,4.0,No
+CUST10413,39,Female,Pune,Silver,Mobile,Credit Card,Fashion,2024-12-18,2025-01-14,13,2353.02,32575.18,18.5,2,4.3,2,11,23,No,6,0.0,No
+CUST10414,39,Female,Hyderabad,Basic,Mobile,UPI,Fashion,2025-06-25,2025-12-31,14,6162.91,66235.6,8.8,2,3.9,1,27,21,No,0,1.4,No
+CUST10415,59,Male,Coimbatore,Gold,Desktop,UPI,Electronics,2025-10-28,2025-12-31,6,2701.0,12784.91,17.6,0,3.9,0,17,21,Yes,12,2.6,No
+CUST10416,23,Male,Hyderabad,Silver,Mobile,COD,Beauty,2021-12-30,2025-07-06,7,3227.05,17860.36,26.7,1,4.3,1,15,20,Yes,7,2.4,No
+CUST10417,32,Female,Coimbatore,Basic,Desktop,Credit Card,Electronics,2021-03-01,2021-06-11,9,2133.02,21867.9,9.8,0,4.5,2,18,22,Yes,2,4.7,Yes
+CUST10418,60,Male,Kochi,Basic,Tablet,Debit Card,Beauty,2025-02-14,2025-12-31,9,2482.91,20673.1,18.7,1,4.0,1,16,27,Yes,13,0.0,No
+CUST10419,54,Male,Chennai,Silver,Tablet,COD,Electronics,2024-06-27,2025-09-05,7,2825.04,17082.0,3.8,1,4.7,1,24,22,Yes,7,2.2,No
+CUST10420,50,Other,Pune,Basic,Mobile,Debit Card,Beauty,2022-07-14,2025-12-31,4,2420.21,10877.99,31.2,4,4.4,1,18,29,Yes,7,1.2,No
+CUST10421,25,Male,Mumbai,Basic,Mobile,Credit Card,Electronics,2021-04-27,2024-12-01,11,3538.39,32499.33,17.1,1,2.8,1,21,18,Yes,9,0.7,Yes
+CUST10422,61,Female,Kochi,Basic,Mobile,UPI,Beauty,2025-10-29,2025-12-31,7,2027.56,12393.91,11.7,1,3.1,0,16,21,Yes,11,1.0,No
+CUST10423,61,Other,Kochi,Basic,Mobile,Net Banking,Sports,2023-05-24,2024-10-19,8,1364.06,10535.63,12.6,2,,0,14,17,Yes,13,3.0,Yes
+CUST10424,22,Male,Hyderabad,Silver,Mobile,Net Banking,Electronics,2023-07-04,2024-03-20,5,1229.32,5628.56,10.9,0,3.8,1,18,28,No,9,2.8,Yes
+CUST10425,56,Male,Coimbatore,Silver,Mobile,,Fashion,2023-08-26,2024-08-20,8,4049.14,33776.18,,0,4.1,0,18,20,Yes,4,2.1,Yes
+CUST10426,21,Male,Bengaluru,Gold,Tablet,Net Banking,Grocery,2023-09-26,2025-12-31,11,782.67,7911.32,0.0,1,4.7,3,13,25,Yes,13,0.0,No
+CUST10427,23,Female,Pune,Basic,Tablet,Debit Card,Sports,2025-04-18,2025-12-31,5,2462.94,11655.57,14.2,1,4.0,0,24,16,Yes,13,2.0,No
+CUST10428,62,Female,Kochi,Basic,Mobile,Net Banking,Sports,2021-02-13,2022-06-22,11,1601.47,20812.51,13.9,1,4.0,0,32,28,Yes,2,4.8,Yes
+CUST10429,49,Female,Hyderabad,Silver,Mobile,Credit Card,Electronics,2022-05-24,2025-06-29,8,3598.34,34321.42,18.9,1,3.4,0,21,28,No,10,0.0,No
+CUST10430,47,Male,Delhi,Silver,Mobile,Credit Card,Grocery,2024-04-03,2025-12-31,12,2738.93,38252.63,10.8,2,4.2,2,27,19,No,10,1.1,No
+CUST10431,64,Female,Chennai,Silver,Mobile,Debit Card,Fashion,2024-10-23,2025-12-31,10,2770.73,32761.54,8.8,0,4.4,2,22,28,Yes,11,0.2,No
+CUST10432,52,Female,Chennai,Silver,Desktop,Net Banking,Sports,2024-08-08,2025-12-31,8,2880.28,23845.59,14.9,1,3.6,3,17,18,Yes,10,0.3,No
+CUST10433,57,Female,Bengaluru,Platinum,Desktop,Net Banking,Fashion,2023-04-29,2024-07-16,10,2835.91,30432.62,2.1,0,3.4,2,17,30,No,8,2.0,Yes
+CUST10434,33,Female,Coimbatore,Basic,Desktop,UPI,Beauty,2023-07-06,2024-01-06,7,1362.27,9808.49,16.1,1,5.0,0,13,20,Yes,0,1.2,Yes
+CUST10435,30,Female,Hyderabad,Silver,Desktop,COD,Grocery,2023-06-17,2023-10-28,9,2189.29,22517.17,0.1,0,3.9,3,23,23,Yes,0,0.8,Yes
+CUST10436,59,Female,Pune,Gold,Mobile,Credit Card,Home & Kitchen,2023-03-10,2025-04-20,7,1799.49,12917.64,24.0,1,3.6,1,22,21,No,13,2.5,No
+CUST10437,47,Female,Coimbatore,Silver,Desktop,UPI,Beauty,2023-05-26,2023-08-11,9,1950.66,14141.99,20.5,1,4.5,3,18,34,Yes,1,0.0,Yes
+CUST10438,36,Male,Chennai,Basic,Mobile,Credit Card,Grocery,2025-10-27,2025-12-31,11,2854.78,36263.39,7.6,2,4.0,2,21,25,Yes,12,6.5,No
+CUST10439,34,Male,Coimbatore,Silver,Mobile,UPI,Electronics,2021-10-13,2022-02-13,10,4061.21,45903.56,20.3,2,3.3,4,18,27,Yes,9,1.4,Yes
+CUST10440,36,Female,Chennai,Gold,Mobile,COD,Electronics,2024-05-12,2025-12-31,8,3995.86,37086.39,15.9,2,,0,22,19,Yes,5,1.7,No
+CUST10441,45,Male,Coimbatore,Basic,Mobile,UPI,Fashion,2022-11-15,2025-12-31,14,3080.74,36454.42,6.9,1,3.4,1,19,21,Yes,1,1.8,No
+CUST10442,43,Female,Bengaluru,Basic,Mobile,Credit Card,Sports,2025-03-28,2025-12-31,10,2249.05,19922.28,0.0,0,5.0,3,15,27,No,3,0.6,No
+CUST10443,54,Other,Mumbai,Basic,Mobile,Net Banking,Home & Kitchen,2023-03-30,2024-06-03,11,2769.13,27349.68,17.5,2,4.3,0,13,23,Yes,5,5.0,Yes
+CUST10444,43,Female,Bengaluru,Gold,Tablet,Credit Card,Electronics,2021-05-01,2025-01-23,8,3764.23,30235.51,8.6,1,3.8,3,20,23,Yes,1,3.0,No
+CUST10445,40,Male,Bengaluru,Basic,Mobile,Debit Card,Grocery,2023-08-03,2025-12-31,10,1945.24,15891.42,23.8,3,4.1,0,23,26,Yes,3,0.0,No
+CUST10446,26,Male,Mumbai,Platinum,Mobile,Debit Card,Sports,2025-11-15,2025-12-31,8,2716.06,20483.24,15.1,0,4.6,0,20,16,No,6,0.0,No
+CUST10447,29,Male,Mumbai,Silver,Mobile,Debit Card,Sports,2025-08-15,2025-12-31,10,2124.5,17868.73,9.4,0,4.1,2,13,15,Yes,0,1.2,No
+CUST10448,18,Female,Kochi,Platinum,Desktop,Debit Card,Grocery,2025-08-15,2025-12-31,11,1931.67,18749.17,29.4,1,5.0,2,16,25,Yes,8,3.8,No
+CUST10449,18,Female,Kochi,Platinum,Mobile,COD,Sports,2023-10-15,2025-07-08,7,2641.69,20400.07,19.6,3,4.7,0,17,16,Yes,9,4.9,No
+CUST10450,64,Female,Hyderabad,Silver,Tablet,Net Banking,Electronics,2024-04-26,2025-01-17,7,2254.55,18581.64,0.0,0,4.3,2,12,21,Yes,9,2.2,Yes
+CUST10451,51,Male,Pune,Basic,Desktop,Net Banking,Grocery,2023-06-26,2025-12-31,2,3112.47,4740.0,11.1,1,3.4,0,19,28,No,6,5.7,No
+CUST10452,49,Female,Pune,Basic,Mobile,,Grocery,2021-01-13,2023-02-04,11,2269.88,25791.36,3.9,2,3.9,1,14,25,Yes,8,4.0,Yes
+CUST10453,65,Female,Hyderabad,Basic,Desktop,UPI,Fashion,2022-08-26,2025-12-31,6,2531.85,11667.22,8.6,0,4.3,2,18,20,Yes,6,6.8,No
+CUST10454,42,Male,Bengaluru,Gold,Mobile,Credit Card,Home & Kitchen,2021-07-19,2022-12-19,14,1361.46,15107.77,13.8,2,3.5,2,21,20,Yes,10,1.4,Yes
+CUST10455,57,Female,Bengaluru,Basic,Mobile,Credit Card,Fashion,2022-08-09,2025-12-31,14,3843.01,59319.12,17.8,3,4.8,4,17,30,Yes,0,1.7,No
+CUST10456,62,Male,Chennai,Basic,Desktop,Credit Card,Home & Kitchen,2025-11-27,2025-12-31,12,3875.85,51989.29,17.1,1,3.4,2,20,30,Yes,6,2.9,No
+CUST10457,18,Male,Chennai,Silver,Mobile,Credit Card,Grocery,2025-01-19,2025-09-14,10,1798.13,20804.19,23.6,2,3.6,1,22,27,Yes,10,1.0,No
+CUST10458,33,Female,Pune,Platinum,Mobile,Net Banking,Sports,2022-03-24,2023-11-26,8,1872.89,14790.15,20.1,1,3.6,0,17,15,Yes,8,4.1,Yes
+CUST10459,56,Male,Hyderabad,Basic,Mobile,UPI,Home & Kitchen,2025-12-17,2025-12-31,7,2923.25,24144.08,19.6,0,4.5,3,20,21,No,12,0.0,No
+CUST10460,22,Female,Delhi,Basic,Mobile,Credit Card,Grocery,2023-04-21,2025-08-28,10,2160.2,18003.52,16.6,1,3.5,1,16,27,Yes,7,0.0,No
+CUST10461,39,Female,Kochi,Basic,Tablet,Net Banking,Grocery,2023-12-31,2025-12-31,9,3067.33,24151.31,25.3,1,2.8,4,22,16,Yes,11,2.4,No
+CUST10462,46,Female,Delhi,Platinum,Mobile,Credit Card,Fashion,2022-08-13,2025-12-31,7,4917.61,28132.45,12.5,1,4.7,3,19,25,Yes,3,5.5,No
+CUST10463,20,Male,Hyderabad,Silver,Desktop,Debit Card,Fashion,2025-12-25,2025-12-31,11,1838.76,23235.41,12.7,0,3.7,4,19,17,Yes,4,3.5,No
+CUST10464,29,Female,Chennai,Basic,Mobile,Credit Card,Sports,2024-02-28,2024-08-20,10,3979.17,34393.46,0.0,1,3.3,2,17,19,Yes,2,4.1,No
+CUST10465,43,Female,Pune,Basic,Desktop,Credit Card,Beauty,2023-06-08,2025-12-31,8,1695.4,11227.02,23.4,0,3.5,1,18,18,No,9,5.8,No
+CUST10466,33,Female,Pune,Basic,Mobile,COD,Electronics,2021-02-12,2024-09-22,11,1946.45,22728.91,14.4,1,5.0,0,11,22,Yes,9,3.4,Yes
+CUST10467,54,Male,Chennai,Basic,Mobile,Debit Card,Beauty,2022-06-04,2022-12-07,9,2934.17,20823.42,38.5,2,3.6,1,21,25,Yes,11,1.8,Yes
+CUST10468,39,Male,Delhi,Platinum,Desktop,UPI,Beauty,2023-11-03,2025-12-31,7,3520.24,19034.47,11.8,0,3.9,1,11,21,Yes,1,5.4,No
+CUST10469,46,Female,Coimbatore,Gold,Mobile,Credit Card,Sports,2022-12-26,2023-12-07,8,4848.99,31163.83,15.7,2,3.7,3,13,20,Yes,2,4.4,Yes
+CUST10470,31,Male,Coimbatore,Silver,Mobile,UPI,Home & Kitchen,2022-09-15,2025-12-31,11,5612.68,46312.05,19.4,0,3.2,2,23,34,No,6,1.0,No
+CUST10471,45,Female,Chennai,Gold,Mobile,Debit Card,Sports,2023-09-15,2023-12-04,6,2366.85,15599.84,6.2,0,3.5,1,20,22,No,7,0.8,Yes
+CUST10472,22,Female,Coimbatore,Basic,Desktop,Credit Card,Sports,2023-03-14,2025-12-31,10,2702.99,27871.01,17.9,0,3.2,1,18,28,No,1,2.4,No
+CUST10473,64,Female,Mumbai,Gold,Mobile,COD,Grocery,2022-06-19,2025-12-31,6,3140.1,16107.54,15.3,0,4.6,0,22,26,Yes,8,4.3,No
+CUST10474,47,Female,Hyderabad,Gold,Tablet,Net Banking,Grocery,2021-10-29,2022-08-10,9,2649.12,20659.22,12.6,0,4.1,4,16,28,Yes,12,0.6,Yes
+CUST10475,63,Female,Hyderabad,Silver,Mobile,COD,Grocery,2025-11-25,2025-12-31,5,2355.39,13608.08,24.4,1,5.0,3,19,32,Yes,3,2.8,No
+CUST10476,22,Female,Chennai,Gold,Mobile,COD,Electronics,2022-06-11,2024-05-14,8,2096.64,16788.38,7.8,1,3.5,1,12,21,Yes,14,4.3,Yes
+CUST10477,29,Female,Bengaluru,Basic,Desktop,Net Banking,Home & Kitchen,2025-07-24,2025-12-31,6,3541.99,23361.5,17.2,1,3.4,4,14,21,Yes,1,2.0,No
+CUST10478,33,Female,Kochi,Basic,Desktop,Net Banking,Home & Kitchen,2025-05-16,2025-12-31,17,4866.34,80773.56,26.6,2,5.0,0,15,14,Yes,6,3.1,No
+CUST10479,43,Male,Delhi,Basic,Desktop,Net Banking,Grocery,2024-02-13,2025-12-31,3,1288.33,3358.13,9.3,0,4.7,2,18,22,Yes,10,3.5,No
+CUST10480,43,Male,Chennai,Silver,Tablet,Credit Card,Beauty,2022-04-05,2023-01-03,9,2442.92,27157.48,12.6,1,4.3,0,20,17,No,1,4.0,Yes
+CUST10481,65,Female,Coimbatore,Gold,Mobile,UPI,Electronics,2023-04-12,2025-12-31,10,1302.16,13449.02,33.8,4,3.3,2,26,16,No,6,2.7,No
+CUST10482,38,Male,Delhi,Platinum,Mobile,UPI,Beauty,2022-05-20,2023-04-30,12,3447.17,33733.63,18.8,1,5.0,0,18,16,Yes,7,2.3,Yes
+CUST10483,56,Male,Bengaluru,Silver,Mobile,Net Banking,Fashion,2024-08-24,2025-12-31,9,1925.45,16515.36,11.0,3,4.0,1,17,22,Yes,12,4.5,No
+CUST10484,53,Male,Coimbatore,Gold,Desktop,COD,Home & Kitchen,2023-07-21,2025-09-25,7,4558.88,29189.05,21.4,1,3.7,2,23,22,Yes,8,0.0,No
+CUST10485,50,Female,Pune,Gold,Desktop,Debit Card,Home & Kitchen,2021-11-21,2025-12-31,12,2528.49,26004.32,10.5,2,4.7,3,20,22,Yes,13,4.2,No
+CUST10486,47,Female,Kochi,Basic,Mobile,Net Banking,Beauty,2022-08-02,2025-12-31,8,3467.69,33753.66,2.5,3,4.0,1,19,21,Yes,11,3.7,No
+CUST10487,54,Female,Mumbai,Silver,Mobile,COD,Electronics,2023-01-31,2023-11-08,11,1820.22,23835.89,26.0,0,3.2,3,16,15,Yes,11,5.5,Yes
+CUST10488,40,Female,Coimbatore,Basic,Mobile,COD,Home & Kitchen,2024-04-13,2025-12-31,11,2880.24,26916.73,6.2,2,4.0,3,17,28,Yes,10,3.6,No
+CUST10489,27,Female,Mumbai,Gold,Desktop,Credit Card,Beauty,2023-05-01,2025-12-31,9,2865.76,23885.15,34.6,4,3.5,3,24,18,Yes,0,0.4,No
+CUST10490,22,Male,Delhi,Platinum,Mobile,Credit Card,Sports,2025-03-18,2025-12-31,8,3230.03,29229.39,11.1,1,2.0,3,20,12,Yes,1,2.7,No
+CUST10491,53,Female,Mumbai,Basic,Mobile,UPI,Sports,2024-04-10,2025-07-07,4,2031.65,6942.17,32.1,1,3.4,0,18,22,Yes,1,0.5,Yes
+CUST10492,51,Male,Delhi,Gold,Mobile,UPI,Electronics,2023-08-18,2025-03-05,14,4378.05,64098.83,4.1,3,3.7,0,28,26,Yes,13,4.8,No
+CUST10493,48,Female,Delhi,Silver,Desktop,Debit Card,Beauty,2022-05-17,2022-06-04,8,3145.33,27676.31,23.2,0,3.2,2,18,21,Yes,6,0.0,Yes
+CUST10494,27,Female,Delhi,Silver,Desktop,Debit Card,Sports,2021-11-30,2025-12-31,8,4758.82,41001.47,19.0,1,4.4,2,22,26,No,5,0.0,No
+CUST10495,36,Male,Delhi,Silver,Mobile,Debit Card,Electronics,2021-10-11,2023-09-03,13,1375.02,19720.06,21.7,2,3.5,3,15,24,Yes,14,0.1,Yes
+CUST10496,49,Male,Delhi,Silver,Mobile,Debit Card,Grocery,2022-04-20,2023-03-07,6,2891.26,19140.43,22.7,2,4.3,0,28,24,Yes,13,0.0,Yes
+CUST10497,18,Male,Coimbatore,Basic,Mobile,COD,Electronics,2023-12-14,2025-04-03,8,2485.42,24504.31,11.0,3,3.2,1,21,19,Yes,10,1.8,Yes
+CUST10498,22,Male,Delhi,Basic,Desktop,COD,Fashion,2025-01-21,2025-12-31,8,5670.81,41884.58,4.5,2,4.6,1,16,21,Yes,8,1.7,No
+CUST10499,62,Male,Coimbatore,Basic,Tablet,UPI,Grocery,2025-05-22,2025-12-31,7,3578.26,29789.25,14.6,2,3.2,0,10,22,Yes,2,4.2,No
+CUST10500,21,Female,Delhi,Silver,Mobile,Credit Card,Beauty,2024-12-14,2025-12-31,10,2668.25,20302.81,16.8,1,2.5,0,19,16,No,7,0.0,No
+CUST10501,33,Female,Mumbai,Basic,Mobile,Credit Card,Grocery,2025-06-26,2025-12-31,7,3480.17,21781.38,11.2,0,4.8,3,13,21,No,4,1.4,No
+CUST10502,41,Female,Pune,Gold,Mobile,Net Banking,Grocery,2022-09-24,2025-11-18,8,2218.4,13742.15,17.2,1,3.4,2,16,29,Yes,4,3.0,No
+CUST10503,33,Female,Delhi,Silver,Mobile,COD,Beauty,2022-12-04,2023-04-14,12,3287.87,42437.27,17.6,0,5.0,1,23,24,No,9,0.6,Yes
+CUST10504,19,Female,Bengaluru,Gold,Desktop,Debit Card,Beauty,2022-02-13,2025-10-29,11,7134.19,62811.88,7.7,1,4.4,0,22,20,No,12,0.0,No
+CUST10505,45,Female,Delhi,Silver,Mobile,Debit Card,Sports,2023-09-09,2025-04-08,5,2087.1,12239.31,18.2,4,4.5,2,25,15,No,10,3.9,Yes
+CUST10506,49,Male,Delhi,Silver,Mobile,Net Banking,Fashion,2024-08-20,2025-12-31,12,2869.72,36960.7,12.9,0,4.7,2,17,25,Yes,11,3.6,No
+CUST10507,44,Female,Mumbai,Platinum,Mobile,Credit Card,Beauty,2022-07-13,2025-12-31,10,1892.18,14463.97,9.4,1,4.1,2,18,16,No,4,0.0,No
+CUST10508,37,Male,Kochi,Basic,Mobile,Debit Card,Home & Kitchen,2021-08-10,2024-06-28,12,1747.31,23219.42,21.3,1,4.1,2,21,15,Yes,7,1.6,Yes
+CUST10509,41,Other,Hyderabad,Basic,Mobile,Credit Card,Home & Kitchen,2025-04-06,2025-11-07,5,3998.06,23608.89,8.8,1,4.8,1,25,29,Yes,6,1.3,No
+CUST10510,29,Female,Mumbai,Gold,Mobile,Net Banking,Fashion,2021-06-07,2025-03-23,8,1563.32,13514.09,11.3,1,4.1,0,31,22,No,10,6.1,Yes
+CUST10511,52,Female,Bengaluru,Basic,Mobile,Credit Card,Electronics,2021-12-14,2022-05-01,8,3264.83,19987.61,15.6,0,3.5,0,18,25,Yes,11,0.0,Yes
+CUST10512,50,Male,Hyderabad,Basic,Desktop,Credit Card,Electronics,2024-03-28,2024-09-14,13,3887.02,59574.32,26.0,4,4.4,4,18,34,Yes,6,1.6,No
+CUST10513,50,Female,Chennai,Silver,Mobile,Credit Card,Home & Kitchen,2023-06-08,2024-08-04,8,2260.1,20182.37,16.5,1,2.6,1,22,24,No,3,4.0,Yes
+CUST10514,60,Female,Chennai,Basic,Mobile,Debit Card,Beauty,2023-07-11,2025-12-31,15,4682.52,65969.14,19.2,0,4.9,1,18,26,No,13,2.3,No
+CUST10515,54,Male,Kochi,Silver,Tablet,UPI,Fashion,2024-06-12,2025-10-05,8,4494.59,32875.77,12.6,1,4.9,3,23,16,No,14,4.6,No
+CUST10516,29,Male,Bengaluru,Basic,Desktop,COD,Electronics,2022-10-24,2024-11-30,4,2254.54,8927.17,14.4,1,4.8,3,22,20,No,5,0.0,Yes
+CUST10517,20,Female,Mumbai,Platinum,Desktop,Credit Card,Electronics,2022-02-09,2025-05-26,10,1454.2,17211.2,14.6,0,4.8,4,19,26,Yes,12,0.0,No
+CUST10518,18,Male,Coimbatore,Gold,Mobile,Credit Card,Grocery,2024-07-04,2025-12-31,14,3378.23,41432.02,17.3,1,3.9,2,22,11,Yes,0,1.9,No
+CUST10519,50,Female,Bengaluru,Gold,Mobile,Credit Card,Home & Kitchen,2022-11-08,2025-12-31,7,2631.5,14745.28,12.6,1,3.9,0,22,25,No,5,3.5,No
+CUST10520,57,Male,Pune,Silver,Mobile,UPI,Beauty,2022-08-12,2024-12-10,6,2947.13,20906.67,25.7,2,3.2,1,20,22,Yes,4,2.5,Yes
+CUST10521,27,Male,Hyderabad,Gold,Mobile,Net Banking,Fashion,2025-06-09,2025-12-31,7,3361.95,17959.59,,1,5.0,1,13,17,No,12,3.7,No
+CUST10522,60,Female,Hyderabad,Basic,Mobile,Debit Card,Electronics,2022-07-12,2024-08-14,6,1337.31,9672.75,1.3,3,3.7,1,21,26,Yes,0,1.8,Yes
+CUST10523,61,Male,Delhi,Gold,Tablet,UPI,Grocery,2023-06-24,2024-08-05,6,2197.8,11906.0,36.9,0,,0,30,21,No,12,0.0,Yes
+CUST10524,46,Female,Chennai,Gold,Mobile,Credit Card,Home & Kitchen,2023-12-07,2024-02-09,7,5398.44,37944.44,12.4,0,4.2,1,29,24,Yes,10,3.6,Yes
+CUST10525,30,Male,Kochi,Gold,Mobile,UPI,Home & Kitchen,2024-05-21,2025-12-31,16,2987.71,39014.61,25.5,0,3.1,0,12,23,Yes,0,0.0,No
+CUST10526,29,Male,Hyderabad,Silver,Mobile,UPI,Fashion,2022-04-24,2022-09-29,8,3463.91,33284.78,26.2,0,2.9,2,14,28,No,2,0.6,Yes
+CUST10527,48,Female,Bengaluru,Basic,Mobile,UPI,Electronics,2022-05-02,2022-10-29,10,2873.81,32328.01,22.6,1,4.0,1,32,23,Yes,3,0.0,Yes
+CUST10528,63,Female,Hyderabad,Silver,Mobile,Net Banking,Fashion,2025-05-14,2025-12-31,11,3417.99,45571.57,13.4,1,3.7,1,17,32,Yes,0,2.9,No
+CUST10529,19,Female,Kochi,Gold,Mobile,COD,Fashion,2022-07-20,2025-06-12,11,4451.71,53455.06,17.3,6,3.9,3,25,24,Yes,11,2.3,No
+CUST10530,52,Female,Kochi,Basic,Desktop,Debit Card,Sports,2024-09-27,2025-12-31,8,1040.19,7009.61,4.8,2,4.7,1,22,23,Yes,13,0.2,No
+CUST10531,40,Female,Kochi,Gold,Tablet,Net Banking,Grocery,2022-06-08,2022-08-30,10,3772.41,34107.62,30.9,0,4.1,0,23,26,Yes,9,0.9,Yes
+CUST10532,34,Male,Bengaluru,Basic,Mobile,Net Banking,Home & Kitchen,2022-12-05,2024-03-17,7,2648.33,18416.41,8.2,3,4.5,2,10,25,No,6,1.8,Yes
+CUST10533,43,Male,Coimbatore,Basic,Mobile,COD,Sports,2025-03-07,2025-04-15,8,4065.05,34264.44,13.0,1,4.3,1,19,17,Yes,1,3.8,No
+CUST10534,25,Female,Delhi,Basic,Tablet,Net Banking,Beauty,2023-10-27,2024-09-15,10,2295.97,27855.39,15.8,1,3.8,3,20,22,Yes,10,2.6,Yes
+CUST10535,46,Female,Chennai,Basic,Desktop,UPI,Home & Kitchen,2023-04-01,2023-04-27,8,2254.85,16992.11,14.1,1,3.3,0,17,19,Yes,3,3.1,Yes
+CUST10536,43,Female,Hyderabad,Silver,Mobile,,Home & Kitchen,2024-03-13,2025-10-25,6,1535.51,10148.52,9.7,0,4.2,0,18,13,Yes,11,3.4,No
+CUST10537,27,Male,Bengaluru,Basic,Tablet,Credit Card,Grocery,2023-05-08,2025-04-15,10,2679.89,32976.17,26.2,0,4.1,4,19,23,Yes,8,2.5,No
+CUST10538,43,Male,Mumbai,Platinum,Mobile,Net Banking,Beauty,2024-07-08,2025-03-13,6,1490.42,7388.19,22.6,1,4.6,1,26,28,Yes,7,2.9,No
+CUST10539,51,Female,Chennai,Silver,Tablet,Credit Card,Electronics,2022-08-08,2024-12-04,9,2574.73,27375.03,17.6,0,3.9,0,16,29,Yes,1,2.2,Yes
+CUST10540,58,Female,Coimbatore,Basic,Mobile,Debit Card,Beauty,2022-11-17,2025-06-05,6,2945.44,16971.97,11.8,1,3.8,1,16,22,Yes,10,5.4,No
+CUST10541,24,Female,Bengaluru,Gold,Mobile,UPI,Electronics,2021-08-20,2024-11-03,13,1960.41,28447.0,23.5,1,3.9,2,10,23,No,10,3.6,No
+CUST10542,21,Female,Pune,Platinum,Desktop,Debit Card,Beauty,2021-09-27,2023-05-25,7,1268.89,7965.31,11.3,1,3.4,0,26,23,Yes,8,6.2,Yes
+CUST10543,62,Female,Pune,Gold,Mobile,COD,Fashion,2023-07-29,2025-12-31,10,1129.84,10360.54,27.6,3,4.9,1,19,30,No,0,5.0,No
+CUST10544,28,Male,Delhi,Basic,Mobile,UPI,Beauty,2025-01-10,2025-12-31,2,1710.27,2611.81,15.9,3,4.7,1,24,27,Yes,5,2.1,No
+CUST10545,46,Male,Delhi,Platinum,Mobile,Debit Card,Sports,2023-05-24,2025-02-09,10,1093.36,13510.67,24.8,2,3.2,1,18,21,Yes,2,2.1,No
+CUST10546,53,Male,Coimbatore,Gold,Tablet,COD,,2024-05-30,2024-11-12,9,2909.67,30291.23,14.1,1,4.5,2,16,23,Yes,0,0.0,No
+CUST10547,42,Male,Coimbatore,Basic,Desktop,Debit Card,Grocery,2021-02-21,2025-03-22,11,7227.6,63361.11,15.6,1,2.8,3,20,22,Yes,7,0.3,No
+CUST10548,38,Female,Delhi,Basic,Desktop,COD,Electronics,2021-04-26,2021-12-12,11,1522.79,20934.25,24.8,3,4.6,2,18,23,Yes,5,4.5,Yes
+CUST10549,53,Male,Hyderabad,Silver,Mobile,COD,Home & Kitchen,2022-06-22,2024-04-25,6,8052.99,50855.23,32.6,2,3.5,0,25,24,Yes,3,4.4,Yes
+CUST10550,27,Female,Hyderabad,Basic,Desktop,UPI,Grocery,2025-05-08,2025-12-31,13,2860.22,43759.18,27.5,1,4.2,0,23,27,No,2,0.0,No
+CUST10551,54,Male,Bengaluru,Gold,Mobile,Credit Card,Sports,2022-06-25,2025-12-17,4,3129.4,9805.42,22.0,0,2.7,1,14,14,Yes,12,5.1,No
+CUST10552,26,Male,Mumbai,Silver,Mobile,COD,Sports,2023-11-09,2025-12-31,7,1305.08,8630.6,19.7,1,3.2,1,23,23,No,9,4.9,No
+CUST10553,41,Male,Bengaluru,Platinum,Desktop,COD,Electronics,2023-03-26,2023-09-05,7,2969.44,22549.27,10.9,0,4.3,3,17,19,No,1,4.7,Yes
+CUST10554,52,Male,Mumbai,Silver,Mobile,UPI,Sports,2024-11-16,2025-11-02,9,2135.94,15440.61,17.4,2,3.5,0,20,20,No,12,3.5,No
+CUST10555,52,Female,Coimbatore,Basic,Mobile,Credit Card,Sports,2023-03-02,2025-12-31,5,5239.96,26054.43,7.7,0,3.5,1,11,23,Yes,4,3.5,No
+CUST10556,65,Male,Chennai,Basic,Mobile,Net Banking,Electronics,2025-07-11,2025-12-31,9,1130.41,9882.1,18.0,1,4.9,1,18,21,Yes,14,2.1,No
+CUST10557,53,Female,Bengaluru,Silver,Mobile,Net Banking,Sports,2022-09-10,2024-02-13,8,2153.3,14780.6,18.5,1,5.0,0,15,23,Yes,7,1.2,Yes
+CUST10558,35,Male,Bengaluru,Gold,Desktop,Credit Card,Home & Kitchen,2022-02-23,2025-09-28,7,1846.42,11634.19,0.0,1,4.6,1,18,24,No,11,4.8,No
+CUST10559,56,Male,Mumbai,Gold,Mobile,Debit Card,Fashion,2021-11-05,2024-07-17,6,3188.27,23597.52,15.3,2,3.3,3,16,29,Yes,7,2.0,Yes
+CUST10560,49,Male,Kochi,Basic,Desktop,UPI,Grocery,2025-10-29,2025-12-31,13,855.84,9950.18,18.3,2,5.0,0,21,20,Yes,2,0.0,No
+CUST10561,41,Female,Coimbatore,Basic,Mobile,Credit Card,Home & Kitchen,2023-05-14,2025-12-31,15,5164.66,66369.48,14.3,2,3.0,1,22,25,Yes,8,3.7,No
+CUST10562,40,Female,Coimbatore,Basic,Mobile,Net Banking,Home & Kitchen,2021-07-05,2022-09-26,11,3131.37,35068.68,17.9,1,3.8,2,25,27,Yes,9,0.4,Yes
+CUST10563,49,Male,Pune,Gold,Mobile,COD,Fashion,2021-09-18,2024-12-20,8,3033.81,26345.1,4.3,0,4.0,3,11,19,Yes,4,2.8,No
+CUST10564,54,Male,Kochi,Basic,Desktop,Net Banking,Grocery,2025-04-01,2025-12-31,4,1557.22,6929.92,8.8,2,5.0,3,13,18,Yes,6,5.8,No
+CUST10565,29,Female,Mumbai,Silver,Desktop,COD,Home & Kitchen,2024-07-20,2025-02-23,5,3865.11,21782.28,23.3,3,4.6,0,9,19,No,10,6.7,No
+CUST10566,30,Male,Coimbatore,Silver,Tablet,UPI,Sports,2021-06-09,2022-09-30,15,3687.15,42498.99,15.0,2,3.7,0,12,26,Yes,8,3.9,Yes
+CUST10567,40,Male,Kochi,Platinum,Desktop,COD,Fashion,2023-05-20,2025-12-31,7,4637.6,30738.76,17.7,1,3.4,0,20,30,Yes,6,5.1,No
+CUST10568,42,Female,Delhi,Basic,Mobile,Credit Card,Grocery,2023-02-01,2024-01-08,11,2371.46,29659.3,10.6,2,4.7,0,24,35,Yes,9,4.0,Yes
+CUST10569,52,Female,Kochi,Basic,Mobile,COD,Beauty,2021-08-12,2022-01-22,11,1263.39,16710.46,15.2,1,3.7,0,11,20,Yes,2,4.1,Yes
+CUST10570,58,Male,Hyderabad,Gold,Tablet,Debit Card,Electronics,2024-07-03,2025-12-31,11,1998.57,23107.67,0.0,0,4.1,1,18,24,Yes,1,4.3,No
+CUST10571,47,Female,Pune,Silver,Desktop,Credit Card,Sports,2021-06-29,2021-08-17,10,4134.18,32087.58,21.8,2,3.1,3,21,21,Yes,11,0.4,Yes
+CUST10572,34,Female,Delhi,Basic,Mobile,UPI,Fashion,2021-01-20,2024-06-27,10,2161.02,20493.45,29.5,1,4.4,1,22,20,No,6,0.0,Yes
+CUST10573,37,Male,Chennai,Platinum,Mobile,Credit Card,Electronics,2025-07-06,2025-07-21,6,6235.45,29448.04,6.5,2,4.3,2,15,21,Yes,9,4.5,Yes
+CUST10574,65,Female,Bengaluru,Gold,Desktop,Debit Card,Beauty,2022-09-24,2024-01-19,9,3907.96,39542.38,7.5,0,3.2,3,13,17,Yes,7,3.1,Yes
+CUST10575,42,Female,Pune,Basic,Desktop,UPI,Home & Kitchen,2025-09-26,2025-12-31,7,5832.06,31914.6,18.5,1,4.7,2,21,19,No,11,2.8,No
+CUST10576,39,Male,Chennai,Basic,Mobile,Net Banking,Home & Kitchen,2025-01-31,2025-12-31,11,2215.92,20544.95,26.8,2,4.4,1,20,21,Yes,11,1.6,No
+CUST10577,30,Male,Bengaluru,Silver,Desktop,Debit Card,Grocery,2025-07-05,2025-12-31,12,3317.38,38155.68,15.0,3,4.5,0,16,33,Yes,3,1.8,No
+CUST10578,36,Male,Hyderabad,Gold,Tablet,UPI,Fashion,2024-05-18,2025-12-31,10,1716.86,16847.96,,1,3.8,0,24,16,Yes,0,5.0,No
+CUST10579,53,Female,Kochi,Basic,Mobile,COD,Fashion,2025-03-17,2025-06-09,9,4003.77,34349.01,,3,4.1,1,14,18,No,5,0.8,No
+CUST10580,29,Male,Coimbatore,Gold,Desktop,Credit Card,Grocery,2021-02-27,2021-11-25,10,3431.17,33683.74,6.8,1,4.0,1,20,20,Yes,8,2.5,Yes
+CUST10581,58,Female,Delhi,Silver,Mobile,UPI,Electronics,2024-01-22,2025-12-31,6,3807.08,25277.94,9.6,2,3.9,2,21,26,No,3,0.9,No
+CUST10582,36,Female,Mumbai,Basic,Mobile,Credit Card,Home & Kitchen,2024-05-29,2025-12-31,13,2308.37,28047.27,12.6,3,4.1,2,20,21,Yes,2,0.0,No
+CUST10583,29,Male,Delhi,Gold,Mobile,COD,Home & Kitchen,2022-12-24,2023-04-09,6,2914.35,17903.58,7.6,2,4.8,1,17,21,Yes,5,2.7,Yes
+CUST10584,26,Female,Hyderabad,Platinum,Mobile,UPI,Fashion,2024-06-09,2025-12-31,11,2844.65,28214.75,8.8,0,4.7,1,8,21,Yes,5,4.0,No
+CUST10585,24,Male,Chennai,Basic,Desktop,Net Banking,Fashion,2025-12-03,2025-12-31,10,2313.52,21442.02,15.6,0,3.2,3,18,16,Yes,3,0.4,No
+CUST10586,45,Female,Mumbai,Basic,Mobile,Debit Card,Grocery,2024-10-19,2025-12-31,15,2994.27,47469.64,16.7,3,4.6,2,19,23,Yes,6,1.1,No
+CUST10587,31,Female,Coimbatore,Silver,Mobile,UPI,Beauty,2022-09-07,2022-12-29,12,3233.55,38618.18,3.6,3,4.8,0,28,20,Yes,10,0.1,Yes
+CUST10588,48,Male,Hyderabad,Platinum,Mobile,COD,Electronics,2022-07-16,2023-12-22,11,3504.08,42843.33,18.2,3,3.9,3,18,28,Yes,1,2.8,Yes
+CUST10589,36,Male,Mumbai,Platinum,Mobile,UPI,Sports,2022-01-09,2024-10-05,15,2287.8,35355.75,11.9,2,4.3,1,21,20,No,0,1.5,Yes
+CUST10590,64,Male,Hyderabad,Silver,Mobile,,Beauty,2022-09-14,2025-12-31,11,3905.08,49476.03,20.8,1,4.3,2,12,22,Yes,10,0.0,No
+CUST10591,33,Male,Kochi,Gold,Desktop,UPI,Beauty,2025-01-19,2025-12-31,9,3788.92,33135.38,21.2,3,3.4,1,23,25,Yes,5,1.8,No
+CUST10592,22,Male,Hyderabad,Silver,Mobile,Net Banking,Fashion,2021-03-29,2025-01-08,8,3534.93,28152.66,10.6,1,3.8,1,13,24,No,2,4.6,No
+CUST10593,52,Male,Coimbatore,Silver,Desktop,UPI,Fashion,2023-11-10,2025-12-31,11,4044.31,48268.2,19.9,1,4.5,2,21,23,Yes,2,4.8,No
+CUST10594,29,Other,Pune,Basic,Desktop,Debit Card,Fashion,2023-10-11,2024-06-27,7,2536.23,15279.15,8.3,1,3.7,1,21,19,Yes,12,4.9,Yes
+CUST10595,42,Male,Bengaluru,Basic,Mobile,UPI,Beauty,2021-01-14,2023-04-09,9,1608.52,13651.0,25.6,0,4.6,1,25,32,Yes,0,0.5,Yes
+CUST10596,38,Male,Mumbai,Basic,Desktop,Credit Card,Electronics,2021-05-13,2025-07-01,8,3795.94,32263.08,8.6,0,4.8,2,28,27,Yes,12,0.1,No
+CUST10597,53,Female,Kochi,Silver,Mobile,UPI,Fashion,2023-11-24,2024-09-12,13,2108.8,20956.61,17.8,2,4.7,1,16,15,No,1,1.2,No
+CUST10598,40,Male,Coimbatore,Basic,Mobile,Net Banking,Home & Kitchen,2023-06-11,2025-08-07,5,1293.81,6265.18,13.5,2,5.0,1,20,25,Yes,2,4.4,No
+CUST10599,33,Other,Hyderabad,Platinum,Mobile,COD,Electronics,2024-05-16,2025-12-31,12,2135.32,26890.3,6.9,2,3.9,2,18,19,Yes,0,4.4,No
+CUST10600,56,Female,Kochi,Basic,Mobile,UPI,Home & Kitchen,2024-05-07,2025-12-31,11,2964.27,40226.82,22.2,1,4.1,2,18,23,Yes,7,2.5,No
+CUST10601,62,Female,Coimbatore,Basic,Mobile,UPI,Electronics,2022-08-15,2023-11-03,9,4976.61,53232.68,10.1,1,4.2,0,24,21,Yes,5,4.7,Yes
+CUST10602,59,Male,Pune,Silver,Desktop,Debit Card,Fashion,2022-08-06,2023-11-05,9,3246.41,26014.58,1.4,2,4.0,1,27,21,Yes,8,3.7,Yes
+CUST10603,56,Male,Kochi,Gold,Mobile,Net Banking,Sports,2024-03-24,2025-12-31,14,4033.34,56670.33,0.0,0,4.4,2,20,23,Yes,0,1.5,No
+CUST10604,31,Male,Kochi,Basic,Desktop,COD,Grocery,2025-06-02,2025-12-31,12,3758.05,35094.5,8.0,0,2.9,1,23,21,Yes,10,1.8,No
+CUST10605,48,Female,Bengaluru,Basic,Mobile,Credit Card,Fashion,2024-01-07,2025-12-31,10,3175.73,27640.83,26.0,1,4.1,0,19,30,Yes,13,0.0,No
+CUST10606,22,Male,Delhi,Platinum,Desktop,UPI,Beauty,2024-04-10,2025-01-14,7,2445.74,19472.97,25.1,2,3.1,2,16,28,No,11,2.3,Yes
+CUST10607,52,Male,Mumbai,Basic,Mobile,COD,Sports,2021-10-16,2023-03-29,3,1714.07,4173.71,9.3,1,3.4,0,18,20,No,14,1.3,Yes
+CUST10608,40,Other,Bengaluru,Basic,Mobile,Credit Card,Beauty,2025-04-18,2025-12-31,12,6595.73,69559.51,12.0,2,4.5,0,22,26,Yes,3,0.5,No
+CUST10609,46,Male,Chennai,Gold,Mobile,Net Banking,Electronics,2025-12-17,2025-12-31,8,2161.95,21135.59,11.3,3,3.9,1,23,19,Yes,3,1.0,No
+CUST10610,60,Male,Mumbai,Basic,Mobile,Net Banking,Beauty,2023-10-10,2025-11-24,16,2424.33,45070.35,4.3,1,4.5,3,11,25,Yes,4,5.5,No
+CUST10611,28,Male,Bengaluru,Silver,Mobile,COD,Sports,2023-05-29,2023-12-21,7,2617.7,20905.99,7.4,3,3.9,0,16,24,Yes,10,1.6,Yes
+CUST10612,35,Other,Hyderabad,Silver,Desktop,Credit Card,Sports,2024-12-14,2025-12-31,9,2136.68,22735.36,22.8,2,4.7,0,22,23,Yes,1,5.7,No
+CUST10613,64,Male,Mumbai,Basic,Mobile,Net Banking,Fashion,2021-01-07,2025-01-24,6,3456.99,23330.59,19.0,2,3.8,2,15,13,No,12,2.6,No
+CUST10614,29,Female,Mumbai,Basic,Desktop,COD,Home & Kitchen,2024-03-29,2025-12-31,11,2153.56,19195.16,17.2,4,2.7,0,13,19,No,0,2.0,No
+CUST10615,26,Female,Coimbatore,Basic,Desktop,Net Banking,Fashion,2021-08-28,2022-06-07,6,2399.76,14517.79,4.3,1,4.1,3,22,24,Yes,11,3.5,Yes
+CUST10616,27,Male,Hyderabad,Basic,Desktop,Net Banking,Electronics,2024-12-17,2025-12-31,5,2079.81,10109.14,15.8,1,2.6,2,23,20,Yes,8,0.0,No
+CUST10617,61,Female,Chennai,Basic,Mobile,Net Banking,Beauty,2022-06-20,2024-04-15,6,2376.41,12912.12,0.0,0,3.1,1,20,25,No,4,6.7,Yes
+CUST10618,34,Male,Delhi,Gold,Mobile,Debit Card,Home & Kitchen,2025-10-16,2025-12-10,10,1574.58,18375.67,21.7,1,3.4,1,15,32,Yes,7,4.4,No
+CUST10619,55,Male,Kochi,Silver,Tablet,Credit Card,Grocery,2021-03-11,2024-12-09,11,1413.05,15264.85,17.1,0,,2,21,28,Yes,13,2.9,Yes
+CUST10620,24,Female,Pune,Silver,Desktop,COD,Sports,2021-08-04,2024-11-29,11,5467.03,46916.07,4.2,1,3.6,1,22,20,Yes,11,4.1,No
+CUST10621,63,Female,Bengaluru,Platinum,Mobile,COD,Home & Kitchen,2024-02-02,2025-04-24,5,4043.31,17941.84,27.9,1,3.3,0,17,19,Yes,2,2.6,No
+CUST10622,30,Female,Coimbatore,Gold,Mobile,Credit Card,Home & Kitchen,2025-10-17,2025-12-31,12,5070.29,52587.66,0.6,1,3.1,1,19,22,No,3,1.3,No
+CUST10623,57,Female,Bengaluru,Basic,Mobile,Credit Card,Fashion,2023-12-14,2025-12-31,10,5280.77,63038.63,19.2,2,5.0,0,25,22,Yes,3,2.5,No
+CUST10624,59,Male,Chennai,Platinum,Mobile,Credit Card,Grocery,2023-03-17,2025-10-17,7,1813.26,13628.52,19.4,1,3.6,1,24,23,No,5,1.7,No
+CUST10625,26,Male,Kochi,Basic,Desktop,Credit Card,Sports,2021-11-26,2022-10-29,13,4968.53,66540.77,5.1,1,2.6,4,15,23,Yes,3,0.7,Yes
+CUST10626,44,Male,Chennai,Basic,Mobile,UPI,Electronics,2023-04-28,2025-10-28,9,4364.27,39409.02,14.7,2,3.8,2,16,23,No,4,1.7,No
+CUST10627,19,Male,Mumbai,Gold,Mobile,COD,Electronics,2024-05-11,2025-12-31,8,2367.43,20360.97,1.9,1,3.3,1,12,24,Yes,11,2.9,No
+CUST10628,22,Male,Pune,Silver,Mobile,UPI,,2024-08-04,2025-12-31,6,3231.94,21862.87,0.0,2,3.4,1,24,21,No,13,3.2,No
+CUST10629,46,Male,Chennai,Silver,Mobile,Net Banking,Home & Kitchen,2021-02-14,2023-07-12,11,3980.66,44977.94,6.5,0,4.5,2,21,14,No,4,5.3,Yes
+CUST10630,54,Male,Bengaluru,Basic,Desktop,Net Banking,,2023-04-09,2025-09-20,10,3597.45,43858.05,10.1,1,3.7,3,21,22,Yes,7,1.9,No
+CUST10631,55,Male,Hyderabad,Silver,Desktop,COD,Grocery,2021-07-17,2022-07-06,9,2626.75,29277.11,20.2,1,3.3,1,17,29,Yes,8,1.1,Yes
+CUST10632,36,Female,Hyderabad,Basic,Mobile,Net Banking,Sports,2024-05-24,2025-08-01,10,2984.27,37233.88,15.5,1,4.3,1,25,20,No,10,0.0,No
+CUST10633,25,Female,Mumbai,Platinum,Desktop,Credit Card,Home & Kitchen,2025-02-13,2025-12-31,8,3402.98,29529.58,15.7,1,4.7,1,15,31,Yes,7,3.4,No
+CUST10634,65,Male,Delhi,Basic,Mobile,UPI,Beauty,2024-08-25,2025-12-31,3,2334.88,8519.82,6.9,2,4.3,1,19,26,Yes,11,5.4,No
+CUST10635,62,Female,Bengaluru,Platinum,Mobile,Credit Card,Grocery,2023-06-15,2025-07-11,5,3571.76,17005.86,10.8,0,2.4,2,17,23,No,4,1.7,No
+CUST10636,18,Female,Bengaluru,Silver,Mobile,Net Banking,Sports,2024-12-29,2025-09-29,8,1999.63,18873.25,7.6,0,3.3,0,18,21,Yes,11,1.4,No
+CUST10637,39,Male,Chennai,Gold,Mobile,UPI,Electronics,2021-11-28,2023-12-14,5,5042.21,30368.91,5.2,0,4.0,3,13,29,No,11,4.2,Yes
+CUST10638,34,Female,Pune,Gold,Mobile,Credit Card,Beauty,2022-11-27,2024-10-21,7,4272.25,35948.81,10.3,0,3.8,0,21,25,Yes,5,0.4,No
+CUST10639,24,Female,Bengaluru,Gold,Mobile,COD,Grocery,2021-01-27,2022-12-25,10,4017.85,46824.95,15.6,1,3.8,2,20,25,Yes,3,5.7,Yes
+CUST10640,42,Female,Coimbatore,Basic,Desktop,Credit Card,Beauty,2024-04-04,2025-12-31,5,3299.2,15725.63,10.4,1,3.4,1,14,19,Yes,1,2.3,No
+CUST10641,62,Male,Delhi,Basic,Mobile,Net Banking,Home & Kitchen,2021-11-14,2025-10-13,11,3080.78,28109.01,12.4,1,3.1,2,22,19,No,10,3.3,No
+CUST10642,21,Female,Chennai,Basic,Desktop,UPI,Fashion,2024-07-21,2025-12-31,8,4345.8,31880.03,20.6,1,5.0,0,22,24,Yes,10,2.6,No
+CUST10643,53,Male,Coimbatore,Gold,Mobile,COD,Electronics,2024-11-07,2025-12-31,12,1645.65,22386.98,11.0,0,4.0,2,24,27,No,4,0.0,No
+CUST10644,23,Female,Mumbai,Gold,Tablet,UPI,Home & Kitchen,2021-12-31,2024-08-03,5,1892.14,8197.15,4.3,3,4.4,4,19,23,Yes,0,2.4,Yes
+CUST10645,48,Female,Hyderabad,Silver,Desktop,COD,Home & Kitchen,2024-02-01,2025-06-10,17,3611.05,60720.93,19.5,2,4.0,2,18,17,No,0,1.7,No
+CUST10646,36,Female,Mumbai,Basic,Mobile,UPI,Grocery,2023-08-18,2025-12-31,9,2736.06,25429.76,17.1,0,4.0,2,26,23,Yes,0,3.3,No
+CUST10647,61,Female,Hyderabad,Silver,Desktop,Net Banking,Beauty,2025-03-07,2025-12-31,6,2140.59,13510.5,17.6,0,4.0,1,17,17,Yes,3,4.8,No
+CUST10648,56,Female,Mumbai,Silver,Mobile,COD,Electronics,2022-01-08,2024-04-02,9,4495.54,49274.56,20.0,1,3.3,2,11,33,Yes,13,3.5,Yes
+CUST10649,44,Male,Bengaluru,Silver,Desktop,Debit Card,Home & Kitchen,2025-06-28,2025-12-31,5,2947.3,15926.42,18.7,1,3.0,3,15,32,Yes,4,1.2,No
+CUST10650,27,Male,Coimbatore,Gold,Mobile,UPI,Grocery,2021-09-02,2021-12-30,9,3227.7,33207.69,15.2,2,4.3,2,15,31,Yes,14,5.8,Yes
+CUST10651,43,Female,Hyderabad,Platinum,Desktop,UPI,Electronics,2024-04-07,2025-12-31,10,4546.1,47322.14,34.1,3,4.1,5,22,28,No,3,2.6,No
+CUST10652,36,Male,Chennai,Basic,Desktop,Credit Card,Beauty,2025-07-10,2025-12-31,10,2609.08,30442.49,4.7,1,4.6,0,20,24,No,5,5.1,No
+CUST10653,56,Male,Coimbatore,Silver,Mobile,COD,Home & Kitchen,2025-08-04,2025-12-31,11,6279.54,60912.48,10.3,3,4.5,0,14,18,Yes,1,4.3,No
+CUST10654,20,Male,Chennai,Silver,Mobile,Debit Card,Sports,2024-12-12,2025-12-31,7,1711.99,10245.53,22.7,2,3.5,0,26,12,Yes,4,0.5,No
+CUST10655,62,Male,Coimbatore,Basic,Desktop,Net Banking,Home & Kitchen,2024-10-11,2025-12-31,8,4483.06,43509.35,16.1,4,4.7,0,21,22,Yes,12,4.6,No
+CUST10656,30,Female,Coimbatore,Basic,Mobile,Credit Card,Home & Kitchen,2022-04-23,2025-03-14,10,2200.29,24131.47,21.1,0,4.5,1,20,12,No,5,4.2,No
+CUST10657,45,Female,Mumbai,Basic,Mobile,Debit Card,Electronics,2021-05-05,2022-02-02,8,4161.64,36148.43,16.4,0,4.4,4,23,17,Yes,14,2.7,Yes
+CUST10658,37,Female,Hyderabad,Platinum,Mobile,COD,Electronics,2022-06-21,2024-10-09,12,2014.9,23783.42,26.0,0,5.0,1,18,19,Yes,4,1.6,No
+CUST10659,45,Female,Hyderabad,Silver,Mobile,Debit Card,Electronics,2022-12-07,2023-12-28,3,1405.91,3957.7,6.9,1,5.0,2,25,22,Yes,5,4.1,Yes
+CUST10660,25,Male,Pune,Silver,Tablet,UPI,Electronics,2025-06-24,2025-12-31,18,4186.29,77451.48,25.7,0,4.4,1,10,23,Yes,7,4.5,No
+CUST10661,58,Male,Coimbatore,Platinum,Mobile,UPI,Grocery,2024-11-26,2025-12-31,13,2373.55,25002.22,24.4,3,4.4,2,18,28,Yes,1,1.7,No
+CUST10662,56,Female,Bengaluru,Gold,Mobile,Credit Card,Fashion,2025-03-21,2025-12-31,9,1431.24,12589.48,5.3,1,4.7,1,18,26,Yes,12,3.7,No
+CUST10663,18,Male,Bengaluru,Basic,Desktop,COD,Grocery,2022-06-15,2024-02-12,4,4275.88,16721.84,20.0,1,3.6,2,18,22,No,6,1.8,Yes
+CUST10664,20,Female,Chennai,Silver,Desktop,COD,Home & Kitchen,2025-09-02,2025-11-15,10,3071.39,31302.63,14.7,3,3.6,0,26,25,No,13,1.4,No
+CUST10665,30,Female,Chennai,Silver,Mobile,Debit Card,Grocery,2023-02-25,2023-06-24,10,2369.88,25294.74,10.1,0,4.4,1,18,24,No,5,3.4,Yes
+CUST10666,45,Male,Mumbai,Gold,Mobile,Credit Card,Beauty,2021-09-11,2025-09-14,7,3303.93,28415.83,0.0,4,3.4,2,18,23,Yes,9,4.1,No
+CUST10667,42,Female,Coimbatore,Gold,Tablet,COD,Sports,2021-05-01,2023-10-09,7,2600.3,19587.0,6.9,0,4.4,0,18,27,No,7,3.5,Yes
+CUST10668,50,Female,Chennai,Gold,Desktop,UPI,Electronics,2023-11-22,2025-12-31,11,2460.87,32263.21,20.7,0,4.1,2,19,21,No,8,2.2,No
+CUST10669,55,Female,Chennai,Basic,Mobile,Debit Card,Beauty,2022-10-23,2025-10-11,4,3960.32,16287.24,21.5,0,3.4,1,22,23,Yes,13,0.2,No
+CUST10670,23,Male,Delhi,Gold,Mobile,Net Banking,Sports,2025-12-07,2025-12-31,5,3087.2,16415.63,13.3,1,4.0,2,20,24,No,7,1.9,No
+CUST10671,61,Male,Coimbatore,Basic,Mobile,UPI,Beauty,2023-11-27,2025-12-31,11,1957.94,16905.06,21.5,2,4.8,0,17,24,No,13,3.2,No
+CUST10672,62,Female,Kochi,Basic,Mobile,Credit Card,Home & Kitchen,2025-09-09,2025-12-31,7,2771.71,15844.27,22.6,0,4.1,2,15,20,No,4,6.8,No
+CUST10673,49,Male,Mumbai,Basic,Mobile,COD,Electronics,2024-09-27,2025-07-05,13,3933.73,53175.6,16.2,1,4.1,1,15,23,No,3,0.6,No
+CUST10674,62,Male,Chennai,Basic,Desktop,UPI,Beauty,2023-11-03,2025-12-31,10,1684.05,15962.38,9.2,3,4.2,2,17,26,No,2,2.3,No
+CUST10675,64,Female,Mumbai,Basic,Mobile,Net Banking,Home & Kitchen,2024-04-21,2025-12-31,10,4679.3,53784.12,18.5,1,4.3,1,14,17,No,9,2.2,No
+CUST10676,38,Male,Hyderabad,Gold,Desktop,Net Banking,Electronics,2025-08-08,2025-12-31,11,3038.16,34141.26,18.9,0,,0,15,22,Yes,8,0.0,No
+CUST10677,33,Female,Mumbai,Platinum,Mobile,Credit Card,Fashion,2024-07-12,2025-12-31,7,2933.07,24455.99,20.4,2,4.2,1,18,22,No,6,1.3,No
+CUST10678,38,Female,Kochi,Basic,Desktop,UPI,Home & Kitchen,2021-03-29,2025-03-02,10,2999.67,37080.9,21.9,1,3.3,0,24,15,No,0,0.1,Yes
+CUST10679,28,Female,Bengaluru,Basic,Desktop,Debit Card,Grocery,2025-01-25,2025-12-31,8,5589.58,36838.35,4.1,0,3.5,1,12,22,Yes,2,1.7,No
+CUST10680,54,Male,Kochi,Basic,Mobile,UPI,Electronics,2021-02-15,2021-12-06,13,2779.94,34238.8,10.9,1,3.6,1,16,24,Yes,12,5.5,Yes
+CUST10681,53,Female,Bengaluru,Basic,Mobile,Net Banking,Beauty,2024-11-16,2025-12-31,9,2383.94,23225.33,0.0,1,4.3,1,19,29,Yes,14,3.8,No
+CUST10682,52,Male,Mumbai,Basic,Mobile,Credit Card,Sports,2024-02-17,2025-12-31,11,8263.07,82053.84,21.0,1,4.1,1,18,23,No,11,2.8,No
+CUST10683,36,Male,Bengaluru,Platinum,Desktop,Credit Card,Beauty,2023-07-22,2023-08-31,7,2622.98,16222.12,13.3,4,3.9,0,15,21,Yes,2,6.4,Yes
+CUST10684,37,Female,Hyderabad,Basic,Desktop,Debit Card,Grocery,2025-04-04,2025-12-31,12,4185.44,58104.08,18.4,2,4.4,2,18,17,Yes,12,5.3,No
+CUST10685,35,Male,Coimbatore,Silver,Mobile,Credit Card,Grocery,2025-01-10,2025-12-31,8,3678.01,36491.43,3.2,0,4.2,1,24,27,Yes,5,0.9,No
+CUST10686,64,Male,Bengaluru,Basic,Mobile,Credit Card,Beauty,2025-10-22,2025-12-31,7,2799.25,22277.3,26.2,1,3.8,1,20,33,No,14,0.0,No
+CUST10687,58,Female,Bengaluru,Gold,Mobile,Credit Card,Sports,2023-01-15,2025-04-06,9,6866.21,62527.45,5.4,2,3.3,3,12,26,No,12,0.0,No
+CUST10688,31,Male,Mumbai,Gold,Desktop,Credit Card,Electronics,2025-06-18,2025-12-31,9,3544.29,30981.7,21.2,1,3.5,2,18,32,Yes,1,0.7,No
+CUST10689,32,Male,Hyderabad,Platinum,Mobile,Credit Card,Home & Kitchen,2023-08-25,2023-12-28,9,1844.48,16929.4,15.9,3,3.0,1,20,20,Yes,3,1.4,Yes
+CUST10690,48,Female,Pune,Gold,Mobile,Net Banking,Grocery,2023-02-02,2025-12-31,10,1058.23,10385.68,13.5,0,4.1,0,15,24,No,11,5.6,No
+CUST10691,18,Female,Pune,Basic,Mobile,UPI,Grocery,2023-02-01,2024-04-12,7,3699.86,25936.42,12.8,2,3.4,2,28,23,Yes,1,4.9,Yes
+CUST10692,20,Female,Pune,Basic,Mobile,COD,Grocery,2023-03-05,2025-09-09,13,2459.95,27237.66,9.9,0,3.7,2,18,18,Yes,4,4.3,No
+CUST10693,33,Male,Pune,Gold,Desktop,Credit Card,Sports,2023-01-14,2025-01-23,6,1384.31,9982.57,25.4,0,3.9,2,18,14,Yes,12,1.5,Yes
+CUST10694,40,Male,Coimbatore,Silver,Mobile,COD,Fashion,2023-12-06,2025-12-31,7,2664.74,21027.12,15.1,2,4.7,1,18,20,Yes,14,2.1,No
+CUST10695,28,Male,Kochi,Silver,Desktop,COD,Sports,2025-03-12,2025-12-31,10,3812.65,41576.52,4.8,0,4.6,3,12,29,Yes,3,1.7,No
+CUST10696,29,Male,Mumbai,Basic,Mobile,Net Banking,Electronics,2022-07-12,2023-05-16,12,2577.69,37890.88,11.9,4,4.0,1,22,16,No,3,6.9,Yes
+CUST10697,27,Female,Mumbai,Basic,Mobile,Credit Card,Electronics,2022-06-10,2025-09-09,14,2738.52,34206.2,16.0,3,4.8,2,15,25,Yes,11,1.2,No
+CUST10698,49,Male,Delhi,Silver,Desktop,COD,Electronics,2022-08-20,2025-12-31,7,1015.85,5621.77,22.2,3,2.7,0,20,24,Yes,3,0.9,No
+CUST10699,33,Male,Hyderabad,Silver,Tablet,Credit Card,Electronics,2023-04-20,2025-12-31,12,3703.27,51685.92,,4,5.0,3,10,14,Yes,12,3.6,No
+CUST10700,25,Female,Pune,Gold,Desktop,Debit Card,Electronics,2021-01-03,2023-04-01,6,1249.5,9365.32,10.7,0,4.5,1,17,20,Yes,3,0.6,Yes
+CUST10701,55,Female,Coimbatore,Basic,Mobile,Debit Card,Beauty,2023-11-18,2025-12-31,8,2131.25,17718.64,15.2,0,4.1,2,20,18,Yes,13,3.6,No
+CUST10702,29,Female,Hyderabad,Silver,Mobile,Debit Card,Grocery,2024-11-05,2025-12-31,7,3158.79,17233.83,22.0,2,3.4,0,17,27,Yes,4,3.1,No
+CUST10703,41,Male,Pune,Basic,Desktop,COD,Sports,2021-06-06,2022-07-09,11,1938.91,24318.92,4.0,3,3.7,1,17,23,Yes,1,1.0,Yes
+CUST10704,45,Male,Coimbatore,Basic,Mobile,Debit Card,Beauty,2023-05-05,2024-02-26,6,2116.79,9993.89,19.0,0,4.4,0,16,22,Yes,5,1.8,Yes
+CUST10705,25,Male,Hyderabad,Silver,Mobile,Net Banking,Sports,2022-05-26,2024-07-12,7,1468.93,10488.23,11.3,2,4.4,1,18,16,No,0,0.8,Yes
+CUST10706,45,Male,Mumbai,Basic,Desktop,Net Banking,Fashion,2024-09-18,2025-12-31,9,3094.14,24749.7,12.4,1,4.4,0,9,28,No,9,4.5,No
+CUST10707,53,Female,Mumbai,Basic,Desktop,COD,Home & Kitchen,2022-11-18,2025-07-26,7,3205.79,27097.24,31.0,1,3.5,0,15,19,No,1,2.2,No
+CUST10708,43,Female,Kochi,Basic,Tablet,Credit Card,Grocery,2024-02-12,2024-09-07,4,2837.38,11073.34,13.4,2,3.4,1,17,19,Yes,2,2.1,Yes
+CUST10709,25,Female,Chennai,Basic,Tablet,UPI,Fashion,2024-11-13,2025-12-31,7,971.69,8156.97,21.0,1,4.1,0,22,17,Yes,1,4.1,No
+CUST10710,45,Female,Kochi,Basic,Desktop,Credit Card,Beauty,2025-02-19,2025-12-31,8,1125.84,8101.91,20.8,0,4.5,2,11,20,No,14,3.9,No
+CUST10711,45,Male,Bengaluru,Basic,Mobile,Credit Card,Home & Kitchen,2024-06-27,2025-12-31,12,4184.03,47380.69,5.6,0,4.0,3,15,17,Yes,2,3.0,No
+CUST10712,54,Female,Kochi,Basic,Mobile,Credit Card,Fashion,2022-07-25,2023-03-02,8,2346.86,22972.18,0.2,3,5.0,4,9,19,Yes,7,4.6,Yes
+CUST10713,58,Male,Pune,Basic,Mobile,Credit Card,Sports,2022-12-16,2024-09-29,10,7416.24,63086.78,21.6,0,4.0,1,25,22,Yes,2,2.2,No
+CUST10714,53,Female,Delhi,Silver,Mobile,UPI,Home & Kitchen,2024-08-31,2025-12-31,5,3101.11,16114.15,6.3,1,4.0,2,12,23,No,10,0.7,No
+CUST10715,44,Female,Hyderabad,Basic,Mobile,Debit Card,Sports,2021-08-27,2021-11-13,8,6224.25,47018.24,1.7,1,4.4,0,13,17,No,13,2.8,Yes
+CUST10716,34,Male,Delhi,Basic,Mobile,Credit Card,Fashion,2024-06-11,2025-12-31,10,2560.36,29113.43,23.2,0,4.8,0,17,25,Yes,9,2.4,No
+CUST10717,26,Male,Chennai,Basic,Mobile,Net Banking,Beauty,2021-10-30,2025-11-11,10,2216.97,18060.51,6.8,1,3.1,2,16,17,No,0,5.4,No
+CUST10718,50,Other,Bengaluru,Gold,Mobile,COD,Sports,2022-08-30,2025-10-16,7,3724.53,25253.25,8.8,0,3.3,1,21,18,No,14,2.0,No
+CUST10719,37,Male,Hyderabad,Gold,Mobile,COD,Home & Kitchen,2023-09-18,2025-12-31,7,4564.82,35132.06,30.8,1,3.8,0,17,23,Yes,13,5.7,No
+CUST10720,30,Male,Coimbatore,Gold,Mobile,Net Banking,Fashion,2025-08-04,2025-12-31,8,2566.52,19577.58,1.7,0,5.0,1,24,17,Yes,10,0.1,No
+CUST10721,45,Male,Pune,Gold,Mobile,Credit Card,Sports,2021-11-30,2023-11-16,8,3670.06,22879.62,4.9,0,3.8,2,21,31,Yes,7,2.0,Yes
+CUST10722,65,Female,Bengaluru,Silver,Desktop,UPI,,2021-04-23,2022-06-06,7,1252.62,9667.59,,1,3.9,1,27,21,No,7,1.9,Yes
+CUST10723,46,Female,Mumbai,Gold,Mobile,Debit Card,Grocery,2025-07-03,2025-12-31,14,1843.34,25848.03,13.1,0,4.4,0,19,25,Yes,6,1.9,No
+CUST10724,30,Female,Chennai,Silver,Mobile,COD,Beauty,2021-12-28,2024-01-14,7,3352.51,17733.37,7.9,2,4.6,0,13,25,Yes,3,4.8,Yes
+CUST10725,63,Male,Bengaluru,Basic,Desktop,Debit Card,Beauty,2023-03-12,2024-01-18,8,2354.23,19894.71,5.7,1,4.1,2,24,27,No,11,1.6,Yes
+CUST10726,52,Female,Pune,Basic,Mobile,UPI,Grocery,2021-04-07,2025-04-09,7,3155.28,26723.91,27.1,2,4.8,2,26,34,Yes,4,4.5,No
+CUST10727,23,Male,Kochi,Basic,Mobile,COD,Beauty,2021-01-16,2023-11-17,11,3377.05,29922.83,17.1,0,3.2,2,18,28,Yes,11,2.3,Yes
+CUST10728,35,Female,Bengaluru,Platinum,Mobile,Debit Card,Grocery,2022-07-10,2024-08-23,3,3643.95,11427.45,19.7,0,3.5,1,14,16,No,11,2.3,Yes
+CUST10729,22,Female,Kochi,Silver,Mobile,UPI,Grocery,2022-01-11,2023-12-28,6,4143.3,27702.13,13.9,2,4.8,3,16,24,Yes,10,0.0,Yes
+CUST10730,64,Male,Pune,Gold,Tablet,Debit Card,Sports,2023-01-12,2025-12-31,9,4188.18,29604.07,17.3,0,4.0,1,26,23,Yes,13,5.0,No
+CUST10731,42,Male,Mumbai,Basic,Mobile,Credit Card,Sports,2022-01-25,2023-07-17,6,1665.66,7608.48,22.5,1,3.2,0,19,22,Yes,9,5.6,Yes
+CUST10732,19,Male,Hyderabad,Silver,Desktop,UPI,Grocery,2022-09-12,2024-04-01,6,2589.86,15260.98,7.0,2,3.1,1,22,16,No,5,0.0,Yes
+CUST10733,27,Male,Coimbatore,Basic,Mobile,Debit Card,Fashion,2024-05-25,2025-12-31,9,2553.2,26324.36,17.1,0,3.5,0,18,20,Yes,5,5.7,Yes
+CUST10734,47,Male,Mumbai,Basic,Mobile,Credit Card,Home & Kitchen,2024-11-23,2025-12-31,9,2711.89,20266.6,20.6,0,4.0,2,25,21,Yes,6,0.0,No
+CUST10735,62,Female,Kochi,Gold,Mobile,Credit Card,Fashion,2024-07-07,2024-11-24,7,2454.66,20074.78,27.4,3,4.3,2,26,30,Yes,3,2.2,Yes
+CUST10736,22,Female,Kochi,Silver,Mobile,UPI,Grocery,2023-04-04,2023-11-30,4,2791.52,12040.26,30.6,3,3.8,2,24,27,Yes,7,2.3,Yes
+CUST10737,50,Male,Coimbatore,Basic,Mobile,Net Banking,Home & Kitchen,2021-11-16,2023-11-22,8,2086.77,15293.3,15.6,2,4.3,1,14,24,Yes,1,1.9,Yes
+CUST10738,18,Male,Hyderabad,Gold,Mobile,COD,Sports,2021-07-15,2022-06-27,9,4022.51,36489.06,24.1,1,3.7,6,14,29,Yes,8,4.7,Yes
+CUST10739,35,Male,Bengaluru,Basic,Mobile,UPI,Home & Kitchen,2025-02-10,2025-12-31,8,3379.45,33329.15,0.0,1,4.8,1,16,18,Yes,14,4.0,No
+CUST10740,49,Female,Coimbatore,Platinum,Desktop,Credit Card,Grocery,2022-02-22,2024-09-03,11,2077.15,19609.13,27.4,0,5.0,1,23,18,Yes,5,0.0,Yes
+CUST10741,64,Male,Chennai,Basic,Mobile,Credit Card,Sports,2025-02-07,2025-12-31,14,2815.84,39412.6,9.2,2,3.7,0,25,23,No,13,5.4,No
+CUST10742,28,Female,Chennai,Basic,Desktop,UPI,Home & Kitchen,2022-08-30,2023-03-03,10,5937.71,63072.93,13.1,3,4.3,1,17,21,No,11,5.8,Yes
+CUST10743,38,Female,Pune,Basic,Desktop,Net Banking,Home & Kitchen,2022-07-22,2025-02-06,6,1707.7,8391.71,18.5,0,4.3,0,26,26,Yes,0,3.9,No
+CUST10744,43,Female,Mumbai,Basic,Mobile,COD,Fashion,2022-06-28,2022-07-13,6,1871.5,8666.1,13.8,1,4.1,5,18,22,Yes,14,1.8,Yes
+CUST10745,42,Female,Kochi,Basic,Mobile,Debit Card,Home & Kitchen,2021-08-19,2024-01-26,7,4105.14,21745.38,16.6,1,4.4,0,27,30,Yes,0,2.9,Yes
+CUST10746,39,Male,Hyderabad,Silver,Mobile,UPI,Grocery,2023-06-03,2025-10-25,15,5350.82,73227.02,27.7,0,4.3,2,20,18,No,12,1.9,No
+CUST10747,44,Female,Pune,Gold,Desktop,COD,Electronics,2022-06-05,2023-02-15,11,3212.89,27813.06,11.9,2,3.7,1,23,23,No,7,4.5,Yes
+CUST10748,30,Male,Mumbai,Gold,Mobile,COD,Electronics,2022-12-04,2024-07-24,10,2895.62,33354.21,6.3,0,4.9,1,16,19,No,9,0.0,No
+CUST10749,50,Male,Mumbai,Basic,Desktop,Credit Card,Electronics,2024-05-08,2025-12-31,10,1566.63,19561.88,29.5,2,4.1,1,20,22,Yes,9,3.3,No
+CUST10750,51,Female,Pune,Silver,Mobile,Debit Card,Grocery,2023-04-26,2023-05-30,4,2266.02,7075.89,19.2,1,3.7,1,14,27,Yes,12,4.8,Yes
+CUST10751,58,Female,Delhi,Basic,Desktop,UPI,Electronics,2022-11-04,2025-12-31,5,2212.98,10692.71,30.4,0,5.0,2,16,21,Yes,6,2.0,No
+CUST10752,52,Female,Mumbai,Basic,Mobile,Credit Card,Fashion,2025-06-11,2025-12-31,9,2276.07,15627.03,21.9,2,3.9,3,17,24,Yes,2,3.6,No
+CUST10753,18,Male,Delhi,Gold,Desktop,Credit Card,Grocery,2021-01-21,2021-06-25,12,1971.27,19326.22,4.4,2,,1,19,17,Yes,7,0.0,Yes
+CUST10754,38,Male,Chennai,Silver,Mobile,Net Banking,Sports,2024-08-27,2025-12-31,11,1522.14,15261.09,20.2,2,4.1,0,19,30,Yes,14,0.6,No
+CUST10755,65,Female,Chennai,Basic,Mobile,COD,Grocery,2022-08-11,2024-07-12,7,3741.38,24797.66,7.1,2,3.9,1,19,21,No,7,3.3,Yes
+CUST10756,23,Male,Mumbai,Basic,Mobile,UPI,Grocery,2023-06-17,2023-08-20,11,3302.07,44309.84,15.1,2,4.3,2,17,26,No,12,3.4,Yes
+CUST10757,45,Female,Chennai,Platinum,Mobile,UPI,Home & Kitchen,2025-08-04,2025-12-31,14,1524.4,20230.1,14.4,1,3.5,1,22,29,Yes,6,1.3,No
+CUST10758,34,Female,Hyderabad,Basic,Tablet,UPI,Home & Kitchen,2025-07-20,2025-12-31,8,2832.35,22616.63,2.1,1,4.4,4,15,29,No,13,3.1,No
+CUST10759,22,Female,Delhi,Silver,Mobile,Credit Card,Home & Kitchen,2025-11-22,2025-12-31,14,2411.19,29462.53,8.5,1,2.9,1,12,16,No,4,2.4,No
+CUST10760,48,Male,Delhi,Silver,Mobile,Net Banking,Beauty,2025-06-08,2025-12-31,6,5645.39,25406.37,32.6,1,3.2,1,14,15,Yes,7,0.0,No
+CUST10761,22,Male,Mumbai,Basic,Mobile,Debit Card,Fashion,2024-12-28,2025-12-31,11,4759.17,62803.62,16.9,3,5.0,1,16,18,No,4,2.0,No
+CUST10762,55,Male,Chennai,Basic,Mobile,Credit Card,Grocery,2022-01-06,2025-10-07,12,5629.44,53425.01,13.6,1,3.2,2,15,30,Yes,0,3.9,No
+CUST10763,20,Female,Coimbatore,Silver,Mobile,Debit Card,Grocery,2025-05-03,2025-12-31,13,2250.88,36053.73,29.5,1,2.7,2,19,25,Yes,7,5.2,No
+CUST10764,40,Male,Kochi,Gold,Desktop,Net Banking,Home & Kitchen,2021-03-19,2022-03-30,12,1180.42,11550.49,11.8,0,3.2,2,19,21,No,6,2.0,Yes
+CUST10765,54,Female,Pune,Silver,Mobile,COD,Grocery,2025-04-15,2025-09-21,10,1641.58,17276.63,14.3,2,5.0,3,17,27,No,6,3.3,No
+CUST10766,54,Male,Pune,Silver,Tablet,UPI,Sports,2024-08-01,2025-12-31,7,2269.82,19856.24,22.9,2,2.8,1,19,16,No,1,2.8,No
+CUST10767,27,Other,Delhi,Platinum,Mobile,Debit Card,Grocery,2022-10-10,2025-12-20,6,2490.6,12242.28,11.8,1,,3,22,21,Yes,10,3.6,No
+CUST10768,27,Male,Mumbai,Gold,Mobile,Credit Card,Electronics,2021-05-20,2022-06-13,11,5688.13,60190.01,9.0,0,3.1,0,19,27,Yes,11,1.2,Yes
+CUST10769,36,Male,Mumbai,Silver,Desktop,Debit Card,Sports,2022-07-07,2025-12-31,8,4011.88,36595.14,0.0,2,3.8,1,24,24,Yes,11,2.4,No
+CUST10770,34,Male,Hyderabad,Silver,Desktop,COD,Sports,2023-09-25,2025-12-31,6,3304.61,15189.87,7.5,1,3.7,1,17,25,Yes,11,3.6,No
+CUST10771,38,Female,Bengaluru,Silver,Mobile,UPI,Grocery,2021-10-09,2025-08-14,10,4791.49,52461.61,7.4,2,3.7,0,12,18,Yes,2,3.3,No
+CUST10772,31,Female,Kochi,Gold,Desktop,Debit Card,Beauty,2025-05-05,2025-12-31,11,3559.9,30942.84,16.3,1,5.0,3,25,24,Yes,11,3.7,No
+CUST10773,26,Female,Bengaluru,Silver,Mobile,COD,Home & Kitchen,2024-07-05,2025-12-31,10,3904.43,33900.61,10.1,0,3.2,2,10,34,Yes,2,4.1,No
+CUST10774,63,Male,Delhi,Silver,Mobile,Credit Card,Fashion,2024-10-15,2025-12-31,6,2411.75,12011.07,32.3,1,3.9,3,21,22,No,11,2.8,No
+CUST10775,18,Male,Pune,Basic,Desktop,Net Banking,Fashion,2022-03-16,2025-12-31,11,1381.71,18294.32,6.5,2,4.2,2,20,21,Yes,11,3.1,No
+CUST10776,62,Female,Hyderabad,Silver,Mobile,Credit Card,Electronics,2021-09-27,2024-09-03,7,1256.89,7392.52,26.2,0,3.4,3,14,25,Yes,10,1.4,Yes
+CUST10777,30,Male,Hyderabad,Basic,Mobile,UPI,Fashion,2024-03-03,2025-01-29,13,1266.16,12677.83,16.8,1,4.3,2,19,21,Yes,9,4.2,Yes
+CUST10778,21,Male,Hyderabad,Basic,Desktop,Credit Card,Fashion,2023-01-16,2024-09-06,5,3719.12,19410.33,21.5,0,3.7,2,14,24,No,5,0.3,Yes
+CUST10779,18,Other,Delhi,Basic,Tablet,Credit Card,Home & Kitchen,2025-07-22,2025-12-31,10,1906.23,17596.23,21.0,0,4.2,0,17,25,Yes,5,3.7,No
+CUST10780,57,Other,Bengaluru,Silver,Mobile,Credit Card,Home & Kitchen,2021-04-14,2024-09-14,8,2419.67,18444.72,0.0,2,3.9,0,17,19,Yes,2,2.8,Yes
+CUST10781,49,Female,Pune,Silver,Mobile,Credit Card,Beauty,2023-02-05,2024-08-25,4,1461.98,4734.07,14.9,0,2.7,1,22,19,Yes,10,1.1,Yes
+CUST10782,51,Female,Hyderabad,Basic,Mobile,UPI,Electronics,2021-04-05,2022-02-24,11,4506.34,55722.2,12.9,2,4.8,0,17,24,Yes,4,1.2,Yes
+CUST10783,45,Male,Pune,Silver,Tablet,COD,Fashion,2022-12-30,2025-07-25,6,2768.16,17452.31,5.9,3,5.0,4,14,30,Yes,8,2.9,No
+CUST10784,48,Male,Chennai,Silver,Desktop,Debit Card,Beauty,2025-05-16,2025-09-01,7,3088.61,20152.44,18.7,3,3.9,0,25,17,Yes,6,2.0,No
+CUST10785,25,Female,Mumbai,Basic,Mobile,Net Banking,Electronics,2022-04-25,2022-11-14,10,3227.79,26977.46,28.7,3,3.4,0,18,23,Yes,8,1.6,Yes
+CUST10786,56,Female,Mumbai,Gold,Mobile,Debit Card,Sports,2023-02-19,2024-12-11,5,3407.46,17833.38,0.0,3,5.0,2,22,29,Yes,1,3.3,Yes
+CUST10787,43,Male,Pune,Gold,Mobile,Debit Card,Fashion,2024-06-18,2025-12-31,9,4614.96,47320.36,10.7,3,5.0,1,16,31,Yes,9,0.0,No
+CUST10788,51,Male,Coimbatore,Gold,Desktop,Net Banking,Fashion,2021-01-13,2021-08-19,13,3777.84,44505.16,5.0,6,3.9,2,19,25,Yes,9,2.7,Yes
+CUST10789,20,Male,Coimbatore,Silver,Mobile,UPI,Home & Kitchen,2024-03-16,2025-12-31,13,1746.63,17323.24,15.6,0,3.9,4,23,20,Yes,0,1.8,No
+CUST10790,29,Female,Delhi,Silver,Desktop,Net Banking,Grocery,2025-11-11,2025-12-31,13,1864.02,20771.21,12.4,2,3.9,2,18,25,Yes,1,0.0,No
+CUST10791,18,Female,Delhi,Basic,Tablet,UPI,,2022-08-24,2025-12-31,10,8270.48,90247.39,10.2,0,2.9,5,23,25,No,5,1.8,No
+CUST10792,61,Female,Mumbai,Basic,Mobile,Debit Card,Fashion,2021-04-05,2023-12-17,5,4238.7,26376.33,20.5,1,3.8,0,18,22,Yes,9,0.0,Yes
+CUST10793,22,Male,Chennai,Basic,Mobile,UPI,Electronics,2021-10-20,2022-02-05,10,6945.3,52554.26,28.1,3,5.0,2,11,20,Yes,6,4.9,Yes
+CUST10794,47,Other,Kochi,Platinum,Mobile,COD,Beauty,2021-01-25,2021-12-19,6,2499.15,13541.55,36.3,1,3.9,1,20,18,Yes,7,3.9,Yes
+CUST10795,47,Female,Bengaluru,Basic,Mobile,Net Banking,Beauty,2024-07-19,2025-07-28,7,5341.44,29202.04,9.1,1,3.3,2,14,28,Yes,10,4.2,No
+CUST10796,34,Male,Bengaluru,Basic,Mobile,COD,Grocery,2025-03-09,2025-09-07,8,3458.61,25128.18,0.4,0,4.3,2,17,17,No,5,3.5,No
+CUST10797,65,Male,Delhi,Platinum,Mobile,Debit Card,Fashion,2024-04-04,2025-12-31,7,3176.79,21191.41,19.5,1,3.6,2,24,22,No,5,0.0,No
+CUST10798,64,Male,Chennai,Platinum,Desktop,Net Banking,Home & Kitchen,2023-07-28,2024-09-12,6,2820.26,20482.38,27.9,0,4.0,1,18,30,Yes,2,0.1,Yes
+CUST10799,40,Male,Delhi,Gold,Desktop,Debit Card,Fashion,2023-02-01,2024-08-05,10,3983.97,31484.53,21.5,1,3.2,1,20,26,No,14,4.3,Yes
+CUST10800,32,Female,Kochi,Basic,Mobile,COD,Electronics,2024-01-16,2025-02-27,11,3529.27,44201.41,27.9,1,3.3,0,15,16,Yes,8,6.4,No
+CUST10801,54,Male,Bengaluru,Basic,Mobile,Debit Card,Sports,2022-10-16,2025-12-31,12,2564.4,29165.45,13.2,3,4.5,2,14,20,Yes,10,3.3,No
+CUST10802,38,Female,Pune,Silver,Mobile,Net Banking,Beauty,2025-07-28,2025-09-28,9,2123.14,22082.11,10.1,2,4.1,0,20,20,Yes,1,5.3,No
+CUST10803,31,Male,Delhi,Basic,Desktop,Net Banking,Electronics,2023-09-12,2025-12-31,9,2600.57,23561.97,15.9,0,3.5,1,21,22,Yes,10,0.9,No
+CUST10804,19,Male,Hyderabad,Basic,Desktop,Debit Card,Grocery,2025-12-20,2025-12-31,11,2784.41,23572.96,12.4,1,4.1,2,16,22,Yes,13,1.3,No
+CUST10805,28,Male,Pune,Silver,Mobile,Net Banking,Beauty,2022-09-30,2022-12-06,14,2318.98,39708.92,20.3,0,3.6,2,16,21,Yes,4,3.8,Yes
+CUST10806,56,Male,Kochi,Platinum,Mobile,Net Banking,Home & Kitchen,2022-05-06,2023-01-16,12,1833.54,17412.04,22.8,1,3.5,2,17,18,No,2,0.9,Yes
+CUST10807,55,Female,Kochi,Basic,Mobile,Debit Card,Beauty,2024-03-10,2025-12-31,8,2870.97,24089.55,23.4,4,4.8,1,21,26,Yes,0,0.0,No
+CUST10808,51,Female,Delhi,Gold,Mobile,COD,Sports,2024-02-01,2025-12-31,10,3342.39,39735.46,19.1,1,4.5,1,17,16,Yes,1,4.0,No
+CUST10809,55,Female,Mumbai,Gold,Mobile,Net Banking,Fashion,2024-06-03,2025-12-31,9,3146.17,22366.01,17.0,1,4.0,3,15,25,No,5,1.1,No
+CUST10810,51,Female,Delhi,Basic,Desktop,Net Banking,Sports,2022-07-29,2025-07-30,7,1629.29,11712.36,21.4,1,4.1,2,28,24,No,13,0.0,No
+CUST10811,35,Male,Mumbai,Gold,Desktop,Net Banking,Sports,2021-10-21,2025-02-26,12,5615.83,78316.9,0.0,0,4.0,2,24,26,Yes,9,4.8,No
+CUST10812,47,Male,Kochi,Basic,Mobile,Net Banking,Fashion,2023-06-15,2025-12-31,8,6255.41,62211.92,16.7,0,4.3,1,19,27,Yes,0,3.5,No
+CUST10813,32,Male,Chennai,Basic,Desktop,Debit Card,Beauty,2024-08-22,2025-12-31,10,3689.52,41033.5,15.4,1,3.5,1,18,18,Yes,10,3.9,No
+CUST10814,44,Female,Kochi,Gold,Tablet,COD,Grocery,2024-07-01,2025-12-31,7,4027.99,25070.9,16.7,3,4.6,0,21,19,Yes,14,4.0,No
+CUST10815,51,Male,Bengaluru,Basic,Mobile,COD,Fashion,2024-04-18,2025-07-26,6,3097.91,20442.21,14.3,2,4.2,2,22,26,Yes,1,4.4,No
+CUST10816,55,Male,Pune,Platinum,Mobile,UPI,Fashion,2021-02-09,2024-03-29,12,3260.84,43155.92,18.5,1,3.8,4,14,24,Yes,9,3.5,Yes
+CUST10817,50,Female,Pune,Basic,Tablet,Net Banking,Home & Kitchen,2023-02-15,2025-12-31,7,1224.54,9428.81,10.4,0,3.7,5,15,22,Yes,4,0.0,No
+CUST10818,41,Male,Coimbatore,Silver,Mobile,Net Banking,Beauty,2025-09-21,2025-12-31,11,2670.02,34572.57,24.0,0,4.5,1,23,23,No,0,0.3,No
+CUST10819,32,Male,Coimbatore,Silver,Tablet,UPI,Fashion,2022-06-04,2023-08-25,9,2687.91,19200.31,18.8,1,3.9,0,18,21,Yes,13,4.5,Yes
+CUST10820,47,Male,Kochi,Basic,Tablet,COD,Grocery,2025-06-28,2025-12-31,14,6163.19,69390.98,16.2,1,3.5,1,29,24,Yes,13,3.6,No
+CUST10821,59,Female,Bengaluru,Basic,Desktop,Credit Card,Electronics,2025-10-27,2025-12-31,10,2437.35,26087.17,9.4,2,3.8,0,16,36,Yes,14,2.2,No
+CUST10822,34,Female,Coimbatore,Silver,Desktop,Credit Card,Beauty,2022-06-30,2025-12-31,6,5571.81,41017.68,21.5,2,4.5,6,18,19,Yes,10,0.0,No
+CUST10823,22,Female,Pune,Gold,Desktop,COD,Home & Kitchen,2021-08-24,2025-11-23,15,2817.72,41543.87,16.7,1,3.0,1,20,25,Yes,10,0.8,No
+CUST10824,46,Male,Delhi,Gold,Desktop,Net Banking,,2022-04-08,2025-12-31,12,2281.35,33680.43,9.0,2,3.8,3,15,19,Yes,9,1.9,No
+CUST10825,21,Other,Chennai,Silver,Mobile,Credit Card,Fashion,2024-06-05,2025-12-31,8,1258.75,12275.76,14.5,4,4.7,2,14,20,Yes,3,1.0,No
+CUST10826,27,Female,Chennai,Gold,Mobile,Debit Card,Grocery,2025-09-20,2025-12-31,15,3237.22,58340.61,20.0,1,3.9,0,18,26,No,4,0.4,No
+CUST10827,34,Male,Bengaluru,Gold,Mobile,Debit Card,Beauty,2022-04-28,2025-12-28,12,1950.45,28201.76,19.4,0,4.2,0,24,18,No,4,3.2,No
+CUST10828,27,Female,Kochi,Gold,Desktop,UPI,Grocery,2022-03-06,2022-09-19,4,1333.44,6396.03,18.9,1,4.7,0,27,29,Yes,4,5.4,Yes
+CUST10829,34,Male,Coimbatore,Silver,Mobile,COD,Grocery,2023-11-12,2025-12-31,17,3678.39,72534.39,15.7,0,4.6,1,16,18,Yes,13,3.8,No
+CUST10830,37,Female,Delhi,Silver,Mobile,COD,Sports,2021-12-09,2025-01-15,7,3295.3,25315.9,23.2,1,3.7,2,21,23,Yes,9,1.6,Yes
+CUST10831,41,Female,Chennai,Gold,Mobile,Credit Card,Home & Kitchen,2023-11-30,2025-12-31,5,3425.58,13054.96,24.9,1,3.9,1,19,24,Yes,8,2.4,No
+CUST10832,22,Male,Chennai,Silver,Desktop,Net Banking,,2024-04-11,2024-09-28,8,2806.53,18323.87,20.9,1,4.6,2,21,23,Yes,8,3.7,Yes
+CUST10833,51,Other,Hyderabad,Gold,Tablet,COD,Fashion,2025-01-02,2025-04-23,14,2035.63,23286.84,10.3,1,4.6,1,23,17,Yes,4,1.3,No
+CUST10834,23,Female,Kochi,Silver,Tablet,Credit Card,Home & Kitchen,2024-04-17,2025-12-31,8,1722.03,10494.33,6.5,1,3.9,3,15,18,Yes,5,2.9,No
+CUST10835,19,Female,Hyderabad,Basic,Mobile,Credit Card,Fashion,2025-06-10,2025-12-31,10,5248.44,42425.81,10.6,1,4.0,0,17,32,No,7,1.8,No
+CUST10836,30,Male,Pune,Basic,Desktop,COD,Electronics,2021-05-13,2023-07-25,9,3816.74,41559.94,30.6,1,4.2,0,19,20,No,11,1.7,Yes
+CUST10837,60,Male,Chennai,Silver,Desktop,Credit Card,Grocery,2021-12-17,2022-08-26,12,4265.74,55381.36,17.3,1,4.9,0,22,29,No,6,0.0,Yes
+CUST10838,60,Male,Bengaluru,Silver,Mobile,UPI,Electronics,2025-03-29,2025-04-25,6,2613.9,14209.73,32.0,0,4.7,0,17,29,Yes,14,2.6,No
+CUST10839,65,Female,Mumbai,Gold,Mobile,UPI,Grocery,2025-04-13,2025-12-31,8,1921.46,17626.4,14.0,0,4.5,0,15,23,Yes,5,3.3,No
+CUST10840,28,Male,Mumbai,Basic,Mobile,COD,Sports,2022-05-21,2024-10-09,7,1828.49,12725.0,12.9,0,3.3,1,11,30,No,3,4.2,Yes
+CUST10841,64,Female,Delhi,Gold,Tablet,Net Banking,Home & Kitchen,2021-03-25,2021-10-07,10,2897.58,23790.97,14.4,2,3.8,2,20,22,No,2,0.0,Yes
+CUST10842,40,Female,Chennai,Gold,Mobile,UPI,Fashion,2023-09-20,2025-12-31,9,1958.51,21015.32,14.3,1,3.9,1,10,21,Yes,3,4.4,No
+CUST10843,33,Male,Chennai,Basic,Mobile,UPI,Sports,2025-01-27,2025-12-31,6,1166.84,6436.27,8.8,1,4.9,3,20,21,No,12,4.0,No
+CUST10844,48,Female,Pune,Gold,Desktop,COD,Fashion,2023-04-10,2025-12-31,8,3594.18,31612.38,5.8,1,3.8,2,12,32,Yes,2,5.4,No
+CUST10845,28,Male,Chennai,Platinum,Mobile,Debit Card,Home & Kitchen,2023-05-11,2025-07-26,7,4265.08,26729.6,19.0,1,4.8,0,12,25,Yes,12,1.8,No
+CUST10846,33,Other,Bengaluru,Gold,Mobile,,Beauty,2021-12-09,2022-06-18,12,2171.97,26064.57,23.4,1,3.6,3,16,30,Yes,7,2.6,Yes
+CUST10847,25,Female,Hyderabad,Gold,Desktop,UPI,Electronics,2024-07-27,2025-12-31,13,1309.53,19715.82,34.6,1,3.7,1,15,27,Yes,5,0.4,No
+CUST10848,21,Male,Chennai,Platinum,Mobile,Debit Card,Electronics,2023-05-16,2025-12-17,11,3015.29,27476.15,11.5,0,4.3,2,18,31,No,5,2.4,No
+CUST10849,57,Male,Chennai,Silver,Desktop,Net Banking,Fashion,2024-07-10,2025-12-31,8,2599.44,25757.87,12.2,0,5.0,0,16,18,Yes,0,1.9,No
+CUST10850,21,Male,Pune,Basic,Mobile,Debit Card,Fashion,2024-04-04,2025-12-31,13,2349.67,23981.68,8.8,1,3.9,1,24,21,Yes,4,2.8,No
+CUST10851,42,Female,Kochi,Gold,Mobile,COD,Fashion,2021-10-20,2024-04-02,11,3394.46,37973.99,24.0,1,2.3,0,17,19,No,7,2.4,Yes
+CUST10852,20,Female,Coimbatore,Silver,Desktop,Net Banking,Home & Kitchen,2025-03-13,2025-06-04,8,2945.18,28462.52,21.5,2,3.0,1,23,15,No,10,4.1,Yes
+CUST10853,49,Female,Kochi,Silver,Mobile,Net Banking,Beauty,2025-05-23,2025-12-31,12,3335.88,48951.25,8.0,1,4.2,3,19,29,Yes,12,2.1,No
+CUST10854,20,Male,Pune,Basic,Mobile,Debit Card,Electronics,2024-06-03,2025-12-31,11,2884.57,27480.14,7.8,2,3.0,2,19,25,Yes,1,5.0,No
+CUST10855,44,Male,Kochi,Gold,Desktop,COD,Sports,2024-04-08,2025-12-31,5,1956.35,8040.53,22.6,4,3.4,3,16,21,Yes,13,0.0,No
+CUST10856,46,Male,Pune,Basic,Desktop,UPI,Grocery,2022-08-21,2025-12-31,7,1892.02,14730.15,18.1,0,4.0,1,23,21,No,2,5.1,No
+CUST10857,49,Female,Bengaluru,Platinum,Desktop,Debit Card,Home & Kitchen,2022-10-07,2022-12-13,13,2808.63,28150.42,21.1,1,2.4,0,23,15,No,11,0.0,Yes
+CUST10858,36,Female,Delhi,Basic,Desktop,UPI,Electronics,2022-03-24,2022-11-09,9,4125.97,36859.66,7.9,0,3.8,3,26,20,No,8,4.1,Yes
+CUST10859,38,Male,Chennai,Basic,Mobile,Debit Card,Beauty,2022-11-21,2024-11-18,15,2917.23,50242.47,0.0,2,3.2,1,22,22,Yes,11,3.9,No
+CUST10860,22,Male,Pune,Silver,Mobile,UPI,Home & Kitchen,2023-09-29,2023-11-20,7,2062.91,14875.42,,2,3.0,3,21,19,Yes,12,0.4,Yes
+CUST10861,35,Female,Pune,Basic,Tablet,Debit Card,Sports,2023-05-05,2025-12-31,14,3009.33,35558.52,20.5,2,3.5,4,20,27,No,3,4.9,No
+CUST10862,45,Female,Coimbatore,Gold,Mobile,Net Banking,Electronics,2022-05-17,2025-03-05,8,3064.21,24354.88,31.9,1,3.3,1,12,27,No,10,0.1,No
+CUST10863,59,Female,Pune,Platinum,Mobile,Credit Card,Home & Kitchen,2023-02-03,2025-12-31,16,1965.31,38068.44,11.6,1,4.3,2,15,14,Yes,9,0.0,No
+CUST10864,39,Female,Mumbai,Gold,Mobile,Net Banking,Electronics,2025-03-31,2025-12-31,13,6213.16,85504.79,33.2,0,4.8,2,12,30,Yes,11,1.6,No
+CUST10865,38,Male,Delhi,Basic,Mobile,UPI,Electronics,2023-01-05,2023-02-19,16,4030.88,71636.5,21.6,1,3.8,0,28,18,Yes,4,1.7,Yes
+CUST10866,23,Male,Chennai,Basic,Mobile,COD,Beauty,2024-11-03,2025-12-15,3,2619.42,7214.92,3.9,1,3.6,0,16,28,Yes,11,1.3,No
+CUST10867,18,Female,Chennai,Gold,Tablet,Net Banking,Grocery,2024-05-09,2025-12-31,11,5995.0,55673.53,16.7,2,3.7,1,11,24,Yes,11,2.6,No
+CUST10868,22,Female,Coimbatore,Platinum,Mobile,Credit Card,Beauty,2025-07-01,2025-12-31,4,3244.34,11391.8,21.9,2,3.3,2,17,15,No,14,3.2,No
+CUST10869,58,Male,Bengaluru,Silver,Mobile,UPI,Electronics,2021-09-07,2024-07-16,7,3124.54,22234.61,0.0,1,3.2,2,27,27,No,10,2.3,Yes
+CUST10870,29,Female,Chennai,Silver,Tablet,Net Banking,Home & Kitchen,2024-12-03,2025-12-31,8,5008.31,35663.58,20.2,3,2.9,1,22,22,Yes,14,0.2,No
+CUST10871,43,Female,Mumbai,Basic,Tablet,Debit Card,Sports,2022-08-24,2025-08-20,10,4044.11,41289.65,24.4,1,3.1,0,22,22,Yes,6,0.8,No
+CUST10872,63,Female,Chennai,Platinum,Mobile,COD,Beauty,2021-05-05,2025-07-25,6,3453.15,22871.51,18.2,2,5.0,4,18,25,Yes,12,6.7,No
+CUST10873,51,Female,Mumbai,Silver,Mobile,UPI,Grocery,2021-04-23,2025-07-17,11,2318.62,28493.93,14.5,0,3.6,3,18,28,Yes,14,0.4,No
+CUST10874,31,Male,Delhi,Basic,Desktop,Net Banking,Electronics,2023-09-08,2025-11-10,11,2789.87,25543.4,13.6,2,2.1,0,23,25,Yes,4,0.5,No
+CUST10875,43,Female,Delhi,Basic,Desktop,UPI,Sports,2024-03-06,2025-12-31,8,2598.73,23393.05,13.1,0,3.6,2,20,18,No,1,0.0,No
+CUST10876,62,Female,Hyderabad,Platinum,Desktop,Debit Card,Beauty,2025-11-18,2025-12-31,11,2080.59,24862.6,5.6,1,3.0,1,21,18,No,6,4.4,No
+CUST10877,44,Female,Hyderabad,Basic,Desktop,Credit Card,Beauty,2025-02-28,2025-12-31,11,7149.65,59456.69,9.5,3,4.0,2,26,32,Yes,10,4.4,No
+CUST10878,26,Female,Mumbai,Basic,Desktop,Net Banking,Beauty,2025-08-29,2025-12-31,8,4059.78,25314.71,11.7,1,4.0,1,17,19,Yes,5,3.3,No
+CUST10879,43,Female,Bengaluru,Silver,Mobile,UPI,Beauty,2021-05-30,2022-01-25,12,2554.0,32889.13,15.9,2,4.0,0,22,23,No,10,5.1,Yes
+CUST10880,64,Male,Chennai,Basic,Desktop,UPI,Sports,2023-05-25,2024-09-21,11,3298.23,34170.89,10.5,0,4.0,1,17,19,Yes,8,1.1,Yes
+CUST10881,39,Female,Pune,Basic,Mobile,UPI,Home & Kitchen,2021-12-09,2022-01-10,5,2611.68,10747.74,8.0,0,3.8,1,20,22,No,1,0.2,Yes
+CUST10882,64,Female,Chennai,Gold,Desktop,Credit Card,Grocery,2022-08-03,2024-05-07,13,1933.52,19409.79,21.1,3,3.1,2,17,24,No,1,3.1,Yes
+CUST10883,47,Female,Hyderabad,Platinum,Mobile,UPI,Grocery,2025-10-23,2025-11-16,8,1158.71,7691.05,18.0,2,4.0,1,10,21,Yes,12,3.4,No
+CUST10884,60,Female,Kochi,Gold,Mobile,COD,Electronics,2023-02-22,2025-12-31,7,3424.95,29459.02,10.7,1,4.7,0,25,13,No,12,2.9,No
+CUST10885,65,Female,Pune,Platinum,Mobile,COD,Fashion,2021-11-17,2022-01-11,6,2830.87,18917.85,19.1,2,5.0,2,11,28,Yes,7,1.9,Yes
+CUST10886,34,Male,Mumbai,Silver,Mobile,UPI,Home & Kitchen,2023-04-02,2024-12-26,11,4563.04,50888.76,11.4,1,3.8,4,20,22,Yes,9,4.6,Yes
+CUST10887,43,Female,Pune,Gold,Mobile,COD,Electronics,2022-06-16,2022-08-13,10,2181.73,26633.91,15.5,1,3.9,2,18,25,Yes,10,2.4,Yes
+CUST10888,53,Male,Kochi,Silver,Mobile,Net Banking,Electronics,2024-08-05,2025-03-04,9,4566.4,43545.18,22.8,1,4.3,3,22,23,No,0,3.0,No
+CUST10889,18,Male,Chennai,Gold,Mobile,COD,Beauty,2025-02-21,2025-12-31,12,4803.34,64143.18,10.2,0,5.0,1,18,27,Yes,7,2.4,No
+CUST10890,25,Female,Chennai,Platinum,Desktop,UPI,Fashion,2022-05-07,2022-12-16,14,1368.05,17071.3,5.6,1,3.7,1,26,32,No,4,1.5,Yes
+CUST10891,52,Female,Bengaluru,Basic,Mobile,Debit Card,Fashion,2022-09-04,2023-12-21,10,4281.31,44717.89,13.8,3,4.5,3,19,19,No,0,0.4,Yes
+CUST10892,32,Male,Coimbatore,Silver,Desktop,Net Banking,Home & Kitchen,2021-09-09,2024-02-19,6,3962.04,19534.57,4.1,1,3.5,3,19,33,No,9,3.3,Yes
+CUST10893,64,Male,Pune,Silver,Desktop,Credit Card,Fashion,2024-01-06,2025-12-31,11,2707.19,28356.89,12.8,1,4.2,3,24,19,Yes,10,0.0,No
+CUST10894,39,Female,Hyderabad,Basic,Desktop,UPI,Electronics,2025-07-29,2025-12-31,8,4529.64,27780.11,12.8,3,4.6,3,14,29,Yes,0,1.2,No
+CUST10895,31,Male,Kochi,Basic,Mobile,Credit Card,Fashion,2024-11-16,2025-12-31,10,4198.64,36037.52,0.0,2,3.2,2,16,20,No,5,1.5,No
+CUST10896,43,Male,Kochi,Gold,Tablet,Debit Card,Fashion,2024-12-06,2025-12-31,6,2964.74,14007.23,19.2,0,3.7,1,25,25,No,11,0.1,No
+CUST10897,45,Male,Kochi,Platinum,Mobile,Credit Card,Grocery,2021-06-22,2022-07-24,9,1338.48,11370.39,13.5,2,4.6,3,16,25,No,9,1.9,Yes
+CUST10898,40,Male,Hyderabad,Silver,Mobile,UPI,Electronics,2023-05-25,2025-12-31,6,2498.35,17561.17,24.5,3,4.4,4,20,17,Yes,10,3.4,No
+CUST10899,31,Male,Coimbatore,Basic,Mobile,UPI,Sports,2021-07-20,2025-05-02,8,4308.49,32364.24,16.7,1,4.7,5,19,19,Yes,1,2.8,No
+CUST10900,41,Male,Chennai,Basic,Mobile,Debit Card,Fashion,2021-08-05,2025-02-17,7,3219.96,26277.25,20.9,2,4.6,2,20,21,No,1,1.4,Yes
+CUST10901,19,Male,Bengaluru,Platinum,Tablet,UPI,Fashion,2022-01-11,2023-07-27,12,2282.52,29533.5,24.5,1,3.8,2,24,27,Yes,0,3.7,Yes
+CUST10902,62,Female,Bengaluru,Silver,Mobile,Debit Card,Beauty,2025-10-10,2025-12-31,9,2877.0,26016.37,13.9,0,5.0,1,18,31,Yes,0,3.0,No
+CUST10903,43,Female,Hyderabad,Basic,Desktop,Debit Card,Fashion,2025-05-29,2025-12-31,10,2960.89,25713.73,15.0,1,4.1,1,13,19,Yes,3,0.2,No
+CUST10904,31,Female,Bengaluru,Silver,Desktop,UPI,Fashion,2021-01-11,2021-12-21,12,1902.95,27655.45,2.4,3,2.0,0,23,15,Yes,4,0.9,Yes
+CUST10905,24,Male,Kochi,Basic,Mobile,COD,Grocery,2025-12-28,2025-12-31,14,2249.55,24473.77,24.9,2,3.8,0,21,23,No,3,0.0,No
+CUST10906,20,Male,Delhi,Silver,Desktop,Debit Card,Electronics,2025-11-27,2025-12-31,15,6896.16,113213.21,13.8,2,3.7,1,17,14,No,5,1.8,No
+CUST10907,64,Female,Coimbatore,Gold,Mobile,UPI,Home & Kitchen,2023-11-02,2025-12-31,12,789.52,10048.57,7.0,2,4.5,0,18,22,Yes,7,1.2,No
+CUST10908,40,Male,Chennai,Silver,Mobile,COD,Electronics,2023-06-11,2024-10-19,13,2861.98,36108.94,20.9,1,3.7,3,21,27,No,10,2.0,Yes
+CUST10909,63,Female,Delhi,Gold,Mobile,Debit Card,Beauty,2025-06-02,2025-12-31,6,4308.38,22493.89,0.0,0,4.7,1,15,20,No,14,6.4,No
+CUST10910,60,Female,Coimbatore,Silver,Tablet,COD,Electronics,2022-03-11,2025-12-31,10,2840.35,27419.26,11.6,1,4.4,4,23,18,Yes,10,0.0,No
+CUST10911,64,Female,Mumbai,Gold,Tablet,Net Banking,Fashion,2025-09-04,2025-12-31,9,2142.97,22881.51,22.3,1,3.3,4,20,23,Yes,1,0.0,No
+CUST10912,62,Male,Pune,Gold,Mobile,Net Banking,Beauty,2025-06-20,2025-12-31,5,2414.4,14104.72,11.5,3,3.9,1,16,30,Yes,0,5.5,No
+CUST10913,35,Male,Hyderabad,Basic,Mobile,COD,Electronics,2023-03-29,2025-12-31,8,6077.59,59350.86,9.3,1,3.5,1,25,25,Yes,1,3.6,No
+CUST10914,55,Female,Kochi,Silver,Desktop,Debit Card,Beauty,2024-10-28,2025-12-31,6,3758.54,20383.99,11.7,2,4.1,0,23,38,No,12,4.5,No
+CUST10915,52,Male,Bengaluru,Basic,Mobile,UPI,Home & Kitchen,2024-07-20,2025-12-31,16,3655.77,55190.55,0.0,1,3.5,4,22,22,Yes,9,1.8,No
+CUST10916,32,Female,Mumbai,Gold,Desktop,Credit Card,Electronics,2023-07-20,2024-10-10,9,2700.59,18456.55,20.7,0,4.0,2,27,21,Yes,13,3.9,Yes
+CUST10917,42,Female,Bengaluru,Silver,Mobile,UPI,Sports,2022-11-22,2025-12-31,9,3141.81,34538.78,14.0,1,3.8,1,20,19,Yes,10,2.2,No
+CUST10918,54,Other,Delhi,Platinum,Mobile,Credit Card,Fashion,2025-05-19,2025-06-18,11,1764.67,17755.48,12.8,3,3.9,2,17,23,No,5,4.2,No
+CUST10919,45,Male,Chennai,Basic,Desktop,Credit Card,Beauty,2025-03-13,2025-12-31,8,6244.26,47560.38,12.9,1,5.0,1,16,23,No,10,4.5,No
+CUST10920,27,Female,Chennai,Gold,Mobile,Debit Card,Sports,2024-03-01,2025-11-25,10,3870.66,46598.96,15.1,1,3.8,4,26,22,Yes,13,4.3,No
+CUST10921,56,Female,Chennai,Gold,Tablet,COD,Sports,2023-05-05,2025-04-07,11,2851.81,31787.11,20.2,1,2.7,2,16,25,Yes,3,1.2,No
+CUST10922,34,Male,Kochi,Gold,Tablet,UPI,Grocery,2023-02-23,2023-05-13,12,3041.8,37709.34,14.6,4,4.7,1,19,24,No,6,2.7,Yes
+CUST10923,56,Male,Bengaluru,Basic,Mobile,COD,Beauty,2021-11-15,2023-06-27,4,3515.65,11786.1,4.1,0,4.7,0,13,30,Yes,13,0.6,Yes
+CUST10924,39,Female,Mumbai,Silver,Mobile,Net Banking,Sports,2023-04-24,2025-08-05,11,1757.37,19318.12,19.6,2,2.7,3,12,16,Yes,1,3.6,Yes
+CUST10925,43,Male,Chennai,Gold,Tablet,Debit Card,Grocery,2022-09-13,2022-12-09,10,2473.09,29902.24,19.0,2,3.5,4,24,25,Yes,0,3.2,Yes
+CUST10926,61,Male,Mumbai,Basic,Tablet,Debit Card,Sports,2023-02-24,2023-09-30,9,1783.53,16523.03,16.6,0,4.3,0,21,32,Yes,12,0.0,Yes
+CUST10927,42,Male,Bengaluru,Basic,Mobile,Net Banking,Fashion,2024-04-06,2024-12-30,5,3859.64,16935.29,23.6,2,4.3,2,16,21,Yes,4,3.4,Yes
+CUST10928,34,Female,Kochi,Silver,Desktop,UPI,Home & Kitchen,2022-02-01,2023-10-21,9,1519.41,10469.21,15.2,0,4.0,3,25,37,Yes,13,3.4,Yes
+CUST10929,30,Female,Delhi,Silver,Mobile,Net Banking,Grocery,2024-04-18,2025-12-31,9,1837.44,15183.42,23.9,3,4.0,0,19,23,Yes,8,3.6,No
+CUST10930,37,Female,Kochi,Basic,Mobile,UPI,Home & Kitchen,2023-12-18,2024-07-14,5,4080.9,21145.09,26.3,1,3.4,0,18,21,Yes,12,2.6,Yes
+CUST10931,42,Male,Mumbai,Basic,Desktop,Credit Card,Beauty,2025-02-12,2025-11-04,9,3147.42,21848.63,19.7,0,2.4,1,22,17,Yes,5,3.6,No
+CUST10932,21,Male,Kochi,Basic,Mobile,Debit Card,Fashion,2025-06-03,2025-12-31,6,5762.76,36474.68,9.0,1,5.0,0,14,21,Yes,5,3.1,No
+CUST10933,27,Female,Kochi,Gold,Tablet,UPI,Grocery,2022-04-05,2025-11-18,6,2460.45,14935.53,14.0,1,3.4,1,18,19,No,0,0.7,No
+CUST10934,20,Female,Delhi,Gold,Mobile,COD,Beauty,2021-03-02,2025-06-30,9,2648.9,27218.66,24.9,1,4.1,6,12,20,Yes,0,3.8,No
+CUST10935,58,Male,Bengaluru,Gold,Mobile,COD,Sports,2022-01-04,2025-12-31,11,5197.33,43703.75,3.0,1,3.9,1,16,21,Yes,3,0.6,No
+CUST10936,62,Female,Bengaluru,Platinum,Mobile,Debit Card,Electronics,2024-02-19,2025-12-31,6,4588.88,31399.6,11.9,3,4.6,4,19,18,Yes,13,0.4,No
+CUST10937,35,Other,Hyderabad,Silver,Mobile,Net Banking,Beauty,2022-12-20,2023-11-09,10,4119.74,41627.44,12.3,0,4.1,1,15,17,Yes,1,2.9,Yes
+CUST10938,64,Female,Kochi,Basic,Desktop,Net Banking,Home & Kitchen,2022-06-30,2025-10-31,7,2007.6,13143.46,8.1,0,4.1,1,23,32,Yes,2,0.0,No
+CUST10939,53,Female,Bengaluru,Basic,Mobile,UPI,Fashion,2025-05-25,2025-12-31,9,2083.47,23114.48,22.0,1,2.3,2,14,28,Yes,10,1.2,No
+CUST10940,64,Female,Bengaluru,Basic,Mobile,Net Banking,Fashion,2023-11-07,2025-12-31,13,2748.32,29656.51,18.0,4,3.5,1,14,34,Yes,5,1.9,No
+CUST10941,39,Male,Coimbatore,Platinum,Mobile,Debit Card,Beauty,2022-05-11,2023-08-09,11,2716.89,30503.31,9.3,2,,2,16,23,Yes,9,5.1,Yes
+CUST10942,51,Female,Chennai,Silver,Mobile,UPI,Sports,2022-05-12,2023-02-25,5,2024.4,9215.99,19.8,1,4.4,3,21,25,No,12,2.1,Yes
+CUST10943,64,Other,Hyderabad,Basic,Desktop,Credit Card,Electronics,2022-05-20,2025-11-02,11,2411.87,26895.18,13.7,1,3.4,2,24,20,Yes,14,6.4,No
+CUST10944,25,Male,Pune,Silver,Mobile,Net Banking,Home & Kitchen,2025-04-05,2025-12-31,13,2783.05,37125.3,7.9,0,3.0,1,21,25,Yes,0,0.0,No
+CUST10945,57,Female,Hyderabad,Silver,Mobile,Net Banking,Beauty,2023-08-27,2025-03-02,7,4475.04,24894.96,9.3,1,4.1,1,21,29,Yes,10,3.4,No
+CUST10946,61,Female,Hyderabad,Gold,Mobile,UPI,Beauty,2024-08-31,2025-12-31,9,5029.52,48912.63,18.5,2,2.1,0,17,20,No,11,3.8,No
+CUST10947,36,Female,Pune,Basic,Mobile,COD,Fashion,2023-12-29,2025-12-31,5,3798.66,20270.42,22.5,0,3.3,1,20,21,Yes,12,0.7,No
+CUST10948,59,Female,Coimbatore,Platinum,Mobile,Net Banking,Home & Kitchen,2025-10-17,2025-11-13,11,1413.67,17645.53,11.1,2,5.0,3,22,24,No,11,2.3,No
+CUST10949,58,Female,Kochi,Silver,Mobile,Debit Card,Electronics,2021-06-10,2025-02-15,9,4741.15,33936.98,19.4,1,4.9,2,18,20,Yes,10,2.3,No
+CUST10950,54,Female,Delhi,Basic,Mobile,Net Banking,Fashion,2025-06-26,2025-12-31,13,3806.94,44473.36,27.7,2,4.3,2,20,25,No,9,4.7,No
+CUST10951,23,Male,Bengaluru,Platinum,Desktop,Credit Card,Beauty,2022-12-19,2023-07-13,10,4189.81,45042.77,4.9,3,4.2,2,16,19,Yes,1,0.0,Yes
+CUST10952,43,Female,Chennai,Basic,Desktop,Net Banking,Fashion,2024-03-14,2025-12-31,5,2079.89,8510.55,,2,2.7,2,18,29,Yes,3,6.3,No
+CUST10953,51,Male,Mumbai,Platinum,Mobile,COD,Fashion,2025-05-12,2025-06-14,8,5286.98,46051.67,21.6,4,3.5,1,28,16,No,5,0.0,No
+CUST10954,62,Male,Kochi,Platinum,Mobile,Net Banking,Grocery,2025-06-07,2025-12-31,7,2606.48,14222.5,14.2,0,3.8,0,21,18,Yes,12,3.3,No
+CUST10955,23,Male,Pune,Gold,Mobile,UPI,Fashion,2023-09-20,2025-11-13,11,2012.41,20309.49,24.9,2,3.5,0,24,19,Yes,2,0.8,No
+CUST10956,54,Female,Delhi,Gold,Mobile,Net Banking,Sports,2024-11-09,2025-12-31,11,3954.45,51039.73,32.6,1,3.8,1,18,20,Yes,8,3.5,No
+CUST10957,50,Male,Kochi,Basic,Mobile,COD,Fashion,2021-09-26,2021-11-05,14,2764.82,44016.04,17.7,3,4.8,3,24,21,No,9,1.2,Yes
+CUST10958,39,Female,Pune,Platinum,Mobile,UPI,Sports,2025-01-17,2025-12-31,12,3755.15,48323.39,13.1,5,3.6,0,16,33,Yes,3,5.2,No
+CUST10959,38,Female,Bengaluru,Silver,Mobile,Debit Card,Home & Kitchen,2022-11-30,2025-12-31,17,2405.09,48459.91,22.8,1,3.8,1,20,12,Yes,6,2.7,No
+CUST10960,23,Female,Coimbatore,Gold,Mobile,UPI,Fashion,2025-03-22,2025-12-31,7,1700.88,13151.96,21.7,2,4.5,3,23,16,Yes,10,1.7,No
+CUST10961,23,Male,Kochi,Platinum,Mobile,Credit Card,Electronics,2023-05-15,2023-09-11,10,2377.55,24005.83,0.0,1,3.1,3,13,25,Yes,4,0.3,Yes
+CUST10962,65,Female,Pune,Platinum,Mobile,UPI,Sports,2021-12-16,2025-12-31,17,1535.44,32363.39,15.0,3,3.5,2,20,19,Yes,5,3.3,No
+CUST10963,21,Female,Bengaluru,Gold,Mobile,Debit Card,Sports,2021-04-20,2023-06-27,10,3812.56,41840.1,11.8,0,3.5,1,17,17,Yes,8,3.4,Yes
+CUST10964,47,Female,Bengaluru,Basic,Mobile,Net Banking,Beauty,2025-02-15,2025-12-31,8,866.73,7285.27,18.2,0,4.0,2,20,25,Yes,8,1.8,No
+CUST10965,28,Male,Coimbatore,Platinum,Mobile,UPI,Home & Kitchen,2022-02-11,2022-12-25,4,4606.48,17586.35,13.5,0,3.8,0,11,28,Yes,5,2.6,Yes
+CUST10966,47,Male,Hyderabad,Silver,Mobile,UPI,Fashion,2022-10-12,2025-08-27,4,1591.56,7647.17,14.3,0,3.8,1,20,23,No,1,3.1,No
+CUST10967,48,Male,Kochi,Platinum,Mobile,UPI,Electronics,2021-02-20,2024-03-11,7,4346.11,27315.22,8.1,2,3.6,1,19,17,Yes,8,3.8,Yes
+CUST10968,41,Male,Kochi,Gold,Mobile,UPI,Beauty,2024-11-27,2025-12-31,5,3604.41,13599.62,20.9,4,3.3,0,27,18,Yes,10,0.5,No
+CUST10969,26,Male,Hyderabad,Basic,Mobile,Debit Card,Home & Kitchen,2025-05-06,2025-12-31,16,1061.37,14406.96,28.2,0,4.4,2,22,21,Yes,1,1.6,No
+CUST10970,20,Female,Chennai,Silver,Mobile,COD,Sports,2025-02-08,2025-08-15,12,3092.56,29865.18,8.2,0,3.8,2,19,29,Yes,1,3.7,No
+CUST10971,48,Male,Chennai,Silver,Mobile,COD,Electronics,2024-01-16,2025-12-31,10,1493.27,13581.24,3.8,2,4.4,0,23,28,Yes,1,2.3,No
+CUST10972,57,Male,Hyderabad,Gold,Mobile,UPI,Fashion,2023-12-28,2025-12-31,6,3099.84,21629.56,15.2,3,3.3,0,11,26,Yes,13,0.0,No
+CUST10973,54,Male,Delhi,Basic,Desktop,Debit Card,Grocery,2022-08-19,2025-12-31,14,2098.68,31607.61,14.8,0,3.6,0,13,27,Yes,6,5.7,No
+CUST10974,53,Male,Mumbai,Silver,Mobile,Debit Card,Grocery,2023-09-06,2024-12-12,9,1070.94,8043.2,24.4,1,3.9,2,19,25,No,10,4.2,No
+CUST10975,41,Male,Bengaluru,Basic,Mobile,UPI,Home & Kitchen,2023-12-02,2024-02-08,5,3522.08,20153.53,5.2,1,,2,21,13,Yes,3,0.0,Yes
+CUST10976,48,Male,Mumbai,Gold,Desktop,Credit Card,Electronics,2023-01-01,2025-12-31,11,2718.91,29971.11,10.7,1,4.5,0,18,23,Yes,7,1.2,No
+CUST10977,23,Male,Bengaluru,Silver,Mobile,UPI,Beauty,2021-02-26,2021-05-29,12,2842.44,34326.12,0.0,0,3.7,6,20,20,Yes,7,5.6,Yes
+CUST10978,19,Female,Hyderabad,Basic,Mobile,Credit Card,Electronics,2023-01-08,2024-04-05,7,1157.52,7544.01,26.0,4,4.5,3,10,15,Yes,0,3.4,Yes
+CUST10979,37,Other,Chennai,Basic,Desktop,UPI,Sports,2021-07-15,2023-09-19,12,1102.54,15642.5,17.0,2,4.2,2,17,19,Yes,0,0.0,Yes
+CUST10980,45,Male,Delhi,Basic,Desktop,Credit Card,Grocery,2025-11-19,2025-12-31,8,2482.78,18058.03,11.3,0,3.9,0,24,27,No,3,0.0,No
+CUST10981,28,Male,Chennai,Silver,Mobile,Credit Card,Home & Kitchen,2025-08-29,2025-12-31,5,4290.17,17097.83,4.4,1,3.4,1,19,25,Yes,1,0.0,No
+CUST10982,21,Female,Mumbai,Basic,Mobile,UPI,Fashion,2023-12-22,2025-07-08,6,3843.61,20786.96,5.2,0,4.5,2,19,33,Yes,12,1.5,No
+CUST10983,32,Male,Chennai,Basic,Mobile,Credit Card,Electronics,2024-07-10,2025-07-20,7,3472.41,26924.16,,0,3.4,5,13,23,No,2,3.8,No
+CUST10984,23,Male,Hyderabad,Platinum,Mobile,Net Banking,Grocery,2021-04-22,2021-12-28,7,4898.9,36994.22,6.1,2,4.0,2,20,24,Yes,9,0.0,Yes
+CUST10985,47,Female,Delhi,Gold,Mobile,COD,Beauty,2023-02-04,2024-04-26,10,2150.36,18149.22,15.8,2,4.0,3,15,27,No,1,3.6,Yes
+CUST10986,55,Male,Mumbai,Silver,Mobile,Debit Card,Home & Kitchen,2022-12-12,2025-10-31,9,3567.01,25871.63,31.3,3,3.9,3,14,24,No,9,0.7,No
+CUST10987,19,Female,Delhi,Platinum,Mobile,Credit Card,Fashion,2024-04-16,2025-12-31,8,1293.51,11180.41,12.2,1,3.7,1,22,23,No,8,0.0,No
+CUST10988,32,Female,Kochi,Basic,Tablet,Credit Card,Electronics,2023-08-06,2025-12-17,9,7097.44,69510.17,7.3,0,3.5,5,16,24,Yes,13,1.8,No
+CUST10989,28,Male,Bengaluru,Silver,Tablet,Debit Card,Beauty,2021-01-26,2025-04-09,11,1978.62,20308.21,18.1,1,2.9,1,22,32,No,5,6.4,No
+CUST10990,25,Male,Chennai,Silver,Mobile,Credit Card,Fashion,2022-02-14,2025-07-17,10,3443.03,40331.68,5.2,0,4.9,1,22,23,Yes,6,5.2,No
+CUST10991,43,Female,Delhi,Silver,Desktop,Debit Card,Sports,2023-01-28,2025-12-31,8,5709.63,56598.54,28.8,2,3.7,2,23,22,No,5,1.5,No
+CUST10992,62,Male,Coimbatore,Silver,Mobile,UPI,Grocery,2022-06-15,2024-03-17,10,2368.41,20198.34,26.2,0,3.9,1,16,19,Yes,0,2.9,Yes
+CUST10993,61,Male,Kochi,Silver,Desktop,Net Banking,Sports,2025-12-06,2025-12-31,17,3405.7,60127.92,13.7,2,3.9,1,21,20,No,13,1.3,No
+CUST10994,22,Female,Chennai,Silver,Mobile,Net Banking,Grocery,2024-09-02,2025-12-31,6,3066.09,13846.58,7.8,0,4.7,2,29,28,Yes,4,0.0,No
+CUST10995,23,Female,Bengaluru,Gold,Mobile,COD,Beauty,2025-04-05,2025-12-31,8,2314.78,20490.94,11.6,2,5.0,1,16,22,Yes,2,1.3,No
+CUST10996,43,Male,Delhi,Basic,Mobile,Credit Card,Sports,2024-02-04,2025-12-31,13,2091.49,26024.06,12.6,1,4.1,4,15,22,No,14,3.8,No
+CUST10997,21,Female,Mumbai,Basic,Mobile,COD,Grocery,2023-01-19,2023-07-19,9,1573.52,11989.77,18.1,0,3.9,0,17,16,Yes,9,0.1,Yes
+CUST10998,36,Male,Bengaluru,Basic,Mobile,UPI,Home & Kitchen,2025-01-27,2025-12-31,9,683.48,6927.07,23.3,0,3.3,2,23,20,Yes,7,4.6,No
+CUST10999,37,Female,Coimbatore,Basic,Desktop,Net Banking,Beauty,2021-09-03,2022-09-05,9,2617.03,27211.67,6.7,2,3.1,1,16,16,Yes,14,4.7,Yes
+CUST11000,50,Female,Delhi,Silver,Desktop,UPI,Grocery,2024-01-10,2025-12-27,16,2003.34,25821.71,23.1,1,2.8,2,20,20,Yes,13,1.6,No
+CUST11001,37,Female,Pune,Basic,Mobile,UPI,Electronics,2022-10-24,2025-12-04,8,1942.43,11973.11,19.9,1,3.5,1,8,13,Yes,14,2.7,No
+CUST11002,29,Female,Pune,Gold,Mobile,Credit Card,Grocery,2023-06-28,2025-12-31,8,3676.91,26974.97,10.9,4,2.6,1,14,27,Yes,6,5.1,No
+CUST11003,64,Other,Hyderabad,Basic,Mobile,UPI,Sports,2022-01-31,2023-02-02,8,2971.27,25267.57,6.3,1,4.7,0,27,26,Yes,8,3.2,Yes
+CUST11004,18,Male,Chennai,Basic,Desktop,Net Banking,Home & Kitchen,2022-06-06,2024-01-15,7,4421.17,35488.59,15.9,3,4.3,0,17,29,Yes,11,5.4,Yes
+CUST11005,43,Female,Mumbai,Gold,Tablet,COD,Fashion,2025-10-26,2025-12-31,8,2303.13,18849.39,6.5,4,3.8,1,14,30,Yes,0,0.0,No
+CUST11006,31,Male,Hyderabad,Basic,Tablet,Net Banking,Fashion,2023-07-15,2025-12-31,9,1633.5,15295.06,23.2,1,4.7,1,21,20,No,1,1.3,No
+CUST11007,55,Male,Delhi,Silver,Desktop,Credit Card,Grocery,2021-09-21,2025-06-20,14,3703.34,59620.1,6.0,0,3.3,0,23,32,No,1,1.8,No
+CUST11008,54,Male,Pune,Gold,Mobile,Net Banking,Fashion,2025-08-12,2025-12-31,11,3790.42,42295.93,19.4,1,3.5,2,19,16,No,0,5.0,No
+CUST11009,28,Female,Pune,Basic,Mobile,,Grocery,2023-03-01,2025-10-28,10,3206.27,33844.66,14.4,2,2.7,2,15,28,No,7,2.5,No
+CUST11010,53,Other,Pune,Basic,Mobile,COD,Home & Kitchen,2024-07-21,2025-12-31,11,1918.4,21273.51,10.5,0,4.5,1,22,29,No,11,1.0,No
+CUST11011,30,Male,Delhi,Silver,Tablet,Debit Card,Fashion,2025-09-26,2025-11-08,8,2861.86,27250.15,14.2,0,3.5,0,22,22,Yes,3,2.3,No
+CUST11012,60,Male,Pune,Basic,Mobile,Debit Card,Sports,2021-06-21,2023-07-14,6,1599.33,8326.99,23.6,0,4.0,2,24,18,No,6,3.5,Yes
+CUST11013,20,Female,Bengaluru,Basic,Mobile,Credit Card,Sports,2021-09-22,2023-04-02,12,1989.81,21060.07,5.5,0,4.7,4,25,17,No,9,1.9,Yes
+CUST11014,50,Male,Kochi,Basic,Desktop,UPI,Electronics,2023-11-16,2025-12-31,12,4691.39,45824.41,11.7,2,4.9,1,23,25,Yes,14,4.2,No
+CUST11015,23,Male,Delhi,Basic,Mobile,Debit Card,Grocery,2025-02-01,2025-12-31,13,2210.64,33328.79,9.0,0,4.0,1,20,17,Yes,0,2.7,No
+CUST11016,27,Female,Mumbai,Silver,Mobile,Net Banking,Fashion,2022-04-21,2025-12-31,8,4188.08,32026.7,14.7,2,4.2,0,10,28,Yes,7,1.9,No
+CUST11017,22,Female,Kochi,Gold,Desktop,UPI,Sports,2021-12-22,2023-07-27,8,3292.34,24335.58,9.5,2,3.4,2,16,22,Yes,10,4.9,Yes
+CUST11018,40,Other,Hyderabad,Silver,Mobile,Net Banking,Home & Kitchen,2023-11-16,2025-12-31,11,5651.25,77124.97,0.9,1,5.0,1,28,19,No,7,5.4,No
+CUST11019,27,Male,Mumbai,Basic,Mobile,Net Banking,,2021-02-03,2023-07-06,6,3235.29,23554.24,6.6,1,3.9,5,14,23,No,10,4.8,Yes
+CUST11020,61,Male,Kochi,Basic,Desktop,UPI,Electronics,2021-09-21,2023-09-03,13,3143.13,50503.56,28.1,0,4.1,4,20,20,Yes,9,0.9,Yes
+CUST11021,19,Female,Coimbatore,Gold,Desktop,UPI,Home & Kitchen,2024-03-07,2024-10-06,11,1299.35,11736.57,17.0,1,3.7,3,19,20,Yes,11,4.9,Yes
+CUST11022,30,Female,Pune,Silver,Tablet,Net Banking,Home & Kitchen,2023-03-27,2025-02-21,16,2016.48,38575.29,16.7,2,4.8,1,28,24,Yes,2,4.5,No
+CUST11023,57,Female,Coimbatore,Gold,Mobile,Credit Card,Fashion,2025-09-15,2025-12-31,9,2478.84,20398.85,12.7,0,4.1,2,22,27,Yes,8,0.2,No
+CUST11024,19,Female,Chennai,Silver,Mobile,COD,Grocery,2023-05-25,2023-10-16,15,6674.83,75725.45,14.6,1,4.5,1,17,18,Yes,14,1.8,Yes
+CUST11025,37,Male,Chennai,Silver,Desktop,COD,Beauty,2023-01-24,2023-06-18,17,2086.04,33535.25,11.6,0,4.2,1,18,26,No,4,5.0,Yes
+CUST11026,18,Female,Kochi,Silver,Mobile,Credit Card,Home & Kitchen,2022-07-20,2024-05-18,6,1649.13,9940.28,19.2,1,3.9,3,12,22,No,4,4.4,Yes
+CUST11027,54,Male,Coimbatore,Basic,Mobile,UPI,Home & Kitchen,2022-04-07,2025-02-13,13,1410.76,14747.28,15.8,1,4.6,1,17,23,No,11,1.4,No
+CUST11028,26,Male,Delhi,Silver,Desktop,Net Banking,Beauty,2024-04-06,2025-12-31,12,1280.35,15653.64,5.6,0,4.2,3,22,26,No,13,0.3,No
+CUST11029,34,Female,Mumbai,Silver,Mobile,COD,Home & Kitchen,2025-07-13,2025-12-31,10,6786.33,78703.23,17.0,1,3.4,1,24,20,Yes,4,5.1,No
+CUST11030,26,Male,Coimbatore,Basic,Mobile,Net Banking,Fashion,2022-10-17,2023-11-20,4,3034.55,11395.65,0.0,2,3.4,1,19,21,Yes,0,3.6,Yes
+CUST11031,28,Male,Chennai,Basic,Mobile,Credit Card,Fashion,2021-03-22,2025-08-01,16,1748.14,25909.46,18.3,1,4.1,3,21,33,Yes,13,2.6,No
+CUST11032,32,Female,Coimbatore,Gold,Mobile,Net Banking,Beauty,2023-01-27,2025-12-31,4,4962.6,18250.56,3.7,2,4.6,2,26,18,Yes,9,0.9,No
+CUST11033,41,Male,Delhi,Platinum,Mobile,Credit Card,Sports,2023-05-20,2025-06-14,7,5999.13,50877.61,14.2,1,5.0,2,17,26,Yes,1,3.9,No
+CUST11034,55,Female,Coimbatore,Silver,Mobile,UPI,Home & Kitchen,2024-12-01,2025-06-20,6,1785.62,8296.48,5.4,0,2.8,2,22,21,Yes,0,0.4,No
+CUST11035,52,Male,Mumbai,Basic,Desktop,Credit Card,Sports,2025-05-17,2025-12-31,15,2263.56,33020.97,15.0,1,4.0,2,16,24,Yes,1,0.7,No
+CUST11036,47,Female,Hyderabad,Basic,Tablet,Credit Card,Home & Kitchen,2023-12-06,2025-06-30,10,4604.24,40623.2,19.6,3,4.3,1,20,28,Yes,8,3.3,No
+CUST11037,48,Male,Delhi,Gold,Mobile,COD,Grocery,2022-08-22,2025-12-31,18,3813.76,82164.65,27.0,2,4.2,3,24,29,Yes,8,4.5,No
+CUST11038,22,Male,Chennai,Basic,Mobile,Net Banking,Home & Kitchen,2025-06-23,2025-10-30,9,2585.99,18573.19,2.7,2,4.7,3,21,30,Yes,12,2.8,No
+CUST11039,61,Other,Mumbai,Platinum,Mobile,COD,Fashion,2023-03-18,2025-12-31,5,4662.05,22278.1,22.8,1,4.4,1,20,32,Yes,13,1.8,No
+CUST11040,31,Female,Coimbatore,Basic,Mobile,Debit Card,Electronics,2023-12-13,2025-12-31,14,1276.59,17039.56,16.0,2,3.4,1,18,25,Yes,4,4.3,No
+CUST11041,28,Female,Coimbatore,Silver,Desktop,Credit Card,Electronics,2023-09-11,2025-12-31,14,661.39,11057.62,11.4,0,3.3,2,19,34,Yes,3,0.2,No
+CUST11042,26,Male,Hyderabad,Silver,Desktop,Debit Card,Electronics,2022-12-05,2025-04-25,10,1615.16,13853.98,21.1,1,,0,18,23,No,12,0.6,Yes
+CUST11043,51,Female,Chennai,Gold,Desktop,COD,Electronics,2022-04-21,2025-01-03,7,1963.81,14742.58,13.1,1,4.6,2,12,20,Yes,1,4.7,Yes
+CUST11044,29,Female,Chennai,Silver,Mobile,Net Banking,Sports,2022-08-15,2023-04-25,7,1856.01,10617.16,20.7,1,4.1,0,22,27,Yes,5,0.1,Yes
+CUST11045,52,Female,Bengaluru,Silver,Mobile,COD,Sports,2021-01-16,2021-12-05,9,936.7,10343.88,7.1,0,3.0,1,31,28,No,12,0.0,Yes
+CUST11046,52,Female,Chennai,Platinum,Mobile,Net Banking,Home & Kitchen,2024-10-15,2024-11-14,6,2328.91,14623.33,9.9,1,3.3,3,25,23,Yes,8,0.5,Yes
+CUST11047,18,Male,Hyderabad,Basic,Mobile,Net Banking,Sports,2022-05-02,2022-07-17,9,3569.82,34156.59,22.5,2,4.4,1,20,27,Yes,12,4.7,Yes
+CUST11048,57,Male,Pune,Platinum,Mobile,UPI,Home & Kitchen,2022-12-07,2024-11-26,10,4057.44,39230.85,26.9,3,3.8,2,17,23,No,7,4.3,No
+CUST11049,39,Female,Bengaluru,Basic,Tablet,Credit Card,Grocery,2025-03-06,2025-12-31,14,3912.46,50455.0,14.7,0,4.1,1,19,19,Yes,9,0.0,No
+CUST11050,46,Male,Bengaluru,Gold,Mobile,COD,Home & Kitchen,2024-03-10,2025-12-31,6,4463.57,22933.95,0.0,1,4.7,0,19,25,Yes,3,0.9,No
+CUST11051,25,Male,Coimbatore,Silver,Desktop,Net Banking,Electronics,2022-09-12,2025-12-31,9,3384.1,32040.47,13.4,2,3.2,1,17,19,Yes,5,0.0,No
+CUST11052,28,Female,Coimbatore,Basic,Mobile,COD,Beauty,2023-10-16,2024-08-17,8,2145.37,21063.77,15.3,1,3.7,1,14,36,Yes,10,3.8,Yes
+CUST11053,58,Female,Chennai,Gold,Mobile,COD,Beauty,2023-02-16,2025-12-31,10,1137.02,10573.1,13.1,0,3.7,2,20,23,Yes,13,0.1,No
+CUST11054,54,Female,Bengaluru,Basic,Mobile,Net Banking,Fashion,2022-03-23,2024-04-22,12,1123.8,16069.15,17.7,1,4.2,5,19,24,Yes,8,3.4,Yes
+CUST11055,31,Female,Kochi,Basic,Mobile,Debit Card,Fashion,2021-10-17,2024-01-01,4,2942.18,9701.99,11.2,1,4.5,0,15,31,No,9,2.1,Yes
+CUST11056,47,Female,Coimbatore,Silver,Mobile,Credit Card,Home & Kitchen,2021-07-28,2022-04-09,12,1798.09,26282.24,21.7,1,3.0,0,21,25,Yes,9,2.7,Yes
+CUST11057,52,Male,Hyderabad,Silver,Desktop,Credit Card,Beauty,2025-02-07,2025-12-31,10,2873.95,26591.03,5.7,0,4.0,3,20,19,Yes,14,0.0,No
+CUST11058,38,Male,Kochi,Silver,Desktop,,Electronics,2022-02-17,2025-12-31,6,1538.88,8678.02,24.9,3,4.6,3,22,34,Yes,10,4.3,No
+CUST11059,54,Male,Coimbatore,Basic,Mobile,UPI,Sports,2022-11-08,2025-06-04,7,4869.95,33456.3,27.4,0,2.8,5,15,24,Yes,3,5.6,No
+CUST11060,22,Male,Delhi,Basic,Mobile,UPI,Electronics,2024-12-21,2025-12-31,7,2368.65,18389.86,7.7,0,4.0,2,22,15,Yes,8,5.5,No
+CUST11061,36,Female,Delhi,Basic,Desktop,Credit Card,Electronics,2024-10-26,2025-12-31,5,2457.53,13637.16,7.7,2,3.2,1,24,18,Yes,11,2.6,No
+CUST11062,31,Male,Coimbatore,Basic,Desktop,Debit Card,Home & Kitchen,2022-10-26,2025-12-30,4,2562.28,10144.52,18.3,0,3.6,2,11,26,No,7,0.0,No
+CUST11063,43,Male,Bengaluru,Silver,Desktop,Credit Card,Home & Kitchen,2021-10-17,2025-11-27,8,582.2,4711.52,5.5,0,2.4,5,22,21,Yes,2,1.8,No
+CUST11064,21,Male,Pune,Gold,Mobile,Credit Card,Grocery,2024-12-26,2025-12-31,3,4616.9,10595.86,11.1,0,4.9,2,21,30,Yes,8,3.0,No
+CUST11065,42,Male,Pune,Platinum,Tablet,Credit Card,Electronics,2024-07-15,2025-12-31,10,1631.65,14719.9,23.8,2,3.8,1,16,23,Yes,12,2.8,No
+CUST11066,62,Male,Bengaluru,Gold,Mobile,Credit Card,Electronics,2021-05-31,2024-08-25,7,2592.14,16747.97,20.9,2,3.5,4,19,17,No,11,0.0,Yes
+CUST11067,59,Male,Mumbai,Basic,Desktop,Debit Card,Home & Kitchen,2025-10-09,2025-12-31,5,2833.82,14585.16,30.8,2,4.2,3,19,22,Yes,4,3.9,No
+CUST11068,42,Male,Pune,Silver,Mobile,UPI,Home & Kitchen,2024-07-02,2025-01-08,13,1880.27,25156.04,16.4,2,3.3,2,25,15,No,0,4.0,Yes
+CUST11069,35,Male,Delhi,Basic,Desktop,COD,Grocery,2024-10-08,2025-12-31,5,3610.11,19944.95,10.1,0,3.3,0,16,24,Yes,10,4.0,No
+CUST11070,57,Male,Hyderabad,Basic,Mobile,UPI,Grocery,2024-11-01,2025-12-31,8,4377.2,38817.49,15.4,2,5.0,1,25,29,Yes,7,1.1,No
+CUST11071,25,Female,Bengaluru,Silver,Mobile,UPI,Fashion,2025-08-04,2025-12-31,10,1128.49,9790.84,13.8,0,5.0,1,17,17,Yes,4,0.0,No
+CUST11072,56,Male,Chennai,Basic,Mobile,COD,Beauty,2023-05-05,2024-04-18,7,3783.78,30064.61,13.9,1,3.6,0,21,24,Yes,4,1.5,Yes
+CUST11073,57,Male,Delhi,Basic,Mobile,Credit Card,Electronics,2024-10-13,2025-12-31,9,1027.43,7025.79,14.8,1,4.7,1,17,24,Yes,1,4.9,No
+CUST11074,31,Female,Hyderabad,Platinum,Desktop,Debit Card,Electronics,2022-08-31,2024-07-04,8,1882.46,16687.34,7.5,1,4.2,1,20,14,Yes,8,0.6,Yes
+CUST11075,49,Male,Hyderabad,Silver,Desktop,Debit Card,Grocery,2022-01-05,2025-12-31,9,2127.83,15340.11,17.3,0,3.1,1,24,18,Yes,5,0.8,No
+CUST11076,55,Female,Bengaluru,Silver,Tablet,UPI,Grocery,2024-06-04,2025-04-07,10,2156.8,24044.53,3.7,0,3.4,2,21,21,Yes,10,0.4,No
+CUST11077,50,Female,Hyderabad,Basic,Mobile,COD,Fashion,2022-12-06,2025-12-31,9,4726.44,43114.73,9.3,0,5.0,3,25,25,Yes,9,1.7,No
+CUST11078,40,Male,Bengaluru,Basic,Desktop,Net Banking,Beauty,2024-08-19,2025-11-19,9,2224.13,19389.18,14.0,0,3.1,1,23,17,Yes,11,3.3,No
+CUST11079,32,Female,Pune,Gold,Desktop,Credit Card,Fashion,2023-04-06,2025-12-31,9,2222.83,21912.66,0.0,2,5.0,2,23,32,Yes,2,3.9,No
+CUST11080,50,Male,Coimbatore,Basic,Mobile,UPI,Beauty,2023-10-02,2025-06-07,9,1440.52,9959.28,21.2,1,3.6,1,21,18,No,6,0.0,Yes
+CUST11081,42,Female,Delhi,Silver,Mobile,Debit Card,Sports,2024-11-13,2025-12-31,8,3163.32,21807.55,0.0,1,5.0,3,19,26,Yes,1,4.5,No
+CUST11082,34,Male,Mumbai,Basic,Desktop,COD,Electronics,2022-01-12,2024-04-08,13,2500.66,34401.23,20.4,3,3.8,1,18,23,Yes,6,4.8,Yes
+CUST11083,50,Female,Coimbatore,Silver,Tablet,COD,Fashion,2023-08-31,2025-12-31,11,3438.16,44385.56,4.7,1,4.5,3,14,31,Yes,11,1.9,No
+CUST11084,64,Male,Delhi,Basic,Desktop,UPI,Grocery,2021-04-28,2021-07-22,5,1427.77,6714.47,11.8,2,4.9,2,18,20,No,14,0.0,Yes
+CUST11085,19,Female,Bengaluru,Gold,Mobile,Net Banking,Fashion,2023-10-26,2025-12-31,11,5711.69,55250.25,19.2,0,4.9,2,18,21,Yes,10,5.0,No
+CUST11086,31,Female,Delhi,Gold,Mobile,Debit Card,Sports,2022-03-20,2025-01-29,10,3905.83,39424.21,32.6,2,3.6,0,22,21,Yes,1,3.3,No
+CUST11087,57,Male,Pune,Gold,Mobile,UPI,Fashion,2024-10-07,2025-12-31,8,10753.26,91287.23,15.9,1,3.4,1,14,30,Yes,10,6.3,No
+CUST11088,57,Male,Bengaluru,Basic,Desktop,Net Banking,Electronics,2023-01-25,2025-03-29,9,2816.87,24339.06,0.0,1,3.9,1,21,20,Yes,4,0.0,No
+CUST11089,56,Female,Coimbatore,Gold,Desktop,COD,Sports,2025-04-06,2025-12-31,13,4263.46,65864.57,22.6,0,3.2,0,15,30,No,9,3.1,No
+CUST11090,23,Female,Chennai,Silver,Mobile,Credit Card,Grocery,2025-08-15,2025-12-31,5,5781.51,29246.33,13.1,1,4.2,0,16,23,Yes,12,5.4,No
+CUST11091,23,Male,Chennai,Silver,Desktop,Debit Card,Grocery,2022-10-02,2025-03-12,7,3194.6,17172.2,15.6,0,3.5,1,18,18,Yes,9,3.4,No
+CUST11092,20,Female,Kochi,Silver,Mobile,Debit Card,Home & Kitchen,2021-05-04,2022-04-19,10,2536.97,21856.68,19.5,3,4.7,3,17,21,Yes,12,0.0,Yes
+CUST11093,24,Other,Kochi,Basic,Tablet,Net Banking,Sports,2022-10-20,2024-07-22,11,2200.39,23607.01,0.0,3,3.6,2,18,28,Yes,14,0.0,Yes
+CUST11094,25,Female,Delhi,Basic,Mobile,UPI,Home & Kitchen,2024-07-24,2025-09-30,18,2393.67,47345.67,15.1,0,2.9,1,19,17,Yes,8,6.1,No
+CUST11095,59,Male,Chennai,Gold,Mobile,COD,Home & Kitchen,2023-04-02,2025-12-31,10,2992.78,25734.2,11.7,0,4.9,1,13,17,Yes,12,1.3,No
+CUST11096,32,Female,Bengaluru,Basic,Mobile,Net Banking,Electronics,2024-11-18,2025-07-27,8,2482.66,24590.82,24.8,2,4.1,2,13,28,Yes,8,3.5,No
+CUST11097,64,Male,Hyderabad,Silver,Mobile,Credit Card,Fashion,2022-10-26,2024-03-29,5,3748.25,17041.03,20.8,1,4.0,2,14,27,Yes,5,0.0,Yes
+CUST11098,46,Other,Bengaluru,Silver,Mobile,Credit Card,Grocery,2021-12-26,2024-09-16,14,5084.85,72344.0,2.0,2,4.7,2,25,21,Yes,2,1.4,No
+CUST11099,50,Female,Hyderabad,Gold,Mobile,Credit Card,Grocery,2022-09-15,2023-11-02,8,1557.56,9463.53,25.1,0,4.6,1,16,22,No,14,4.4,Yes
+CUST11100,47,Male,Coimbatore,Platinum,Mobile,Net Banking,Fashion,2025-02-01,2025-12-31,9,1553.71,16674.43,18.6,0,3.5,1,15,24,Yes,11,3.1,No
+CUST11101,56,Female,Mumbai,Platinum,Desktop,COD,Grocery,2025-07-10,2025-12-31,8,2236.42,20475.18,2.6,0,3.7,1,16,25,No,3,1.6,No
+CUST11102,44,Male,Hyderabad,Basic,Mobile,Debit Card,Fashion,2025-09-20,2025-12-31,10,1133.35,9607.74,15.4,3,3.3,5,18,32,Yes,3,4.1,No
+CUST11103,53,Other,Chennai,Basic,Mobile,UPI,Sports,2023-12-17,2024-01-02,9,5523.09,60475.43,23.3,2,3.0,0,19,26,Yes,8,2.4,Yes
+CUST11104,46,Other,Bengaluru,Silver,Mobile,Debit Card,Electronics,2024-06-28,2025-12-31,13,4472.14,52784.48,5.3,0,4.4,1,23,29,Yes,3,4.5,No
+CUST11105,55,Female,Coimbatore,Basic,Desktop,COD,Electronics,2023-07-08,2023-08-07,10,2523.98,27665.17,26.0,1,4.3,1,14,17,Yes,3,1.6,Yes
+CUST11106,50,Male,Chennai,Basic,Mobile,Debit Card,Electronics,2024-03-19,2025-01-06,8,2631.94,24413.63,2.9,1,4.5,2,23,25,Yes,4,3.1,Yes
+CUST11107,54,Female,Coimbatore,Silver,Tablet,Net Banking,Fashion,2022-03-28,2025-12-31,9,3232.23,32594.18,8.7,0,4.8,1,19,18,No,5,6.5,No
+CUST11108,44,Male,Mumbai,Silver,Desktop,Credit Card,Fashion,2024-03-31,2025-04-19,10,1895.72,22915.3,7.5,0,4.5,2,18,24,No,7,2.8,No
+CUST11109,50,Male,Pune,Platinum,Mobile,COD,Beauty,2021-04-30,2025-09-07,7,2352.88,19469.99,26.0,0,4.6,4,25,24,Yes,11,3.9,No
+CUST11110,21,Female,Bengaluru,Basic,Mobile,COD,Grocery,2022-08-05,2025-04-08,9,1958.67,21987.54,11.1,3,2.6,1,16,26,No,0,0.0,Yes
+CUST11111,39,Male,Delhi,Basic,Mobile,Debit Card,Grocery,2024-10-06,2025-12-31,5,2838.77,11941.37,5.7,2,3.8,1,14,23,Yes,4,2.8,No
+CUST11112,19,Male,Bengaluru,Basic,Mobile,Net Banking,Beauty,2021-04-09,2022-05-06,10,2874.13,25935.6,18.6,1,4.6,0,14,18,Yes,8,2.9,Yes
+CUST11113,27,Other,Kochi,Platinum,Desktop,Debit Card,Beauty,2024-04-05,2025-12-31,7,2597.82,19423.36,20.3,3,3.2,1,22,19,No,9,0.1,No
+CUST11114,22,Male,Mumbai,Gold,Tablet,Debit Card,Electronics,2025-08-14,2025-12-31,4,4278.44,19107.92,20.3,0,4.1,2,21,18,Yes,3,2.0,No
+CUST11115,27,Male,Bengaluru,Gold,Mobile,COD,Beauty,2022-05-29,2022-10-22,9,2614.09,23933.88,12.8,0,4.3,0,18,22,Yes,7,1.9,Yes
+CUST11116,50,Female,Kochi,Platinum,Mobile,Debit Card,Fashion,2022-10-26,2025-12-31,13,2688.89,27508.78,17.0,1,4.3,0,21,22,No,8,0.3,No
+CUST11117,55,Male,Delhi,Silver,Desktop,Credit Card,Home & Kitchen,2022-02-05,2025-11-30,5,1317.12,7710.4,9.8,0,4.2,2,23,25,No,0,1.5,No
+CUST11118,30,Female,Hyderabad,Silver,Mobile,Debit Card,Fashion,2021-12-31,2022-07-11,12,3695.81,54569.54,28.4,1,4.4,2,23,22,Yes,7,6.7,Yes
+CUST11119,48,Other,Coimbatore,Basic,Mobile,Credit Card,Beauty,2025-05-20,2025-12-31,14,2966.66,39571.14,24.2,1,4.1,1,17,15,Yes,7,2.5,No
+CUST11120,64,Female,Delhi,Silver,Mobile,COD,Grocery,2024-09-11,2025-12-31,8,3877.03,26748.6,23.7,1,3.0,1,21,18,No,4,3.1,No
+CUST11121,53,Female,Chennai,Silver,Mobile,Net Banking,Fashion,2022-08-04,2025-12-31,11,1817.01,15183.35,21.4,1,4.3,2,23,27,No,9,6.3,No
+CUST11122,62,Male,Mumbai,Silver,Desktop,Credit Card,Grocery,2025-07-15,2025-12-31,7,1605.82,9764.26,19.2,4,4.2,1,21,20,No,1,0.0,No
+CUST11123,41,Male,Hyderabad,Platinum,Mobile,Net Banking,Fashion,2022-09-13,2025-05-17,6,2466.63,16279.16,5.0,5,3.1,3,19,27,No,11,6.8,Yes
+CUST11124,32,Female,Chennai,Platinum,Mobile,Net Banking,Grocery,2023-04-08,2025-03-01,12,1046.81,15146.86,20.1,0,4.9,0,21,19,Yes,6,4.0,No
+CUST11125,46,Female,Chennai,Gold,Tablet,Credit Card,Sports,2021-09-04,2023-02-25,9,5668.64,40648.73,15.9,2,4.3,1,25,17,Yes,13,0.0,Yes
+CUST11126,25,Female,Mumbai,Gold,Desktop,COD,Fashion,2022-03-10,2022-06-03,9,2429.08,22443.89,25.1,1,3.1,3,16,19,No,10,0.0,Yes
+CUST11127,22,Male,Hyderabad,Gold,Desktop,UPI,Grocery,2024-01-22,2024-03-30,9,799.67,7900.65,21.5,1,3.5,2,27,24,Yes,10,4.1,Yes
+CUST11128,46,Male,Pune,Basic,Mobile,Net Banking,Home & Kitchen,2024-07-15,2024-08-11,9,2164.4,17301.59,19.4,0,3.6,1,14,22,No,4,4.1,Yes
+CUST11129,64,Male,Chennai,Basic,Mobile,Net Banking,Electronics,2022-09-07,2025-12-31,6,2548.05,15822.6,1.5,1,3.6,3,18,22,Yes,14,3.4,No
+CUST11130,21,Female,Chennai,Gold,Tablet,COD,Fashion,2023-08-01,2025-12-31,11,5103.83,62184.38,14.3,2,4.2,0,20,30,No,11,0.6,No
+CUST11131,29,Male,Hyderabad,Gold,Mobile,COD,Home & Kitchen,2023-08-21,2023-11-23,9,2824.04,29708.16,10.5,0,3.4,2,19,25,No,4,3.0,Yes
+CUST11132,62,Female,Bengaluru,Basic,Mobile,Debit Card,Electronics,2022-09-16,2024-01-19,10,1365.46,13330.3,17.0,0,4.7,4,23,20,Yes,5,1.2,Yes
+CUST11133,19,Female,Chennai,Platinum,Mobile,COD,Fashion,2021-11-17,2024-11-19,10,3251.78,36547.69,11.7,2,4.7,3,15,28,No,11,2.0,Yes
+CUST11134,44,Male,Coimbatore,Basic,Mobile,Net Banking,Home & Kitchen,2023-05-06,2025-12-31,5,2804.16,12631.22,12.8,3,4.4,1,13,14,No,9,0.5,No
+CUST11135,48,Female,Hyderabad,Basic,Mobile,Credit Card,Home & Kitchen,2021-03-03,2025-05-09,11,2504.17,23593.68,18.7,0,4.0,0,21,22,Yes,7,1.1,No
+CUST11136,53,Male,Chennai,Gold,Desktop,UPI,Sports,2021-10-27,2023-10-25,8,2321.06,15665.43,11.5,0,4.6,1,19,20,No,10,0.0,Yes
+CUST11137,53,Female,Mumbai,Basic,Tablet,Debit Card,Home & Kitchen,2022-02-07,2025-01-16,9,4145.52,34676.97,16.0,0,3.8,2,27,24,Yes,0,5.5,No
+CUST11138,43,Female,Delhi,Basic,Tablet,Credit Card,Sports,2023-08-13,2025-12-31,5,2765.78,10619.76,2.8,0,3.5,1,19,23,Yes,2,0.8,No
+CUST11139,60,Female,Coimbatore,Basic,Mobile,UPI,Beauty,2025-07-30,2025-12-31,13,2686.25,31132.15,8.3,1,4.8,0,18,38,No,11,5.2,No
+CUST11140,44,Female,Kochi,Gold,Mobile,UPI,Grocery,2025-05-10,2025-12-31,5,4587.17,24681.53,20.2,0,4.2,0,24,18,No,6,1.6,No
+CUST11141,22,Male,Kochi,Silver,Mobile,UPI,Electronics,2025-07-02,2025-12-31,6,3929.47,25320.55,5.2,4,3.6,1,18,17,Yes,13,1.3,No
+CUST11142,37,Male,Delhi,Gold,Desktop,Credit Card,Grocery,2024-08-19,2025-12-31,8,3257.72,20504.79,25.0,1,3.7,0,24,17,No,10,0.0,No
+CUST11143,28,Female,Kochi,Silver,Mobile,Debit Card,Grocery,2025-11-29,2025-12-31,13,1982.53,23033.43,22.8,0,3.5,1,10,19,Yes,8,6.3,No
+CUST11144,27,Male,Delhi,Basic,Desktop,Debit Card,Sports,2021-09-10,2022-05-10,12,2392.04,29702.79,12.9,1,5.0,0,20,23,Yes,9,4.6,Yes
+CUST11145,57,Male,Chennai,Platinum,Desktop,UPI,Grocery,2025-10-24,2025-12-31,12,2643.61,28845.26,39.0,0,4.0,2,16,23,Yes,1,0.6,No
+CUST11146,55,Male,Coimbatore,Basic,Mobile,Credit Card,Home & Kitchen,2022-04-23,2025-12-31,8,1442.78,11068.94,24.9,1,4.1,0,16,19,Yes,3,4.3,No
+CUST11147,23,Female,Coimbatore,Platinum,Mobile,UPI,,2024-10-24,2025-12-31,10,2182.8,24150.62,7.4,2,4.5,2,15,29,No,10,4.6,No
+CUST11148,25,Male,Bengaluru,Silver,Tablet,COD,Grocery,2025-08-30,2025-12-31,5,2811.76,10609.24,21.0,2,3.2,1,17,26,No,3,2.9,No
+CUST11149,40,Female,Delhi,Platinum,Tablet,Debit Card,Sports,2021-06-09,2022-11-29,10,3572.09,31727.19,15.5,1,4.7,2,20,17,No,10,2.8,Yes
+CUST11150,64,Other,Coimbatore,Basic,Mobile,Net Banking,Beauty,2023-08-19,2024-06-26,10,3504.12,28775.35,8.8,2,3.6,0,13,27,Yes,6,2.5,Yes
+CUST11151,43,Male,Bengaluru,Silver,Mobile,UPI,Sports,2024-04-04,2025-07-19,13,1193.74,12629.12,6.4,2,5.0,2,17,31,Yes,4,0.9,No
+CUST11152,63,Male,Hyderabad,Basic,Tablet,COD,Fashion,2021-07-24,2025-08-07,14,2325.48,40029.14,23.0,1,3.8,1,19,29,Yes,11,1.7,No
+CUST11153,60,Male,Bengaluru,Basic,Mobile,Debit Card,Home & Kitchen,2024-07-14,2025-12-31,11,1873.33,19334.79,10.2,0,4.7,1,17,23,No,10,0.6,No
+CUST11154,29,Female,Mumbai,Silver,Mobile,Credit Card,Electronics,2024-03-07,2025-07-12,3,1088.26,3309.0,14.2,0,2.4,2,15,25,Yes,4,4.6,No
+CUST11155,43,Male,Pune,Basic,Mobile,Debit Card,Fashion,2024-10-23,2025-12-31,6,2585.06,17323.69,7.6,2,3.2,1,17,19,Yes,6,5.8,No
+CUST11156,30,Male,Chennai,Silver,Mobile,Credit Card,Fashion,2025-01-06,2025-10-19,11,2170.05,18469.21,9.0,0,3.8,1,13,13,No,11,3.2,No
+CUST11157,57,Male,Hyderabad,Basic,Mobile,,Fashion,2023-05-08,2024-08-25,9,2768.72,21691.82,14.0,3,2.7,1,22,26,Yes,14,1.5,Yes
+CUST11158,35,Female,Pune,Basic,Mobile,UPI,Grocery,2023-01-30,2025-12-31,5,3519.21,20518.29,18.1,3,4.4,2,22,20,Yes,1,1.6,No
+CUST11159,42,Male,Pune,Gold,Mobile,UPI,Sports,2025-05-10,2025-12-31,12,3243.46,45966.13,0.0,3,4.2,3,17,31,Yes,7,3.2,No
+CUST11160,50,Female,Hyderabad,Silver,Mobile,Debit Card,Sports,2022-12-22,2024-09-23,8,6041.56,45262.18,15.1,2,3.4,2,28,34,Yes,5,3.6,No
+CUST11161,64,Female,Mumbai,Silver,Tablet,COD,Grocery,2023-11-07,2025-12-31,4,2961.9,11106.31,9.0,1,4.0,4,17,31,Yes,4,2.8,No
+CUST11162,57,Male,Bengaluru,Silver,Desktop,,Home & Kitchen,2021-03-09,2024-10-06,8,5013.1,45256.2,26.2,0,4.5,1,20,23,No,14,1.1,No
+CUST11163,60,Female,Chennai,Gold,Desktop,Net Banking,,2021-05-13,2023-08-01,10,1642.59,14742.82,38.5,2,2.6,0,12,29,No,11,4.8,Yes
+CUST11164,29,Male,Bengaluru,Basic,Desktop,Credit Card,Grocery,2025-09-20,2025-12-31,11,3220.77,28645.58,,4,3.2,1,13,22,Yes,0,2.8,No
+CUST11165,61,Female,Coimbatore,Gold,Mobile,Credit Card,Grocery,2023-07-08,2024-08-21,9,1970.78,15586.72,1.2,2,3.8,2,29,27,Yes,13,3.4,Yes
+CUST11166,53,Female,Bengaluru,Platinum,Mobile,UPI,Home & Kitchen,2022-03-06,2025-12-31,13,2449.93,30055.11,15.9,0,4.0,1,14,26,Yes,1,0.0,No
+CUST11167,65,Female,Kochi,Gold,Tablet,COD,Home & Kitchen,2021-11-04,2024-03-27,11,3972.66,33915.1,13.4,0,4.0,1,16,21,Yes,5,2.1,Yes
+CUST11168,21,Male,Hyderabad,Silver,Mobile,UPI,Beauty,2022-10-12,2025-05-13,11,2439.35,26546.82,30.8,0,4.6,1,12,29,Yes,5,3.9,No
+CUST11169,22,Male,Chennai,Silver,Mobile,Net Banking,Beauty,2024-04-12,2025-05-18,10,4313.11,48306.99,28.3,3,4.3,1,22,24,Yes,12,0.0,No
+CUST11170,54,Male,Bengaluru,Gold,Desktop,Debit Card,Beauty,2022-02-16,2023-08-18,10,1999.05,20127.89,21.9,1,4.5,0,24,26,Yes,10,0.0,Yes
+CUST11171,25,Male,Chennai,Silver,Mobile,Debit Card,Beauty,2021-04-07,2025-01-15,9,1614.24,11418.37,10.3,3,3.1,0,13,17,Yes,8,4.8,Yes
+CUST11172,59,Male,Chennai,Basic,Mobile,COD,Sports,2025-09-03,2025-12-31,6,3045.65,17727.05,20.4,0,4.1,2,24,19,Yes,10,2.8,No
+CUST11173,45,Male,Coimbatore,Basic,Tablet,UPI,Fashion,2024-03-23,2024-11-06,10,3108.37,34330.46,17.1,0,3.8,0,19,25,No,5,2.9,No
+CUST11174,48,Male,Coimbatore,Gold,Desktop,UPI,Fashion,2025-09-15,2025-12-31,6,2368.71,11072.04,16.9,1,5.0,3,17,24,Yes,0,3.3,No
+CUST11175,26,Male,Hyderabad,Basic,Mobile,Net Banking,Beauty,2024-06-19,2024-08-16,7,3638.62,19864.92,2.5,2,4.1,3,17,19,Yes,11,3.0,Yes
+CUST11176,46,Female,Mumbai,Gold,Tablet,Debit Card,Beauty,2024-08-20,2025-12-31,9,1008.81,8491.87,23.5,0,3.6,4,19,25,No,6,0.0,No
+CUST11177,31,Male,Kochi,Silver,Desktop,UPI,Electronics,2024-08-01,2025-08-16,7,1730.2,10264.19,15.9,0,4.6,2,18,23,Yes,11,1.7,No
+CUST11178,57,Male,Pune,Silver,Desktop,COD,Fashion,2023-11-17,2024-05-23,15,3332.74,60858.69,14.2,0,4.4,4,19,25,No,2,2.2,Yes
+CUST11179,58,Male,Chennai,Basic,Mobile,Debit Card,Electronics,2024-11-26,2025-09-09,11,2484.63,28442.53,10.2,3,3.5,1,21,20,Yes,7,2.8,No
+CUST11180,39,Male,Mumbai,Basic,Mobile,Net Banking,Electronics,2024-10-15,2025-12-31,10,2040.16,18232.15,8.7,1,3.8,2,16,23,Yes,5,2.6,No
+CUST11181,28,Other,Pune,Platinum,Desktop,COD,Grocery,2023-12-20,2025-05-07,11,2939.94,35650.51,17.5,0,3.8,0,25,22,Yes,2,1.6,No
+CUST11182,40,Male,Pune,Platinum,Desktop,Credit Card,Sports,2021-07-21,2024-11-22,8,4165.32,31238.72,1.0,1,4.8,1,24,19,Yes,2,4.3,No
+CUST11183,18,Female,Kochi,Gold,Desktop,Net Banking,Home & Kitchen,2023-02-01,2025-12-31,13,3228.25,34247.7,21.3,2,4.1,0,22,16,Yes,12,1.9,No
+CUST11184,63,Other,Hyderabad,Silver,Mobile,COD,Fashion,2023-05-24,2025-01-29,10,3857.93,33510.6,,0,4.5,1,17,28,No,7,2.9,No
+CUST11185,54,Female,Pune,Gold,Mobile,UPI,Beauty,2022-08-04,2025-08-17,6,3303.45,21235.38,0.0,0,3.7,1,21,17,Yes,5,5.7,No
+CUST11186,38,Female,Kochi,Silver,Desktop,Credit Card,Beauty,2022-01-05,2023-09-23,7,4653.43,25275.41,29.6,0,4.2,0,19,25,Yes,1,0.0,Yes
+CUST11187,43,Female,Pune,Silver,Mobile,Net Banking,Home & Kitchen,2022-06-17,2025-12-31,10,2178.75,19311.23,8.1,0,4.8,2,17,23,Yes,2,0.0,No
+CUST11188,63,Other,Chennai,Basic,Mobile,UPI,Fashion,2024-03-21,2025-02-25,8,4288.13,29301.85,9.2,1,3.8,3,21,17,No,11,3.2,No
+CUST11189,53,Female,Chennai,Silver,Mobile,Credit Card,Beauty,2024-01-31,2025-01-26,12,1233.79,12593.06,24.1,2,4.1,1,10,33,Yes,14,3.7,Yes
+CUST11190,40,Female,Delhi,Gold,Mobile,Debit Card,Beauty,2023-06-18,2023-12-15,5,1539.21,8399.32,29.8,1,3.1,1,16,14,Yes,5,6.9,Yes
+CUST11191,18,Female,Mumbai,Platinum,Desktop,UPI,Grocery,2022-08-30,2025-02-09,9,3602.29,37702.2,2.7,1,3.5,2,17,35,Yes,13,2.6,No
+CUST11192,57,Female,Bengaluru,Basic,Desktop,COD,Electronics,2025-01-09,2025-12-31,5,1497.24,8294.21,7.4,1,3.8,2,22,20,Yes,13,2.1,No
+CUST11193,32,Female,Kochi,Gold,Mobile,Net Banking,Beauty,2023-05-23,2025-12-31,10,2370.42,25431.38,7.9,1,3.3,1,14,21,No,6,1.4,No
+CUST11194,38,Male,Coimbatore,Silver,Mobile,Credit Card,Sports,2024-06-06,2025-05-30,10,4621.36,55836.47,22.5,2,4.9,1,17,21,No,3,4.7,No
+CUST11195,64,Male,Kochi,Silver,Desktop,UPI,Fashion,2024-02-23,2024-05-08,8,1630.99,10166.89,28.1,0,3.5,2,11,28,Yes,7,3.5,Yes
+CUST11196,26,Male,Bengaluru,Basic,Mobile,Debit Card,Sports,2023-02-09,2025-12-31,10,4012.79,33456.3,6.4,0,4.5,0,18,15,No,2,4.1,No
+CUST11197,26,Male,Mumbai,Silver,Mobile,Net Banking,Home & Kitchen,2023-04-14,2024-04-26,8,2316.14,17736.14,26.3,3,4.1,0,20,23,Yes,13,3.1,Yes
+CUST11198,27,Male,Coimbatore,Silver,Tablet,Net Banking,Grocery,2023-09-26,2025-12-31,13,1565.61,19054.94,9.3,0,4.0,1,23,16,Yes,5,4.2,No
+CUST11199,43,Male,Bengaluru,Basic,Mobile,UPI,Fashion,2023-07-27,2025-12-31,12,2754.58,31700.56,17.7,1,5.0,1,27,17,No,6,5.3,No
+CUST11200,58,Female,Delhi,Gold,Tablet,Debit Card,Grocery,2021-08-24,2024-12-26,8,4481.08,30587.04,4.8,0,2.5,0,19,29,No,7,3.7,Yes
+CUST11201,52,Male,Coimbatore,Gold,Mobile,Credit Card,Electronics,2021-06-11,2021-07-29,10,1475.31,12167.64,14.0,2,3.9,2,20,25,Yes,10,1.4,Yes
+CUST11202,42,Female,Chennai,Silver,Mobile,UPI,Beauty,2022-07-08,2023-08-31,12,1437.29,17326.76,14.1,0,3.3,1,18,17,No,14,0.6,Yes
+CUST11203,43,Male,Bengaluru,Platinum,Mobile,Credit Card,Fashion,2023-02-27,2025-12-31,10,3549.75,43094.9,12.5,1,2.7,3,21,21,Yes,3,2.8,No
+CUST11204,28,Male,Kochi,Basic,Tablet,Net Banking,Home & Kitchen,2024-10-08,2025-12-31,9,2129.09,18126.78,18.1,1,3.2,1,21,31,Yes,4,5.5,No
+CUST11205,55,Female,Coimbatore,Basic,Mobile,Credit Card,Electronics,2023-12-28,2024-05-28,5,6075.87,23443.03,6.9,0,4.0,3,27,25,Yes,5,2.9,Yes
+CUST11206,19,Female,Delhi,Gold,Mobile,Debit Card,Electronics,2024-04-11,2024-05-23,11,3109.66,37732.37,7.9,2,3.5,2,21,26,Yes,0,0.0,Yes
+CUST11207,24,Male,Kochi,Basic,Tablet,COD,Grocery,2025-07-19,2025-11-16,11,4157.39,40954.77,18.5,1,4.6,2,16,20,Yes,11,6.1,No
+CUST11208,35,Female,Pune,Basic,Mobile,Debit Card,Electronics,2025-09-02,2025-12-31,10,3061.52,26713.22,25.7,1,3.9,4,20,26,Yes,8,3.4,No
+CUST11209,44,Female,Coimbatore,Basic,Mobile,Credit Card,Fashion,2022-07-13,2025-08-31,12,1492.51,16336.34,,2,3.8,2,18,24,No,2,2.3,No
+CUST11210,51,Male,Coimbatore,Basic,Mobile,UPI,Grocery,2021-09-18,2025-03-12,9,1792.24,17935.25,19.0,2,3.8,0,17,27,Yes,1,2.2,No
+CUST11211,44,Male,Delhi,Gold,Desktop,Net Banking,Electronics,2021-08-05,2022-03-03,10,1906.01,22098.46,21.1,1,3.9,1,19,16,Yes,10,0.0,Yes
+CUST11212,34,Other,Pune,Basic,Mobile,COD,Home & Kitchen,2024-02-22,2025-12-31,11,3392.24,38957.53,21.6,2,3.7,0,25,19,No,6,0.8,No
+CUST11213,60,Female,Bengaluru,Silver,Mobile,UPI,Sports,2023-03-16,2023-10-18,5,2710.44,12349.3,7.4,2,3.4,0,19,14,No,10,0.8,Yes
+CUST11214,61,Female,Hyderabad,Basic,Mobile,UPI,Fashion,2024-03-31,2024-08-01,12,1121.49,12182.6,8.8,0,4.6,2,22,16,Yes,10,3.7,Yes
+CUST11215,41,Female,Bengaluru,Gold,Mobile,Debit Card,Home & Kitchen,2021-07-20,2023-01-28,13,3684.11,38896.85,9.5,1,3.6,2,16,27,No,13,2.1,Yes
+CUST11216,42,Male,Pune,Basic,Tablet,Credit Card,Home & Kitchen,2025-01-17,2025-03-13,9,6606.19,72336.82,30.4,0,3.8,1,14,25,Yes,3,4.7,No
+CUST11217,24,Male,Mumbai,Gold,Tablet,Debit Card,Grocery,2022-02-06,2025-02-12,8,1618.57,13842.91,19.1,3,4.3,0,16,27,Yes,3,0.0,Yes
+CUST11218,23,Male,Kochi,Silver,Desktop,Credit Card,Beauty,2025-01-25,2025-12-31,6,1731.47,7931.73,18.7,1,4.2,2,23,24,Yes,9,7.0,No
+CUST11219,41,Female,Delhi,Basic,Desktop,Debit Card,Grocery,2021-10-02,2023-08-29,11,2007.95,23880.59,17.9,3,3.4,1,25,19,Yes,14,5.0,Yes
+CUST11220,50,Female,Bengaluru,Silver,Desktop,UPI,Fashion,2021-07-25,2023-10-29,9,2566.22,22485.71,4.4,0,4.5,1,21,24,No,8,3.4,Yes
+CUST11221,46,Female,Coimbatore,Basic,Mobile,Net Banking,Fashion,2023-11-30,2025-02-01,7,1676.88,14511.64,30.5,0,4.3,1,11,29,Yes,6,1.8,Yes
+CUST11222,60,Male,Delhi,Silver,Desktop,Credit Card,Grocery,2024-07-20,2025-08-10,5,4594.54,26637.64,18.8,1,4.1,1,19,21,No,8,4.1,No
+CUST11223,39,Male,Chennai,Basic,Mobile,COD,Beauty,2025-09-20,2025-12-31,11,5377.37,49430.06,20.8,2,3.7,0,18,27,Yes,0,2.7,No
+CUST11224,43,Female,Pune,Platinum,Mobile,COD,Grocery,2023-05-17,2024-05-29,7,2873.28,22326.5,0.9,1,3.7,2,20,20,Yes,2,2.1,Yes
+CUST11225,45,Female,Kochi,Basic,Desktop,UPI,Fashion,2021-04-03,2024-09-28,8,2644.14,21000.46,21.2,1,3.9,3,20,22,Yes,9,4.0,Yes
+CUST11226,38,Female,Bengaluru,Gold,Mobile,Debit Card,Beauty,2023-12-02,2025-03-31,8,1184.65,7994.23,12.2,1,3.2,4,31,23,No,10,4.2,Yes
+CUST11227,24,Male,Delhi,Basic,Desktop,Debit Card,Fashion,2025-01-28,2025-12-31,12,1550.56,20455.67,4.4,2,4.0,3,20,18,Yes,9,3.2,No
+CUST11228,34,Female,Kochi,Basic,Mobile,UPI,Beauty,2022-01-14,2024-10-30,12,938.7,11531.3,7.4,0,4.6,0,20,19,Yes,12,1.5,Yes
+CUST11229,37,Male,Bengaluru,Silver,Mobile,COD,Beauty,2024-02-05,2025-04-17,6,2052.3,9422.36,4.9,1,4.6,4,21,26,Yes,11,2.3,Yes
+CUST11230,58,Female,Delhi,Platinum,Mobile,COD,Grocery,2024-09-13,2025-12-31,7,2225.59,16720.99,4.7,4,3.8,1,20,24,Yes,13,0.0,No
+CUST11231,37,Male,Coimbatore,Basic,Desktop,Debit Card,Grocery,2021-03-06,2024-07-14,7,3528.59,26367.23,15.5,0,4.7,1,19,37,Yes,5,0.0,Yes
+CUST11232,39,Female,Chennai,Basic,Desktop,Credit Card,Grocery,2021-12-31,2025-12-31,8,2887.07,18986.36,11.9,0,5.0,2,22,23,Yes,13,1.3,No
+CUST11233,45,Male,Chennai,Basic,Mobile,Net Banking,Beauty,2023-04-01,2024-05-22,9,1854.44,15429.77,17.7,0,3.8,0,18,27,Yes,10,4.4,Yes
+CUST11234,57,Female,Mumbai,Basic,Mobile,Credit Card,Beauty,2025-02-16,2025-12-31,8,3614.8,30160.43,28.4,1,4.4,1,23,29,No,12,2.7,No
+CUST11235,24,Male,Delhi,Basic,Mobile,COD,Fashion,2025-07-29,2025-12-31,10,7113.42,58286.76,14.0,2,2.5,1,25,26,Yes,0,4.4,No
+CUST11236,18,Male,Bengaluru,Silver,Mobile,Credit Card,Home & Kitchen,2023-11-14,2025-04-03,10,3699.1,43514.8,0.0,0,3.2,2,20,26,Yes,13,5.1,No
+CUST11237,49,Male,Chennai,Basic,Desktop,Net Banking,Grocery,2022-06-24,2025-01-18,10,2140.44,16347.46,13.1,0,4.1,2,17,24,Yes,4,3.2,Yes
+CUST11238,30,Male,Pune,Basic,Tablet,Credit Card,Sports,2023-12-22,2025-12-31,12,3027.94,29119.77,24.5,0,3.3,2,13,28,Yes,13,0.4,No
+CUST11239,47,Male,Chennai,Gold,Mobile,Credit Card,Fashion,2022-05-06,2023-11-02,15,1655.22,20062.59,14.3,1,5.0,0,27,23,Yes,3,4.1,Yes
+CUST11240,40,Female,Hyderabad,Silver,Desktop,Credit Card,Fashion,2024-07-20,2025-12-31,8,1574.52,12773.18,27.2,2,4.4,2,22,28,Yes,13,0.2,No
+CUST11241,36,Male,Hyderabad,Basic,Desktop,Credit Card,Electronics,2021-08-17,2024-03-29,6,5567.59,35411.78,18.6,0,4.6,0,18,24,Yes,3,1.4,Yes
+CUST11242,49,Female,Chennai,Basic,Mobile,UPI,Grocery,2023-11-10,2024-03-16,10,3050.14,29033.38,0.3,1,4.0,0,23,18,Yes,13,5.2,Yes
+CUST11243,47,Female,Delhi,Silver,Desktop,COD,Fashion,2021-01-03,2025-03-22,12,4221.17,45301.6,15.9,0,3.3,3,24,22,No,13,2.5,No
+CUST11244,46,Female,Mumbai,Basic,Desktop,Net Banking,Electronics,2024-12-15,2025-12-08,8,2400.59,22174.9,17.4,3,3.7,3,15,22,Yes,11,3.4,No
+CUST11245,62,Male,Chennai,Silver,Mobile,COD,Sports,2025-10-20,2025-12-31,6,1569.52,7384.37,23.6,1,4.2,2,23,31,Yes,6,0.0,No
+CUST11246,46,Male,Coimbatore,Basic,Mobile,UPI,Sports,2023-06-30,2023-11-17,15,1433.72,19143.3,29.6,1,3.6,2,25,19,Yes,13,1.9,Yes
+CUST11247,47,Female,Kochi,Silver,Mobile,UPI,Grocery,2021-11-03,2022-02-07,15,1772.25,20457.73,22.3,0,,1,20,21,Yes,4,3.1,Yes
+CUST11248,33,Other,Bengaluru,Basic,Tablet,UPI,Beauty,2022-03-08,2022-11-29,10,3234.2,24481.12,18.5,3,4.5,5,21,20,Yes,6,2.7,Yes
+CUST11249,57,Male,Mumbai,Silver,Tablet,UPI,Electronics,2021-05-16,2025-09-23,13,1300.36,15665.4,20.4,2,4.0,1,19,30,Yes,0,4.1,No
+CUST11250,36,Male,Coimbatore,Gold,Desktop,Credit Card,Beauty,2022-05-30,2023-06-30,11,2762.81,25753.62,13.7,0,2.8,0,25,17,No,10,1.2,Yes
+CUST11251,35,Male,Mumbai,Silver,Mobile,COD,Sports,2021-07-12,2023-07-13,13,3426.74,39388.25,3.3,0,5.0,1,21,21,Yes,13,4.8,Yes
+CUST11252,18,Other,Coimbatore,Basic,Mobile,Debit Card,Sports,2025-05-28,2025-12-31,9,1543.1,16116.54,15.3,3,3.9,2,17,25,No,14,1.6,No
+CUST11253,31,Male,Bengaluru,Basic,Mobile,Net Banking,Home & Kitchen,2024-12-09,2025-12-31,11,7094.52,64889.25,17.9,2,5.0,3,24,31,No,8,2.5,No
+CUST11254,64,Male,Bengaluru,Basic,Mobile,UPI,Home & Kitchen,2023-05-23,2025-01-21,9,3988.51,40926.3,5.4,1,4.4,3,12,20,No,7,0.5,No
+CUST11255,19,Female,Hyderabad,Basic,Mobile,COD,Home & Kitchen,2024-02-16,2024-03-25,12,2560.9,33420.52,25.6,0,3.9,0,19,17,Yes,6,3.6,Yes
+CUST11256,45,Male,Delhi,Basic,Tablet,,Home & Kitchen,2022-10-28,2025-12-31,10,1911.0,17451.69,23.0,3,4.3,1,12,32,Yes,14,1.0,No
+CUST11257,47,Male,Coimbatore,Gold,Tablet,UPI,Fashion,2021-07-28,2022-07-30,9,3099.94,28548.91,4.0,0,2.7,0,13,17,Yes,9,3.0,Yes
+CUST11258,55,Female,Kochi,Silver,Desktop,UPI,Home & Kitchen,2023-08-10,2023-11-05,15,3054.6,44546.05,25.9,1,4.7,0,20,22,Yes,1,4.1,Yes
+CUST11259,21,Female,Hyderabad,Silver,Mobile,UPI,Fashion,2023-11-24,2025-11-02,11,2790.57,24992.83,12.5,1,5.0,0,20,20,Yes,10,4.3,No
+CUST11260,18,Male,Coimbatore,Silver,Mobile,UPI,Fashion,2022-10-11,2024-03-23,8,3152.16,30351.33,8.8,2,2.6,1,13,20,Yes,5,7.7,Yes
+CUST11261,25,Male,Hyderabad,Silver,Mobile,Net Banking,Grocery,2024-09-03,2025-12-31,10,1698.29,17574.06,23.6,1,3.8,3,18,33,Yes,13,2.5,No
+CUST11262,46,Male,Bengaluru,Basic,Desktop,COD,Fashion,2021-04-30,2024-04-02,9,3690.91,39533.63,14.6,0,3.9,1,15,18,Yes,3,1.9,Yes
+CUST11263,56,Male,Mumbai,Gold,Desktop,UPI,Fashion,2022-09-19,2024-07-22,11,1388.1,17741.37,30.2,1,,1,22,31,Yes,2,1.2,No
+CUST11264,20,Female,Pune,Basic,Mobile,UPI,Home & Kitchen,2022-06-09,2025-12-31,11,1383.45,12020.48,8.2,1,5.0,2,31,21,No,12,3.7,No
+CUST11265,49,Male,Hyderabad,Gold,Mobile,UPI,Fashion,2025-05-24,2025-12-31,11,974.8,9153.36,1.1,0,4.2,1,14,32,No,7,2.2,No
+CUST11266,27,Male,Coimbatore,Gold,Mobile,UPI,Beauty,2023-02-08,2025-09-18,7,3507.04,20194.99,12.8,0,5.0,2,25,21,Yes,13,0.8,No
+CUST11267,27,Male,Coimbatore,Gold,Mobile,Credit Card,Home & Kitchen,2024-01-18,2025-12-31,13,3196.26,48423.55,21.3,1,4.1,1,13,16,Yes,3,0.7,No
+CUST11268,36,Female,Pune,Silver,Mobile,Credit Card,Electronics,2022-05-27,2024-09-21,7,2680.78,22166.2,7.6,3,4.3,2,26,25,No,2,5.0,Yes
+CUST11269,63,Female,Delhi,Basic,Mobile,Debit Card,Home & Kitchen,2021-02-16,2024-01-17,5,2008.41,10182.5,4.4,0,4.2,1,26,17,Yes,10,4.3,Yes
+CUST11270,51,Female,Kochi,Silver,Mobile,UPI,Fashion,2023-02-11,2025-12-31,15,2175.58,26175.13,16.8,2,4.8,2,18,25,Yes,14,5.1,No
+CUST11271,50,Male,Bengaluru,Silver,Desktop,Debit Card,Beauty,2023-01-10,2024-10-07,14,1671.4,19136.39,3.3,1,3.7,1,19,8,Yes,4,0.0,Yes
+CUST11272,40,Female,Coimbatore,Silver,Mobile,Net Banking,Home & Kitchen,2025-09-12,2025-10-15,10,3031.28,35065.07,17.5,0,4.5,3,15,20,Yes,12,1.8,No
+CUST11273,45,Female,Chennai,Gold,Mobile,Debit Card,Beauty,2022-06-06,2023-11-30,11,900.55,12031.84,12.3,1,3.2,3,13,24,Yes,8,0.7,Yes
+CUST11274,49,Male,Mumbai,Basic,Mobile,COD,Electronics,2024-07-31,2025-12-31,5,1094.45,4649.98,19.0,1,3.8,3,20,23,No,9,2.8,Yes
+CUST11275,24,Male,Hyderabad,Basic,Mobile,Credit Card,Sports,2024-11-01,2025-12-31,9,1708.04,11614.88,3.9,1,3.6,1,15,31,Yes,2,0.9,No
+CUST11276,46,Male,Delhi,Basic,Mobile,Credit Card,Electronics,2025-07-20,2025-12-31,5,2866.56,13121.34,25.4,0,4.1,2,21,23,No,14,5.3,No
+CUST11277,25,Male,Kochi,Basic,Mobile,UPI,Sports,2021-05-14,2024-08-10,7,2584.38,13843.87,13.5,3,3.8,1,18,21,Yes,8,1.8,Yes
+CUST11278,18,Male,Pune,Silver,Mobile,UPI,Grocery,2025-08-18,2025-12-31,12,4751.26,66364.88,21.1,0,4.7,3,22,26,No,3,6.2,No
+CUST11279,20,Male,Mumbai,Gold,Mobile,Net Banking,Sports,2021-09-05,2023-05-29,6,2374.77,14188.15,22.7,1,3.4,0,17,15,Yes,11,4.2,Yes
+CUST11280,41,Male,Bengaluru,Gold,Desktop,Net Banking,Grocery,2025-08-03,2025-12-31,12,3825.44,49161.36,5.7,0,2.9,3,21,21,Yes,9,4.3,No
+CUST11281,40,Female,Delhi,Gold,Mobile,COD,Home & Kitchen,2024-09-03,2025-12-31,8,2801.38,21419.18,22.1,1,3.1,0,15,27,Yes,3,6.0,No
+CUST11282,25,Male,Kochi,Platinum,Desktop,UPI,Grocery,2022-03-12,2025-07-15,13,964.73,11572.71,3.6,3,4.6,1,16,25,No,1,2.6,Yes
+CUST11283,64,Female,Hyderabad,Gold,Mobile,UPI,Beauty,2024-04-14,2025-12-31,6,1569.62,8109.6,4.0,1,3.4,1,18,28,No,11,4.2,No
+CUST11284,54,Female,Hyderabad,Basic,Mobile,Net Banking,Grocery,2022-11-17,2023-05-15,4,1671.5,7590.39,30.7,2,4.3,0,24,15,Yes,7,3.1,Yes
+CUST11285,20,Female,Pune,Gold,Mobile,Net Banking,Beauty,2022-08-09,2024-11-09,9,1857.92,18356.18,23.9,2,3.8,0,18,22,Yes,3,0.9,No
+CUST11286,50,Female,Chennai,Basic,Mobile,Net Banking,Sports,2021-12-17,2024-05-13,10,2263.43,21058.15,31.6,2,4.5,0,15,24,No,2,1.2,Yes
+CUST11287,45,Male,Pune,Basic,Tablet,Credit Card,Sports,2021-05-23,2024-06-28,7,4268.91,27209.63,12.0,2,3.9,2,23,27,No,12,2.1,Yes
+CUST11288,64,Female,Bengaluru,Silver,Desktop,Debit Card,Sports,2023-08-25,2025-12-31,6,2455.65,11059.58,15.8,0,5.0,0,24,24,Yes,2,3.4,No
+CUST11289,25,Male,Delhi,Basic,Tablet,Debit Card,Grocery,2023-03-15,2025-12-31,6,1965.21,9218.12,19.2,2,5.0,1,19,29,Yes,0,4.0,No
+CUST11290,51,Male,Delhi,Basic,Tablet,UPI,Sports,2024-11-22,2025-12-31,10,3941.47,41843.74,14.9,1,3.8,5,14,24,Yes,7,3.6,No
+CUST11291,52,Female,Coimbatore,Basic,Mobile,Credit Card,Grocery,2025-07-06,2025-12-31,8,3928.22,31655.28,9.0,4,3.7,3,20,22,Yes,12,3.7,No
+CUST11292,49,Male,Chennai,Basic,Mobile,Net Banking,Grocery,2022-12-19,2025-12-31,7,819.79,5551.46,7.8,1,5.0,3,15,27,Yes,10,1.9,No
+CUST11293,41,Male,Chennai,Platinum,Mobile,UPI,Fashion,2022-10-05,2025-10-01,10,2573.36,29947.51,16.7,0,3.3,2,22,24,Yes,4,0.0,No
+CUST11294,31,Female,Delhi,Basic,Tablet,Credit Card,Fashion,2024-10-24,2025-11-14,11,4518.76,49803.24,6.5,1,4.0,2,16,25,Yes,4,4.0,No
+CUST11295,49,Female,Delhi,Basic,Desktop,COD,Grocery,2022-05-16,2025-12-31,7,2391.64,15774.61,6.2,1,4.0,1,12,21,Yes,12,0.9,No
+CUST11296,63,Female,Mumbai,Silver,Mobile,Credit Card,Beauty,2025-07-04,2025-12-31,9,1603.88,11990.05,18.1,2,4.0,3,19,22,No,3,6.8,No
+CUST11297,60,Male,Kochi,Silver,Desktop,UPI,Home & Kitchen,2022-01-05,2024-12-15,7,3809.34,30941.01,14.2,0,2.9,2,23,29,No,12,3.2,Yes
+CUST11298,33,Female,Mumbai,Platinum,Mobile,Debit Card,Electronics,2025-05-22,2025-10-02,4,1498.21,6221.31,22.5,3,4.3,1,22,25,Yes,11,5.3,No
+CUST11299,21,Male,Mumbai,Basic,Mobile,Net Banking,Fashion,2024-11-06,2025-12-31,12,2819.74,26941.94,11.6,2,3.4,2,16,24,Yes,13,0.3,No
+CUST11300,54,Female,Chennai,Silver,Mobile,COD,Grocery,2024-01-15,2025-01-26,6,2379.88,15342.36,10.3,0,4.9,1,26,22,Yes,4,4.8,No
+CUST11301,38,Female,Coimbatore,Gold,Desktop,Credit Card,Electronics,2023-02-26,2025-12-31,8,1182.74,9107.43,18.4,0,3.1,0,13,16,No,11,3.9,No
+CUST11302,31,Female,Hyderabad,Platinum,Desktop,UPI,Fashion,2023-01-09,2025-09-07,14,4171.64,67495.9,8.5,1,4.0,1,15,23,Yes,4,3.3,No
+CUST11303,48,Female,Mumbai,Silver,Mobile,UPI,Home & Kitchen,2025-01-23,2025-12-31,8,3139.97,30381.28,9.7,0,2.6,0,17,25,Yes,8,0.4,No
+CUST11304,65,Male,Coimbatore,Gold,Mobile,Net Banking,Beauty,2023-08-08,2024-07-10,6,4833.88,30460.2,10.1,1,2.6,2,26,17,Yes,10,1.1,Yes
+CUST11305,35,Female,Pune,Basic,Mobile,UPI,Grocery,2024-09-10,2025-12-31,6,2577.47,17255.75,13.3,2,3.5,0,18,22,Yes,5,3.8,No
+CUST11306,24,Female,Bengaluru,Silver,Desktop,UPI,Home & Kitchen,2022-06-06,2025-12-31,4,1659.14,5165.2,29.2,0,3.5,2,29,17,Yes,12,1.1,No
+CUST11307,27,Male,Mumbai,Silver,Mobile,Net Banking,Fashion,2022-05-04,2025-12-31,6,1230.54,7605.68,4.0,1,5.0,1,23,29,Yes,8,0.8,No
+CUST11308,24,Female,Pune,Platinum,Mobile,COD,Grocery,2022-02-01,2024-09-16,10,3963.85,44699.15,25.4,1,4.0,2,11,32,Yes,7,1.5,No
+CUST11309,50,Male,Hyderabad,Basic,Mobile,Debit Card,Electronics,2023-06-15,2025-12-31,8,1585.68,12664.9,20.9,1,4.8,3,27,32,Yes,2,3.5,No
+CUST11310,40,Female,Bengaluru,Basic,Mobile,Debit Card,Sports,2021-12-21,2023-03-28,11,7076.24,81479.55,27.5,0,3.8,2,21,17,Yes,1,5.3,Yes
+CUST11311,38,Female,Bengaluru,Basic,Mobile,Credit Card,Beauty,2023-08-05,2025-12-31,7,5676.81,47664.31,40.1,0,4.4,2,15,24,Yes,5,3.3,No
+CUST11312,36,Female,Hyderabad,Basic,Desktop,COD,Fashion,2021-10-15,2023-10-03,11,2693.16,25152.9,26.5,2,3.5,3,20,26,Yes,13,4.9,Yes
+CUST11313,65,Male,Mumbai,Basic,Mobile,Credit Card,Beauty,2025-01-22,2025-12-31,12,2300.61,22061.65,22.4,2,3.5,1,11,12,Yes,12,2.2,No
+CUST11314,36,Female,Chennai,Platinum,Desktop,Debit Card,Grocery,2025-07-06,2025-12-31,9,1850.74,18244.4,4.5,1,2.8,1,26,18,Yes,1,6.6,No
+CUST11315,53,Female,Hyderabad,Silver,Mobile,Net Banking,Sports,2023-09-25,2024-09-15,12,1955.84,27258.72,5.5,0,4.2,0,17,33,Yes,2,5.2,No
+CUST11316,46,Female,Hyderabad,Silver,Mobile,UPI,Home & Kitchen,2022-06-20,2025-12-31,8,6465.13,60784.9,17.9,1,4.2,0,18,25,No,2,4.3,No
+CUST11317,35,Male,Hyderabad,Gold,Mobile,Debit Card,Beauty,2024-08-07,2025-12-31,11,2138.91,25194.32,1.4,2,4.5,2,21,23,Yes,12,3.4,No
+CUST11318,19,Male,Bengaluru,Silver,Desktop,COD,Electronics,2023-05-01,2024-09-01,8,3241.7,30254.31,19.9,1,4.1,1,13,25,Yes,0,3.3,No
+CUST11319,18,Female,Kochi,Basic,Tablet,Debit Card,Fashion,2023-04-18,2025-12-31,9,3352.63,33201.06,0.0,2,5.0,3,19,20,No,4,0.0,No
+CUST11320,64,Male,Coimbatore,Basic,Tablet,COD,Electronics,2021-06-17,2022-04-18,10,4066.53,32275.58,24.2,1,4.1,0,25,21,Yes,7,0.0,Yes
+CUST11321,22,Female,Pune,Basic,Mobile,COD,Beauty,2023-08-08,2024-02-10,6,3119.5,21169.33,12.4,3,4.6,2,16,25,No,8,3.8,Yes
+CUST11322,37,Female,Chennai,Silver,Mobile,COD,Sports,2022-09-13,2025-12-31,8,2590.53,17401.73,16.0,4,3.8,6,23,25,Yes,6,2.6,No
+CUST11323,28,Female,Mumbai,Silver,Desktop,Credit Card,Home & Kitchen,2022-03-04,2023-01-13,14,1768.77,21501.64,9.0,1,3.4,2,15,25,Yes,4,3.6,Yes
+CUST11324,59,Female,Mumbai,Basic,Desktop,Net Banking,Home & Kitchen,2025-09-22,2025-12-31,5,3313.2,15693.39,0.0,1,4.5,1,24,28,Yes,7,0.2,No
+CUST11325,19,Female,Pune,Silver,Mobile,Debit Card,Electronics,2022-05-05,2024-03-09,10,3000.88,27226.49,24.9,0,3.9,2,25,22,No,8,5.5,Yes
+CUST11326,20,Male,Coimbatore,Platinum,Desktop,Net Banking,Grocery,2021-12-21,2025-07-16,10,2120.03,19309.78,25.7,5,4.5,2,24,27,Yes,11,2.1,No
+CUST11327,40,Male,Hyderabad,Gold,Mobile,UPI,Grocery,2021-07-15,2024-08-21,8,3185.31,21268.44,12.2,0,4.2,1,23,21,Yes,8,3.3,Yes
+CUST11328,29,Male,Kochi,Gold,Mobile,Debit Card,Sports,2022-06-29,2024-06-10,10,2491.16,22344.1,20.3,5,3.5,0,22,23,Yes,8,1.5,Yes
+CUST11329,37,Male,Chennai,Gold,Mobile,Net Banking,Home & Kitchen,2022-12-18,2025-08-25,9,3001.25,20523.99,11.9,2,4.7,0,15,30,No,10,3.2,No
+CUST11330,22,Female,Mumbai,Basic,Mobile,Net Banking,Electronics,2023-04-04,2024-06-08,7,3605.74,24898.31,17.3,1,3.4,2,14,18,No,1,7.3,Yes
+CUST11331,54,Female,Pune,Gold,Mobile,UPI,Electronics,2023-07-21,2024-04-17,8,2806.02,25462.85,21.1,2,4.4,1,20,25,No,12,4.8,Yes
+CUST11332,55,Female,Delhi,Basic,Mobile,COD,Electronics,2025-09-14,2025-12-31,9,3760.68,39976.45,19.4,0,4.8,2,16,18,Yes,2,1.4,No
+CUST11333,47,Female,Kochi,Gold,Mobile,Debit Card,Beauty,2023-09-30,2025-08-23,13,2783.01,41975.54,25.7,2,3.8,0,17,23,Yes,1,0.5,No
+CUST11334,26,Other,Pune,Silver,Mobile,Debit Card,Sports,2022-10-21,2025-12-31,3,4065.03,11685.69,19.2,0,4.8,0,10,20,Yes,10,3.2,No
+CUST11335,51,Female,Kochi,Basic,Mobile,UPI,Grocery,2023-07-28,2025-12-31,9,2249.86,22581.66,15.2,0,4.3,0,23,15,Yes,13,1.8,No
+CUST11336,61,Female,Mumbai,Gold,Desktop,COD,Grocery,2023-02-19,2023-09-26,7,1609.73,10073.07,8.9,4,4.6,2,28,16,Yes,10,1.1,Yes
+CUST11337,52,Female,Hyderabad,Platinum,Mobile,Debit Card,Beauty,2021-01-11,2022-12-16,6,2935.61,13699.57,11.2,1,3.5,2,16,21,Yes,4,6.5,Yes
+CUST11338,39,Male,Delhi,Basic,Mobile,Debit Card,Fashion,2025-05-25,2025-12-31,7,5312.94,40462.82,21.5,1,4.1,1,23,23,Yes,13,0.0,No
+CUST11339,61,Male,Coimbatore,Gold,Mobile,Debit Card,Beauty,2024-07-03,2025-10-25,9,3880.67,37524.46,3.0,0,3.1,0,14,22,Yes,11,3.9,No
+CUST11340,41,Male,Chennai,Basic,Tablet,COD,Sports,2022-01-31,2025-12-31,13,5283.45,79043.53,23.8,1,5.0,1,17,27,No,2,6.4,No
+CUST11341,34,Female,Coimbatore,Silver,Mobile,UPI,Electronics,2023-01-01,2023-02-13,8,2111.78,17875.0,12.8,0,2.7,1,19,21,No,12,0.2,Yes
+CUST11342,27,Female,Coimbatore,Silver,Mobile,Debit Card,Beauty,2022-02-13,2025-12-28,8,2584.75,17130.6,8.5,1,3.8,2,20,17,Yes,8,1.7,No
+CUST11343,47,Male,Pune,Silver,Mobile,Net Banking,Electronics,2021-12-28,2022-04-26,6,1650.79,11653.73,6.2,0,3.4,3,15,24,Yes,1,1.8,Yes
+CUST11344,63,Male,Kochi,Platinum,Desktop,COD,Sports,2024-07-06,2025-06-19,8,1435.79,12217.15,20.4,1,4.4,1,28,21,No,14,5.7,No
+CUST11345,40,Female,Chennai,Gold,Mobile,Credit Card,Sports,2023-10-24,2025-12-31,7,4944.5,39934.92,14.9,2,5.0,1,13,22,Yes,4,2.4,No
+CUST11346,49,Male,Chennai,Gold,Mobile,UPI,Home & Kitchen,2021-03-25,2021-07-24,13,4716.08,69711.66,27.7,1,4.4,0,22,25,Yes,11,6.6,Yes
+CUST11347,34,Male,Mumbai,Basic,Mobile,Net Banking,Electronics,2021-06-05,2021-09-29,12,3457.79,37299.83,4.9,0,5.0,2,18,23,No,14,4.2,Yes
+CUST11348,34,Female,Mumbai,Platinum,Mobile,Debit Card,Grocery,2025-08-14,2025-12-31,4,2125.53,6693.52,10.4,0,3.1,0,14,29,Yes,4,1.8,No
+CUST11349,31,Male,Chennai,Basic,Desktop,Credit Card,Beauty,2024-04-14,2025-11-01,13,3649.99,39774.96,14.3,2,3.2,1,21,21,No,4,0.2,No
+CUST11350,26,Male,Delhi,Gold,Desktop,UPI,Sports,2022-12-08,2025-12-31,3,4535.09,10835.66,9.0,0,3.4,1,20,30,Yes,0,0.5,No
+CUST11351,57,Female,Bengaluru,Basic,Mobile,COD,Electronics,2022-04-17,2022-09-15,11,5589.45,53595.94,15.0,1,4.1,0,20,18,No,9,3.8,Yes
+CUST11352,19,Female,Mumbai,Basic,Desktop,Credit Card,Fashion,2022-09-11,2024-01-28,9,1286.01,11339.9,17.6,2,3.3,3,22,20,Yes,6,7.6,Yes
+CUST11353,62,Female,Bengaluru,Gold,Mobile,Credit Card,Home & Kitchen,2024-12-18,2025-03-09,6,2270.02,16390.52,18.9,1,3.5,0,21,28,Yes,13,1.6,Yes
+CUST11354,42,Male,Pune,Basic,Mobile,Net Banking,Fashion,2021-05-14,2024-08-15,11,2168.7,28293.08,27.0,2,4.4,1,26,25,Yes,1,1.2,Yes
+CUST11355,56,Male,Delhi,Basic,Desktop,UPI,Sports,2023-02-27,2023-12-16,8,2428.85,21554.58,4.6,2,3.2,5,30,22,Yes,11,3.8,Yes
+CUST11356,26,Male,Chennai,Basic,Mobile,Net Banking,Fashion,2023-06-26,2024-02-07,5,3344.03,12741.69,17.7,1,3.3,2,14,24,Yes,13,2.1,Yes
+CUST11357,39,Female,Delhi,Basic,Desktop,Net Banking,Fashion,2023-05-14,2025-12-31,14,994.04,12812.9,9.8,1,3.7,2,20,22,Yes,13,1.6,No
+CUST11358,60,Female,Mumbai,Basic,Mobile,Debit Card,Home & Kitchen,2024-11-04,2025-12-31,13,2102.41,29823.24,18.4,1,3.8,2,26,25,Yes,1,5.6,No
+CUST11359,63,Male,Coimbatore,Basic,Mobile,COD,Home & Kitchen,2022-10-29,2024-08-21,9,2199.11,16120.86,18.5,0,4.7,3,13,13,No,8,5.6,Yes
+CUST11360,21,Female,Pune,Silver,Desktop,Credit Card,Home & Kitchen,2021-10-04,2025-01-01,13,2770.86,41443.95,7.1,3,3.4,1,16,26,Yes,11,3.1,No
+CUST11361,43,Male,Chennai,Basic,Desktop,UPI,Home & Kitchen,2024-06-13,2025-06-27,5,2931.85,17697.92,7.8,2,3.5,0,23,14,Yes,0,1.2,No
+CUST11362,46,Male,Hyderabad,Gold,Desktop,COD,Fashion,2025-11-11,2025-12-31,8,2410.59,17877.94,19.1,0,4.4,3,23,21,No,8,3.3,No
+CUST11363,62,Male,Pune,Basic,Mobile,COD,Grocery,2023-06-01,2025-12-31,7,6131.91,47341.11,15.2,0,4.5,1,23,16,Yes,5,4.5,No
+CUST11364,51,Male,Kochi,Platinum,Desktop,UPI,Grocery,2021-01-13,2024-09-02,13,2512.8,26920.45,13.2,0,4.9,2,21,22,Yes,4,5.2,Yes
+CUST11365,40,Female,Bengaluru,Gold,Mobile,COD,Home & Kitchen,2021-12-08,2025-09-06,9,3329.36,32823.07,20.3,2,4.3,3,12,19,Yes,4,4.7,No
+CUST11366,54,Female,Delhi,Basic,Mobile,Debit Card,Beauty,2021-02-04,2023-07-01,9,3597.42,24629.91,20.9,3,4.1,1,23,16,Yes,4,0.0,Yes
+CUST11367,28,Male,Chennai,Gold,Tablet,COD,Electronics,2022-07-13,2023-08-26,10,1735.82,14327.21,10.8,2,4.4,1,20,17,Yes,5,3.5,Yes
+CUST11368,23,Female,Pune,Gold,Desktop,Debit Card,Sports,2024-05-22,2025-12-12,10,1780.15,19669.6,8.2,1,3.8,1,13,25,Yes,6,4.0,No
+CUST11369,35,Male,Delhi,Platinum,Mobile,Credit Card,Beauty,2024-12-06,2025-12-31,4,3626.79,16043.83,4.9,1,3.8,0,19,21,No,10,4.4,No
+CUST11370,38,Female,Chennai,Silver,Desktop,Credit Card,Sports,2022-02-09,2025-05-01,6,4743.08,30467.12,15.3,2,2.8,3,20,20,No,8,3.2,No
+CUST11371,59,Female,Mumbai,Basic,Mobile,Net Banking,Beauty,2025-02-26,2025-12-31,7,5573.1,38570.17,3.6,1,4.6,0,17,31,No,1,2.6,No
+CUST11372,53,Male,Pune,Silver,Mobile,Debit Card,Beauty,2022-10-20,2025-12-31,9,1759.6,17221.36,15.8,3,4.1,1,18,25,No,3,1.9,No
+CUST11373,58,Female,Mumbai,Silver,Mobile,Credit Card,Grocery,2021-06-08,2022-08-12,16,4163.65,75738.49,24.7,2,4.5,2,18,19,Yes,10,0.9,Yes
+CUST11374,55,Male,Pune,Silver,Tablet,COD,Electronics,2023-08-14,2025-12-31,5,2673.28,16483.99,12.2,0,2.2,2,13,26,Yes,4,1.2,No
+CUST11375,51,Male,Mumbai,Basic,Mobile,UPI,Beauty,2025-07-19,2025-12-31,13,4710.25,73132.13,10.7,1,4.0,2,22,24,No,5,5.3,No
+CUST11376,34,Male,Kochi,Gold,Desktop,UPI,Home & Kitchen,2024-02-08,2025-02-02,7,3164.39,25412.8,,0,3.4,1,21,28,Yes,6,3.9,No
+CUST11377,54,Female,Delhi,Platinum,Mobile,Debit Card,Sports,2022-07-03,2024-06-13,11,3470.71,41895.52,27.1,1,5.0,1,17,25,No,2,4.2,Yes
+CUST11378,42,Female,Hyderabad,Basic,Desktop,Net Banking,Grocery,2025-12-18,2025-12-31,12,5094.81,63404.57,8.9,3,4.4,3,17,24,No,13,1.4,No
+CUST11379,55,Male,Pune,Basic,Mobile,COD,Sports,2025-03-30,2025-12-31,4,5336.91,17298.09,16.1,1,4.2,3,18,18,Yes,2,3.6,No
+CUST11380,29,Female,Kochi,Basic,Desktop,Debit Card,Home & Kitchen,2023-09-12,2024-03-24,11,2869.15,26283.03,17.6,1,3.7,3,19,25,Yes,8,6.2,Yes
+CUST11381,40,Female,Pune,Gold,Mobile,UPI,Home & Kitchen,2024-10-02,2025-05-18,11,1214.89,15503.86,16.6,2,4.3,1,14,24,Yes,8,2.8,No
+CUST11382,59,Female,Mumbai,Gold,Desktop,Debit Card,Beauty,2025-11-03,2025-12-31,7,1921.65,15491.56,29.5,1,3.4,1,15,33,Yes,13,4.1,No
+CUST11383,39,Female,Chennai,Silver,Tablet,COD,Home & Kitchen,2025-07-18,2025-12-31,3,6550.57,20776.37,15.7,3,3.9,1,23,26,Yes,1,1.5,No
+CUST11384,38,Female,Pune,Silver,Desktop,Credit Card,Electronics,2021-10-06,2022-03-22,8,3550.49,27535.33,16.9,1,3.6,3,21,26,No,3,1.7,Yes
+CUST11385,44,Male,Kochi,Silver,Mobile,COD,Home & Kitchen,2022-04-24,2024-09-26,5,1763.83,6729.16,20.5,0,5.0,3,22,26,Yes,3,3.1,Yes
+CUST11386,48,Male,Mumbai,Basic,Tablet,Credit Card,Beauty,2021-04-21,2023-12-02,15,2056.85,28186.72,24.5,1,5.0,1,12,22,Yes,4,1.1,Yes
+CUST11387,23,Other,Coimbatore,Silver,Mobile,Credit Card,Sports,2025-07-18,2025-12-31,16,4378.21,67271.71,22.5,1,4.7,3,19,17,No,1,1.0,No
+CUST11388,44,Male,Mumbai,Gold,Desktop,Credit Card,Home & Kitchen,2022-03-07,2025-05-11,8,6061.05,48144.53,19.3,2,3.0,4,20,28,Yes,11,2.2,No
+CUST11389,57,Other,Delhi,Platinum,Desktop,Debit Card,Grocery,2022-06-26,2024-03-07,12,2748.23,40058.06,2.5,2,4.6,3,12,27,No,14,2.9,Yes
+CUST11390,51,Female,Hyderabad,Platinum,Mobile,UPI,Grocery,2024-02-13,2025-12-31,8,4715.63,30344.31,11.1,0,4.1,2,25,15,No,10,1.3,No
+CUST11391,29,Male,Coimbatore,Platinum,Mobile,Debit Card,Grocery,2024-01-19,2025-12-31,12,4133.44,50069.19,21.6,0,4.8,1,11,21,Yes,10,2.8,No
+CUST11392,62,Male,Delhi,Silver,Mobile,UPI,Sports,2024-05-20,2025-12-31,10,3183.05,29728.45,17.0,0,4.2,1,18,22,Yes,3,0.3,No
+CUST11393,24,Male,Delhi,Silver,Mobile,COD,Fashion,2025-04-23,2025-12-31,12,3759.45,56168.4,21.6,1,4.0,2,18,26,Yes,10,2.8,No
+CUST11394,27,Female,Delhi,Gold,Desktop,Net Banking,Grocery,2025-06-07,2025-12-31,9,3120.82,33169.29,30.1,0,4.2,1,17,20,No,13,0.0,No
+CUST11395,62,Male,Chennai,Platinum,Mobile,COD,Grocery,2025-04-12,2025-12-31,9,4792.85,41815.39,5.6,2,2.8,1,25,17,No,2,4.7,No
+CUST11396,34,Male,Delhi,Basic,Mobile,Debit Card,Fashion,2025-10-19,2025-12-31,13,3856.24,62656.27,24.1,0,3.5,2,21,15,Yes,13,0.0,No
+CUST11397,43,Male,Chennai,Basic,Mobile,Debit Card,Sports,2021-12-26,2022-06-10,4,1287.46,5186.05,12.4,0,4.2,1,18,25,Yes,12,5.6,Yes
+CUST11398,38,Male,Delhi,Basic,Mobile,UPI,Grocery,2025-02-18,2025-12-31,12,2500.05,25007.27,22.5,2,4.7,1,27,25,Yes,10,3.4,No
+CUST11399,45,Female,Bengaluru,Silver,Mobile,Debit Card,Beauty,2022-01-07,2024-07-18,14,1753.31,25232.1,14.7,3,3.6,2,12,32,Yes,5,3.7,Yes
+CUST11400,63,Male,Kochi,Basic,Desktop,Credit Card,Sports,2024-05-23,2025-09-05,5,2895.38,12495.05,32.0,4,4.0,2,21,22,Yes,3,1.6,No
+CUST11401,19,Female,Coimbatore,Basic,Mobile,Debit Card,Grocery,2025-10-23,2025-12-31,8,2435.97,20815.98,16.0,3,3.0,0,18,20,Yes,0,3.6,No
+CUST11402,60,Male,Bengaluru,Basic,Desktop,UPI,Grocery,2023-11-05,2024-10-18,13,2030.75,32173.91,9.9,3,4.9,2,14,17,Yes,2,2.9,No
+CUST11403,18,Male,Delhi,Basic,Mobile,UPI,Fashion,2023-08-13,2024-12-02,9,1505.28,15486.16,18.4,3,4.7,1,14,17,Yes,7,0.2,Yes
+CUST11404,53,Male,Coimbatore,Gold,Mobile,Credit Card,Beauty,2021-09-16,2025-11-01,8,948.12,6724.69,17.6,0,4.4,1,21,20,Yes,11,4.0,No
+CUST11405,43,Male,Coimbatore,Basic,Desktop,UPI,Sports,2023-02-17,2025-12-31,15,4755.81,64091.39,24.1,3,4.3,0,18,18,No,2,0.8,No
+CUST11406,46,Other,Pune,Gold,Mobile,Net Banking,Home & Kitchen,2025-01-26,2025-12-31,9,4752.07,33558.15,18.6,3,,2,19,26,Yes,6,7.2,No
+CUST11407,38,Female,Hyderabad,Silver,Mobile,COD,Electronics,2021-04-30,2025-03-04,7,1475.94,9225.42,34.8,0,3.5,4,23,22,Yes,1,0.9,Yes
+CUST11408,28,Male,Bengaluru,Gold,Mobile,Debit Card,Beauty,2023-09-03,2025-12-01,9,3157.12,22626.48,14.1,4,3.4,0,12,24,Yes,13,0.0,No
+CUST11409,57,Female,Hyderabad,Basic,Mobile,Net Banking,Home & Kitchen,2023-07-02,2024-09-27,10,1136.37,11360.57,14.2,6,4.7,0,20,25,Yes,4,5.9,Yes
+CUST11410,28,Male,Coimbatore,Platinum,Mobile,Debit Card,Beauty,2024-02-26,2024-06-16,7,1866.45,14426.19,10.2,1,4.6,1,23,23,Yes,6,4.1,Yes
+CUST11411,53,Male,Chennai,Silver,Mobile,Net Banking,Home & Kitchen,2022-12-24,2024-02-05,6,2360.8,15943.77,15.7,0,3.2,1,14,20,Yes,0,3.4,Yes
+CUST11412,56,Other,Coimbatore,Platinum,Mobile,,Home & Kitchen,2022-06-07,2025-12-31,11,1966.34,16866.11,16.8,1,3.7,1,15,14,No,13,1.4,No
+CUST11413,57,Female,Hyderabad,Platinum,Mobile,Credit Card,Beauty,2025-09-08,2025-12-31,11,3544.76,35872.11,17.2,0,5.0,2,20,17,No,10,2.6,No
+CUST11414,52,Other,Bengaluru,Basic,Mobile,UPI,Fashion,2025-07-27,2025-12-31,7,710.11,4444.3,15.5,2,4.3,3,15,18,No,11,2.2,No
+CUST11415,51,Male,Delhi,Basic,Mobile,UPI,Beauty,2021-11-21,2025-12-31,14,1836.16,20620.26,10.1,1,4.5,2,18,22,Yes,0,4.3,No
+CUST11416,64,Female,Pune,Basic,Mobile,Credit Card,Beauty,2024-09-05,2025-12-31,6,4006.23,22384.47,7.9,1,3.2,0,18,25,No,10,1.3,No
+CUST11417,41,Male,Pune,Silver,Mobile,Net Banking,Home & Kitchen,2025-03-10,2025-12-31,8,1090.43,7848.13,12.0,2,4.4,2,25,25,Yes,7,1.5,No
+CUST11418,39,Male,Pune,Basic,Tablet,COD,Electronics,2025-03-30,2025-12-31,7,1934.91,14455.22,24.1,1,3.1,1,18,12,Yes,1,3.9,No
+CUST11419,22,Female,Delhi,Basic,Mobile,Net Banking,Home & Kitchen,2023-12-10,2024-04-23,20,4254.76,101403.81,25.9,0,2.7,1,21,29,No,11,5.2,No
+CUST11420,50,Male,Pune,Silver,Desktop,UPI,Grocery,2025-05-27,2025-12-31,6,6373.23,37375.97,14.4,2,4.5,0,17,22,Yes,12,1.7,No
+CUST11421,53,Female,Bengaluru,Basic,Mobile,COD,Beauty,2021-03-10,2021-03-28,12,4755.09,64098.57,7.5,0,4.9,2,20,22,Yes,10,3.8,Yes
+CUST11422,64,Female,Delhi,Basic,Tablet,Debit Card,Sports,2022-01-26,2025-08-11,12,2330.49,23016.06,14.4,0,3.8,1,17,29,No,3,4.6,No
+CUST11423,37,Male,Pune,Silver,Mobile,COD,Beauty,2022-01-18,2023-11-06,9,6351.15,68448.56,31.7,1,3.6,1,19,23,Yes,14,0.7,Yes
+CUST11424,36,Female,Delhi,Basic,Tablet,Net Banking,Fashion,2021-01-16,2023-11-19,14,4060.71,46974.96,23.0,0,5.0,2,22,32,Yes,2,1.9,Yes
+CUST11425,52,Female,Hyderabad,Silver,Mobile,Credit Card,Sports,2025-01-02,2025-12-31,5,1494.46,6321.94,19.4,1,3.9,1,10,17,No,4,0.0,No
+CUST11426,60,Male,Kochi,Silver,Mobile,Debit Card,Home & Kitchen,2023-04-26,2025-08-06,10,1163.9,9348.82,22.7,1,4.0,0,16,22,Yes,1,6.6,No
+CUST11427,34,Female,Kochi,Silver,Desktop,Net Banking,Fashion,2023-05-19,2023-12-02,13,3905.36,45938.42,27.3,1,5.0,1,16,22,Yes,5,3.0,Yes
+CUST11428,62,Female,Bengaluru,Gold,Mobile,Debit Card,Beauty,2022-07-22,2025-09-09,12,2536.65,31237.48,5.8,2,3.8,0,10,24,Yes,7,4.3,No
+CUST11429,60,Male,Mumbai,Silver,Mobile,COD,Home & Kitchen,2025-06-29,2025-12-31,7,1467.34,12777.57,11.9,1,3.6,1,12,10,Yes,4,1.7,No
+CUST11430,51,Female,Chennai,Silver,Desktop,UPI,Home & Kitchen,2021-05-12,2025-06-05,4,2476.34,11358.32,10.8,0,4.5,4,19,20,No,6,1.5,No
+CUST11431,26,Other,Pune,Silver,Tablet,Net Banking,Grocery,2025-05-03,2025-12-31,7,4405.04,28991.88,19.7,2,3.5,1,27,28,Yes,4,2.3,No
+CUST11432,43,Male,Chennai,Gold,Mobile,Credit Card,Grocery,2024-06-25,2024-09-19,6,1977.32,12313.84,16.3,2,3.9,2,27,29,Yes,12,2.1,Yes
+CUST11433,19,Female,Delhi,Platinum,Mobile,COD,Electronics,2021-09-30,2021-12-23,9,1950.66,18638.33,21.1,1,3.1,2,20,20,Yes,5,7.2,Yes
+CUST11434,26,Male,Chennai,Gold,Desktop,Net Banking,Grocery,2025-07-05,2025-12-31,8,2461.65,22870.97,10.9,1,4.1,1,24,29,Yes,8,3.3,No
+CUST11435,26,Female,Bengaluru,Gold,Desktop,Credit Card,Sports,2024-10-04,2025-02-18,5,2621.48,14657.03,26.0,1,4.0,0,29,20,Yes,11,3.9,Yes
+CUST11436,57,Female,Bengaluru,Basic,Desktop,Net Banking,Home & Kitchen,2022-04-29,2023-06-09,6,2252.01,13980.19,14.4,1,4.6,0,15,21,Yes,10,2.5,Yes
+CUST11437,34,Male,Coimbatore,Basic,Desktop,COD,Grocery,2022-07-04,2025-12-20,12,3567.74,46434.49,20.6,0,4.6,3,18,26,Yes,13,2.7,No
+CUST11438,18,Male,Kochi,Basic,Mobile,Net Banking,Electronics,2021-12-23,2024-07-09,17,3751.14,71610.39,24.6,2,4.4,1,22,22,Yes,9,3.9,No
+CUST11439,42,Female,Pune,Platinum,Tablet,Debit Card,Beauty,2025-11-11,2025-12-31,12,2581.83,25299.0,23.9,2,4.3,3,21,31,No,10,2.4,No
+CUST11440,60,Male,Coimbatore,Gold,Mobile,COD,Sports,2024-09-03,2025-12-19,8,1918.39,13048.55,17.9,4,4.0,1,18,26,Yes,0,5.3,No
+CUST11441,57,Female,Chennai,Gold,Mobile,Net Banking,Grocery,2025-07-15,2025-12-31,18,2104.94,41461.55,21.6,1,4.4,0,19,17,Yes,9,0.9,No
+CUST11442,59,Male,Mumbai,Basic,Mobile,UPI,Home & Kitchen,2023-12-08,2025-12-31,10,4967.85,58382.81,28.9,1,3.3,2,13,28,Yes,8,4.9,No
+CUST11443,42,Female,Coimbatore,Gold,Mobile,Net Banking,Beauty,2023-10-31,2025-12-31,11,6302.49,66182.09,19.1,1,2.5,2,15,22,No,2,4.8,No
+CUST11444,56,Female,Coimbatore,Basic,Mobile,Debit Card,Home & Kitchen,2021-08-21,2023-01-29,11,1350.3,18417.28,9.2,3,4.8,2,16,27,Yes,9,6.7,Yes
+CUST11445,52,Female,Bengaluru,Basic,Desktop,Credit Card,Beauty,2021-02-05,2023-12-18,8,1527.95,10488.29,19.7,1,4.4,1,16,16,Yes,14,0.0,Yes
+CUST11446,20,Male,Mumbai,Silver,Mobile,Credit Card,Sports,2022-02-17,2025-03-03,15,2083.37,29948.95,14.7,1,3.9,1,18,16,Yes,13,4.7,No
+CUST11447,54,Female,Delhi,Silver,Mobile,Credit Card,Home & Kitchen,2025-01-25,2025-12-31,11,5024.91,51916.75,0.0,1,4.7,2,22,27,No,2,1.2,No
+CUST11448,61,Female,Chennai,Silver,Desktop,UPI,Grocery,2023-10-25,2023-12-24,8,2249.13,21864.21,18.7,1,3.5,0,18,21,Yes,3,4.3,Yes
+CUST11449,61,Male,Coimbatore,Gold,Mobile,Debit Card,Grocery,2021-02-13,2024-05-16,11,3560.3,34960.66,15.9,2,3.5,2,15,20,Yes,7,4.3,Yes
+CUST11450,47,Male,Mumbai,Basic,Mobile,COD,Electronics,2022-07-22,2024-03-20,9,2475.52,21954.29,24.3,0,3.5,3,17,22,No,0,0.8,Yes
+CUST11451,55,Male,Kochi,Silver,Mobile,Credit Card,Beauty,2025-04-27,2025-12-31,18,2107.08,31996.23,9.0,1,4.4,1,20,28,No,3,3.9,No
+CUST11452,51,Female,Pune,Silver,Tablet,Debit Card,Electronics,2024-07-02,2025-12-31,9,2403.75,21863.78,3.0,1,3.0,5,23,28,Yes,14,1.8,No
+CUST11453,29,Female,Mumbai,Basic,Mobile,Net Banking,Fashion,2023-01-10,2024-05-20,7,1471.85,12144.11,16.3,1,3.5,2,19,23,Yes,6,1.1,Yes
+CUST11454,36,Male,Kochi,Gold,Mobile,UPI,Grocery,2021-04-24,2025-04-10,11,3761.56,37323.01,18.0,1,4.2,4,25,24,No,11,0.0,No
+CUST11455,54,Female,Chennai,Gold,Mobile,Debit Card,Beauty,2025-11-08,2025-12-31,5,1903.9,10998.79,15.8,2,3.2,2,20,24,Yes,2,5.3,No
+CUST11456,61,Male,Mumbai,Gold,Mobile,Debit Card,Sports,2022-02-01,2025-12-31,10,2006.47,24191.12,15.2,1,3.6,1,19,21,No,6,2.3,No
+CUST11457,34,Male,Kochi,Gold,Mobile,COD,Electronics,2024-04-12,2025-12-31,10,1788.16,14063.5,6.5,0,2.6,3,9,19,Yes,10,0.4,No
+CUST11458,27,Other,Mumbai,Gold,Mobile,Debit Card,Sports,2024-07-02,2025-03-10,12,5366.5,72654.61,13.9,1,4.4,1,13,24,No,4,3.1,No
+CUST11459,64,Female,Mumbai,Basic,Mobile,COD,Sports,2022-04-11,2025-01-10,11,2171.07,20960.35,12.2,0,3.6,1,16,22,Yes,12,2.7,No
+CUST11460,29,Female,Pune,Gold,Tablet,,Sports,2024-07-24,2025-12-31,12,2990.75,30062.92,23.6,1,3.3,5,23,21,Yes,9,0.7,No
+CUST11461,33,Male,Kochi,Basic,Mobile,UPI,Electronics,2025-01-27,2025-12-31,11,911.16,10529.52,18.0,0,3.2,1,19,25,Yes,10,0.7,No
+CUST11462,41,Female,Kochi,Basic,Mobile,Net Banking,Fashion,2023-04-27,2023-07-14,6,689.42,4561.76,12.8,0,3.7,0,25,28,Yes,8,4.7,Yes
+CUST11463,36,Female,Coimbatore,Basic,Mobile,COD,Electronics,2022-05-17,2023-03-06,10,1491.66,14131.7,28.8,3,3.0,2,16,32,Yes,7,2.9,Yes
+CUST11464,25,Male,Chennai,Gold,Mobile,COD,Home & Kitchen,2022-03-17,2022-05-20,6,4253.61,19641.13,12.8,0,5.0,2,20,19,No,10,1.2,Yes
+CUST11465,48,Female,Pune,Gold,Desktop,Credit Card,Grocery,2021-03-10,2021-10-25,5,2900.61,17466.78,19.5,0,2.4,0,22,26,No,2,1.7,Yes
+CUST11466,38,Female,Mumbai,Basic,Mobile,Credit Card,Electronics,2025-03-13,2025-05-02,11,5627.06,69039.01,13.7,2,3.7,1,27,11,Yes,13,1.8,No
+CUST11467,34,Female,Mumbai,Gold,Mobile,Net Banking,Electronics,2021-11-22,2023-02-10,16,4557.03,64588.31,28.0,3,4.1,0,12,24,Yes,11,0.0,Yes
+CUST11468,40,Male,Coimbatore,Platinum,Desktop,UPI,Fashion,2025-11-01,2025-12-31,2,1808.51,3611.35,15.7,0,3.5,2,20,19,No,3,4.4,No
+CUST11469,54,Female,Chennai,Basic,Mobile,Credit Card,Home & Kitchen,2021-03-08,2021-11-26,14,2479.9,26521.41,15.9,0,4.1,2,23,20,No,6,1.8,Yes
+CUST11470,33,Female,Bengaluru,Basic,Mobile,Debit Card,Electronics,2021-10-31,2023-11-18,11,4898.9,49557.54,13.9,0,3.5,1,19,23,Yes,12,2.2,Yes
+CUST11471,23,Male,Pune,Gold,Mobile,UPI,Grocery,2023-08-30,2025-11-26,7,2364.51,16738.07,16.6,1,5.0,2,18,20,Yes,13,3.6,No
+CUST11472,25,Female,Coimbatore,Basic,Mobile,Debit Card,Grocery,2022-04-29,2023-08-24,8,3697.08,29831.35,24.6,1,3.3,1,14,16,Yes,1,5.0,Yes
+CUST11473,42,Female,Chennai,Silver,Mobile,COD,Electronics,2023-07-18,2025-08-31,8,1362.66,9310.7,21.8,0,2.5,1,18,28,Yes,9,2.9,No
+CUST11474,35,Male,Pune,Basic,Mobile,UPI,Sports,2025-04-21,2025-12-31,9,3156.17,32336.11,15.2,0,3.2,2,19,21,Yes,10,0.3,No
+CUST11475,42,Male,Mumbai,Silver,Mobile,Net Banking,Sports,2024-12-11,2025-12-31,12,2669.18,28808.92,28.6,1,4.3,2,9,28,Yes,5,2.0,No
+CUST11476,29,Female,Chennai,Gold,Desktop,COD,Home & Kitchen,2024-03-28,2025-12-31,11,1819.26,20816.44,22.0,2,3.9,2,16,25,Yes,8,2.4,No
+CUST11477,32,Female,Chennai,Gold,Mobile,COD,Grocery,2021-05-29,2023-06-08,7,2522.03,15637.41,11.5,0,,1,22,24,Yes,11,0.0,Yes
+CUST11478,43,Female,Delhi,Gold,Mobile,Debit Card,Sports,2023-11-17,2025-12-31,8,3126.25,24074.22,4.0,1,4.3,2,32,20,No,8,3.5,No
+CUST11479,58,Male,Chennai,Gold,Mobile,COD,Grocery,2023-09-14,2025-12-31,9,4180.43,32121.65,11.7,2,3.6,0,27,21,No,5,3.8,No
+CUST11480,62,Other,Bengaluru,Gold,Mobile,Credit Card,Home & Kitchen,2022-08-07,2025-09-12,16,5423.93,92554.28,18.3,2,3.7,0,19,24,No,11,2.7,No
+CUST11481,43,Male,Chennai,Gold,Mobile,UPI,Home & Kitchen,2021-09-05,2025-11-07,11,3922.99,41547.27,19.8,0,3.7,2,22,27,Yes,5,0.8,No
+CUST11482,64,Male,Bengaluru,Basic,Tablet,Credit Card,Sports,2024-01-30,2025-12-31,11,4676.67,38997.09,25.9,0,5.0,3,22,25,Yes,5,2.9,No
+CUST11483,49,Female,Mumbai,Silver,Desktop,Debit Card,Electronics,2022-12-03,2023-06-01,13,1697.81,16864.47,6.2,1,4.4,1,21,28,No,10,4.5,Yes
+CUST11484,27,Male,Bengaluru,Basic,Tablet,Debit Card,Beauty,2021-04-06,2024-04-04,9,1562.05,13855.55,11.5,3,5.0,1,13,29,Yes,9,2.1,Yes
+CUST11485,33,Male,Pune,Gold,Desktop,UPI,Fashion,2024-11-08,2025-12-31,11,3485.21,32265.18,5.6,1,4.5,2,16,21,No,5,4.1,No
+CUST11486,24,Male,Mumbai,Basic,Mobile,COD,Beauty,2021-10-09,2025-08-17,12,1409.28,17630.45,4.3,2,4.0,0,18,19,Yes,2,3.4,No
+CUST11487,34,Male,Mumbai,Silver,Mobile,Net Banking,Beauty,2021-11-18,2025-10-04,6,2410.16,13797.14,10.0,2,3.3,1,16,30,Yes,3,0.0,No
+CUST11488,40,Male,Bengaluru,Basic,Mobile,Debit Card,Grocery,2024-11-20,2025-12-31,8,3883.51,33466.84,17.9,1,4.1,1,23,20,Yes,5,1.5,No
+CUST11489,43,Other,Kochi,Gold,Mobile,UPI,Home & Kitchen,2024-07-25,2025-12-31,14,5037.22,86472.78,21.2,1,4.0,3,18,24,Yes,9,3.5,No
+CUST11490,38,Male,Coimbatore,Platinum,Tablet,Net Banking,Grocery,2022-06-13,2025-12-31,5,3195.58,16207.47,7.4,2,3.9,2,19,24,Yes,0,2.8,No
+CUST11491,39,Female,Hyderabad,Silver,Mobile,COD,Sports,2021-09-20,2025-07-11,5,1625.74,9296.71,8.5,3,3.9,4,16,21,Yes,0,4.4,Yes
+CUST11492,24,Female,Kochi,Gold,Desktop,Debit Card,Fashion,2025-07-01,2025-12-31,8,2727.74,24582.84,0.8,2,2.7,2,15,25,Yes,12,3.0,No
+CUST11493,31,Female,Chennai,Basic,Mobile,UPI,Sports,2022-08-03,2025-05-25,8,2878.16,27881.21,16.7,0,4.8,1,21,21,Yes,6,3.8,No
+CUST11494,32,Male,Delhi,Silver,Desktop,UPI,Electronics,2025-07-22,2025-12-31,10,1924.24,16490.91,9.1,0,4.0,3,17,23,No,0,1.8,No
+CUST11495,24,Female,Hyderabad,Gold,Tablet,UPI,Fashion,2024-08-09,2024-10-25,10,1209.24,14071.48,28.3,1,3.1,2,20,25,Yes,4,3.2,No
+CUST11496,26,Female,Chennai,Basic,Desktop,Debit Card,Grocery,2021-10-21,2025-12-31,6,3924.71,28322.91,18.3,1,4.3,2,16,20,No,9,0.5,No
+CUST11497,65,Female,Kochi,Platinum,Desktop,Net Banking,Grocery,2025-06-20,2025-12-31,12,2442.53,27738.78,13.6,0,3.4,1,24,15,No,10,4.2,No
+CUST11498,25,Female,Kochi,Basic,Mobile,UPI,Sports,2022-01-30,2023-08-22,12,3671.61,39957.75,9.9,0,4.4,2,19,19,Yes,7,3.0,Yes
+CUST11499,40,Female,Chennai,Basic,Desktop,COD,Grocery,2022-05-28,2024-02-08,7,3051.6,26189.21,3.0,2,4.6,1,24,24,Yes,5,0.1,Yes
