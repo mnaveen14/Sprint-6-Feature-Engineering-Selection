@@ -1,0 +1,1001 @@
+Customer_ID,Age,Annual_Income,Credit_Score,Loan_Amount,Loan_Tenure_Months,Debt_to_Income,Interest_Rate,Gender,Employment_Type,Education_Level,Marital_Status,Loan_Type,Loan_Default
+CUST00001,59,169258.08,707.0,20128.97,48,0.27,7.26,Other,Contract,Bachelor,Widowed,Home Loan,No
+CUST00002,49,19220.57,785.0,141819.63,84,0.69,12.11,Other,Business,Bachelor,Divorced,Personal Loan,No
+CUST00003,35,54503.91,530.0,263622.19,72,0.09,14.29,Female,Salaried,PhD,Divorced,Education Loan,No
+CUST00004,63,77187.8,771.0,141734.9,12,0.54,10.78,Male,Self-Employed,Bachelor,Married,Education Loan,No
+CUST00005,28,97025.19,491.0,317932.68,48,0.18,5.35,Male,Self-Employed,High School,Divorced,Education Loan,Yes
+CUST00006,41,155832.44,682.0,246115.06,24,0.27,10.84,Female,Contract,High School,Single,Home Loan,No
+CUST00007,59,32237.8,844.0,187238.02,60,0.34,8.85,Other,Business,Master,Single,Car Loan,No
+CUST00008,39,148550.11,731.0,475112.23,84,0.69,17.09,Male,Self-Employed,Master,Single,Business Loan,Yes
+CUST00009,43,27015.87,708.0,319758.15,12,0.22,6.62,Other,Business,PhD,Widowed,Car Loan,No
+CUST00010,31,154454.87,830.0,73671.27,24,0.11,13.48,Female,Business,PhD,Single,Business Loan,No
+CUST00011,31,26364.95,627.0,284444.93,72,0.27,5.69,Other,Self-Employed,PhD,Married,Business Loan,No
+CUST00012,44,20955.28,713.0,392558.61,24,0.12,10.8,Male,Business,High School,Single,Education Loan,No
+CUST00013,56,130907.76,723.0,357159.95,12,0.14,12.2,Other,Self-Employed,Bachelor,Widowed,Personal Loan,No
+CUST00014,60,179555.4,641.0,94323.72,72,0.45,8.87,Other,Contract,PhD,Married,Education Loan,No
+CUST00015,44,163250.86,647.0,486485.8,24,0.09,10.92,Male,Salaried,PhD,Single,Home Loan,Yes
+CUST00016,23,111311.74,639.0,229918.69,72,0.07,7.13,Male,Salaried,High School,Married,Business Loan,No
+CUST00017,42,166618.09,687.0,87922.25,84,0.55,8.95,Other,Contract,High School,Married,Personal Loan,No
+CUST00018,22,18858.6,721.0,98295.92,84,0.3,13.07,Other,Self-Employed,High School,Widowed,Business Loan,No
+CUST00019,44,175960.88,689.0,58135.15,12,0.14,8.92,Female,Self-Employed,Bachelor,Widowed,Business Loan,No
+CUST00020,64,97501.3,733.0,403723.87,12,0.23,16.7,Male,Self-Employed,PhD,Married,Education Loan,No
+CUST00021,50,135109.17,532.0,69794.94,72,0.5,13.17,Other,Self-Employed,Diploma,Single,Personal Loan,No
+CUST00022,58,150979.56,664.0,71311.38,36,0.24,10.7,Male,Contract,Diploma,Widowed,Personal Loan,No
+CUST00023,22,134390.08,603.0,426731.09,48,0.4,5.5,Female,Salaried,PhD,Married,Business Loan,No
+CUST00024,41,104675.95,703.0,178856.0,24,0.14,11.49,Other,Business,PhD,Divorced,Personal Loan,No
+CUST00025,53,95212.36,702.0,25120.37,24,0.46,14.94,Other,Business,PhD,Divorced,Personal Loan,No
+CUST00026,32,153850.37,671.0,35428.7,36,0.27,8.45,Other,Salaried,PhD,Widowed,Education Loan,No
+CUST00027,42,51222.56,718.0,79663.52,36,0.49,15.49,Male,Contract,Bachelor,Single,Car Loan,No
+CUST00028,64,174815.04,755.0,114562.74,36,0.62,8.27,Female,Business,Diploma,Divorced,Home Loan,No
+CUST00029,45,133174.3,675.0,335921.64,60,0.48,15.71,Male,Salaried,Master,Divorced,Car Loan,No
+CUST00030,69,50320.12,601.0,87089.88,60,0.26,6.11,Other,Contract,Diploma,Divorced,Personal Loan,No
+CUST00031,47,137272.04,561.0,68248.45,72,0.23,16.26,Female,Business,Diploma,Single,Business Loan,No
+CUST00032,62,103834.08,683.0,384712.38,60,0.28,11.49,Other,Self-Employed,High School,Single,Home Loan,No
+CUST00033,48,132571.28,698.0,338817.09,84,0.17,8.85,Other,Self-Employed,PhD,Widowed,Home Loan,No
+CUST00034,36,142380.28,607.0,223308.87,84,0.18,8.45,Male,Contract,PhD,Widowed,Business Loan,No
+CUST00035,35,32141.01,734.0,279161.79,12,0.6,10.62,Other,Self-Employed,PhD,Divorced,Home Loan,No
+CUST00036,67,99988.84,646.0,162872.17,72,0.32,17.99,Female,Contract,High School,Single,Business Loan,No
+CUST00037,64,168986.32,556.0,246425.21,24,0.36,7.86,Other,Salaried,Bachelor,Married,Home Loan,No
+CUST00038,23,69944.04,774.0,258269.6,48,0.47,6.34,Other,Salaried,Bachelor,Divorced,Car Loan,No
+CUST00039,57,114209.06,766.0,199746.26,12,0.46,12.61,Male,Business,Master,Widowed,Home Loan,No
+CUST00040,27,77815.34,529.0,454220.38,24,0.1,11.35,Female,Contract,Bachelor,Single,Education Loan,No
+CUST00041,41,91591.41,638.0,17870.31,24,0.63,11.81,Male,Business,Bachelor,Widowed,Business Loan,No
+CUST00042,29,106873.71,635.0,393263.92,72,0.17,13.67,Other,Business,PhD,Widowed,Home Loan,No
+CUST00043,59,106925.36,803.0,70947.59,36,0.56,8.47,Male,Salaried,Diploma,Single,Business Loan,Yes
+CUST00044,38,50680.33,,400798.21,36,0.59,16.84,Male,Business,Bachelor,Divorced,Education Loan,Yes
+CUST00045,24,128900.59,568.0,311796.84,12,0.55,10.66,Male,Self-Employed,Bachelor,Single,Home Loan,No
+CUST00046,45,32234.63,746.0,423206.26,36,0.46,6.68,Male,Business,High School,Divorced,Home Loan,Yes
+CUST00047,34,40489.61,588.0,57782.02,24,0.06,14.65,Other,Contract,Master,Widowed,Education Loan,No
+CUST00048,70,18439.17,660.0,283900.51,36,0.3,13.36,Other,Self-Employed,High School,Single,Education Loan,No
+CUST00049,29,36904.76,622.0,255533.06,60,0.47,9.1,Female,Salaried,PhD,Married,Education Loan,Yes
+CUST00050,46,94652.92,638.0,356034.66,36,0.32,13.08,Male,Contract,Diploma,Divorced,Business Loan,No
+CUST00051,22,116188.5,750.0,271802.37,24,0.65,7.86,Male,Self-Employed,Master,Married,Education Loan,No
+CUST00052,40,146674.89,794.0,274959.94,72,0.27,10.78,Female,Contract,High School,Divorced,Business Loan,No
+CUST00053,48,35285.28,584.0,220502.01,12,0.26,16.69,Male,Self-Employed,Bachelor,Single,Car Loan,No
+CUST00054,67,155817.85,727.0,161328.87,48,0.24,6.74,Female,Contract,Bachelor,Married,Home Loan,No
+CUST00055,27,138847.87,625.0,246309.54,36,0.28,10.03,Other,Contract,Master,Single,Home Loan,No
+CUST00056,64,84179.96,627.0,68061.26,84,0.44,15.67,Female,Self-Employed,Bachelor,Divorced,Personal Loan,No
+CUST00057,28,169135.97,717.0,481141.54,84,0.54,17.6,Male,Salaried,High School,Divorced,Car Loan,No
+CUST00058,67,178530.58,603.0,360061.27,24,0.51,10.9,Female,Salaried,High School,Divorced,Education Loan,Yes
+CUST00059,55,51210.29,715.0,476708.89,48,0.62,11.59,Other,Contract,Bachelor,Divorced,Education Loan,Yes
+CUST00060,34,79435.03,735.0,121096.42,48,0.67,12.44,Male,Contract,Bachelor,Widowed,Car Loan,No
+CUST00061,37,168084.81,648.0,440877.1,60,0.62,17.12,Other,Salaried,PhD,Divorced,Education Loan,No
+CUST00062,56,134898.64,780.0,406307.09,48,0.06,16.16,Other,Salaried,Diploma,Married,Personal Loan,No
+CUST00063,70,25791.33,585.0,341804.68,84,0.57,7.22,Female,Business,Master,Divorced,Business Loan,No
+CUST00064,60,144605.35,781.0,316264.3,72,0.2,10.68,Other,Salaried,High School,Single,Home Loan,No
+CUST00065,24,152126.42,534.0,165109.34,24,0.14,11.03,Male,Contract,Master,Widowed,Car Loan,No
+CUST00066,22,139581.31,850.0,410041.28,24,0.5,15.26,Other,Self-Employed,PhD,Married,Home Loan,No
+CUST00067,26,147525.02,650.0,255742.58,36,0.27,12.84,Other,Salaried,High School,Widowed,Business Loan,No
+CUST00068,62,151671.49,593.0,44736.87,36,0.09,13.5,Female,Business,PhD,Widowed,Car Loan,No
+CUST00069,24,48197.61,663.0,163302.95,36,0.15,17.98,Other,Business,PhD,Widowed,Business Loan,No
+CUST00070,49,56182.06,602.0,468295.58,84,0.05,5.97,Female,Business,Bachelor,Single,Education Loan,No
+CUST00071,38,120668.89,709.0,426833.33,84,0.68,7.9,Female,Self-Employed,Master,Widowed,Education Loan,No
+CUST00072,46,165074.31,783.0,491133.79,84,0.07,10.3,Male,Salaried,Master,Widowed,Education Loan,No
+CUST00073,64,69223.85,605.0,317716.76,84,0.2,9.52,Male,Salaried,Bachelor,Divorced,Business Loan,No
+CUST00074,54,113305.68,723.0,131279.94,84,0.34,5.28,Male,Salaried,Master,Single,Business Loan,No
+CUST00075,30,128643.09,565.0,89779.37,84,0.3,6.19,Male,Self-Employed,Bachelor,Married,Business Loan,No
+CUST00076,56,91215.67,757.0,101588.08,72,0.69,13.85,Female,Self-Employed,High School,Married,Home Loan,No
+CUST00077,34,133632.76,711.0,19699.87,84,0.08,16.43,Other,Contract,PhD,Married,Business Loan,No
+CUST00078,51,163746.13,761.0,201434.23,48,0.41,11.68,Male,Business,PhD,Single,Education Loan,No
+CUST00079,68,119104.45,671.0,103799.56,48,0.53,12.01,Male,Business,Master,Married,Personal Loan,No
+CUST00080,35,105444.53,647.0,211711.18,60,0.7,8.32,Male,Salaried,Diploma,Single,Business Loan,Yes
+CUST00081,28,89076.64,741.0,468147.27,72,0.48,14.98,Other,Self-Employed,PhD,Divorced,Personal Loan,No
+CUST00082,34,111552.78,582.0,220964.7,36,0.61,14.77,Male,Self-Employed,Bachelor,Divorced,Education Loan,No
+CUST00083,43,75568.72,549.0,440212.4,12,0.11,12.65,Other,Salaried,Diploma,Single,Business Loan,No
+CUST00084,60,81420.1,680.0,306697.34,84,0.32,7.76,Female,Salaried,Diploma,Married,Home Loan,No
+CUST00085,41,104160.91,651.0,131094.46,60,0.31,6.26,Female,Contract,PhD,Single,Home Loan,No
+CUST00086,36,28792.3,722.0,184368.83,12,0.67,5.84,Female,Business,PhD,Single,Personal Loan,No
+CUST00087,65,55102.11,762.0,51120.57,48,0.16,12.71,Other,Business,PhD,Widowed,Home Loan,No
+CUST00088,38,,720.0,173396.67,60,0.16,15.73,Male,Business,Bachelor,Single,Home Loan,No
+CUST00089,67,87907.56,756.0,341995.06,60,0.28,16.16,Male,Contract,Diploma,Widowed,Home Loan,Yes
+CUST00090,44,71916.16,704.0,45334.44,24,0.09,11.03,Male,Salaried,Master,Divorced,Education Loan,No
+CUST00091,46,136348.96,717.0,110646.69,48,0.18,15.2,Male,Salaried,Bachelor,Widowed,Home Loan,No
+CUST00092,45,130382.25,671.0,196906.11,48,0.73,17.31,Male,Business,High School,Single,Car Loan,Yes
+CUST00093,65,45010.38,715.0,491204.27,72,0.35,8.58,Other,Business,PhD,Divorced,Business Loan,No
+CUST00094,61,160337.92,692.0,394582.29,60,0.49,10.17,Female,Contract,Diploma,Widowed,Home Loan,No
+CUST00095,49,98258.63,704.0,369408.51,84,0.56,17.11,Male,Self-Employed,Bachelor,Single,Home Loan,No
+CUST00096,35,138116.67,667.0,66933.57,48,0.31,9.4,Female,Self-Employed,High School,Divorced,Home Loan,No
+CUST00097,65,110850.44,741.0,392687.99,60,0.15,16.88,Other,Business,Bachelor,Widowed,Car Loan,No
+CUST00098,21,179626.2,627.0,394781.72,72,0.19,17.75,Other,Contract,Bachelor,Single,Home Loan,No
+CUST00099,45,139889.31,679.0,304540.32,84,0.27,13.6,Male,Business,Master,Single,Home Loan,No
+CUST00100,27,132530.83,778.0,495277.27,72,0.5,15.62,Other,Self-Employed,Master,Married,Business Loan,No
+CUST00101,29,144128.65,609.0,169374.41,24,0.33,14.74,Female,Business,Bachelor,Married,Car Loan,Yes
+CUST00102,44,41186.73,518.0,471223.5,84,0.05,14.09,Male,Self-Employed,High School,Widowed,Car Loan,No
+CUST00103,21,51136.22,707.0,458218.25,60,0.42,8.99,Male,Self-Employed,Diploma,Widowed,Home Loan,No
+CUST00104,64,133678.38,661.0,15625.52,48,0.7,5.74,Female,Self-Employed,Diploma,Widowed,Car Loan,No
+CUST00105,28,98025.0,756.0,230557.1,48,0.62,9.46,Male,Salaried,PhD,Single,Personal Loan,No
+CUST00106,44,140250.92,670.0,488781.07,60,0.63,13.67,Male,Salaried,PhD,Widowed,Car Loan,No
+CUST00107,31,34672.4,635.0,60529.47,60,0.61,6.33,Female,Business,Diploma,Single,Car Loan,No
+CUST00108,37,104909.98,674.0,278414.5,60,0.28,5.15,Male,Self-Employed,Bachelor,Widowed,Car Loan,No
+CUST00109,28,79369.09,762.0,489689.18,36,0.59,6.82,Male,Salaried,Bachelor,Single,Education Loan,Yes
+CUST00110,55,92034.04,723.0,282192.76,84,0.15,14.3,Female,Business,Master,Single,Education Loan,No
+CUST00111,55,115841.18,497.0,103009.5,48,0.51,17.65,Other,Business,Master,Married,Education Loan,No
+CUST00112,53,99370.71,694.0,295269.78,84,0.5,17.78,Female,Business,PhD,Divorced,Car Loan,No
+CUST00113,25,105457.42,698.0,110175.88,72,0.07,11.42,Male,Business,Diploma,Single,Personal Loan,No
+CUST00114,62,96789.91,679.0,264655.09,48,0.6,16.3,Female,Business,Bachelor,Widowed,Car Loan,No
+CUST00115,59,84250.74,634.0,46280.69,36,0.68,14.58,Male,Contract,Diploma,Married,Home Loan,No
+CUST00116,61,143044.88,770.0,306686.51,60,0.24,11.51,Male,Self-Employed,High School,Widowed,Personal Loan,No
+CUST00117,48,19976.9,773.0,263227.07,24,0.62,12.45,Female,Business,Diploma,Widowed,Education Loan,No
+CUST00118,27,114947.72,515.0,372679.07,60,0.11,6.78,Male,Contract,High School,Single,Business Loan,No
+CUST00119,29,109612.35,620.0,319043.23,60,0.47,17.19,Other,Self-Employed,Master,Single,Personal Loan,No
+CUST00120,28,134021.01,669.0,279307.07,36,0.39,9.58,Male,Salaried,Master,Divorced,Education Loan,No
+CUST00121,32,115042.76,751.0,347991.64,84,0.43,10.8,Female,Business,PhD,Single,Personal Loan,No
+CUST00122,54,151941.41,683.0,80531.54,48,0.7,13.73,Other,Contract,Diploma,Single,Personal Loan,Yes
+CUST00123,53,173370.12,629.0,301726.23,60,0.66,9.34,Other,Salaried,Diploma,Divorced,Car Loan,No
+CUST00124,68,73488.93,733.0,94334.2,48,0.6,8.31,Male,Contract,High School,Widowed,Home Loan,No
+CUST00125,43,54830.86,664.0,463505.88,12,0.24,13.2,Female,Self-Employed,Master,Divorced,Business Loan,No
+CUST00126,44,86622.69,671.0,43483.71,72,0.69,5.32,Male,Self-Employed,High School,Divorced,Education Loan,No
+CUST00127,57,64644.6,678.0,220883.63,84,0.12,14.37,Male,Salaried,Master,Divorced,Personal Loan,No
+CUST00128,55,117621.94,723.0,350940.76,48,0.65,11.68,Female,Contract,High School,Married,Business Loan,No
+CUST00129,64,165720.09,657.0,234430.88,24,0.28,12.87,Female,Business,Master,Widowed,Personal Loan,No
+CUST00130,60,40536.82,732.0,55126.67,72,0.09,13.21,Male,Business,High School,Married,Home Loan,No
+CUST00131,42,34328.73,675.0,281155.72,24,0.52,11.85,Other,Salaried,Master,Married,Business Loan,No
+CUST00132,47,59474.52,600.0,324399.64,60,0.21,12.57,Male,Salaried,High School,Single,Education Loan,Yes
+CUST00133,55,135627.48,677.0,354858.23,72,0.22,13.89,Other,Salaried,Diploma,Divorced,Personal Loan,Yes
+CUST00134,21,114059.99,604.0,192897.31,48,0.26,14.79,Male,Contract,PhD,Divorced,Home Loan,No
+CUST00135,55,34558.45,683.0,286193.39,72,0.09,14.46,Female,Business,High School,Married,Business Loan,No
+CUST00136,57,166837.58,742.0,230836.37,60,0.17,16.31,Other,Business,PhD,Single,Personal Loan,No
+CUST00137,67,145993.71,599.0,339307.46,36,0.05,7.46,Female,Business,Diploma,Single,Personal Loan,No
+CUST00138,34,21729.66,707.0,295942.91,84,0.36,10.21,Female,Salaried,Diploma,Single,Education Loan,No
+CUST00139,23,123521.49,618.0,267620.55,24,0.11,17.32,Female,Business,Master,Widowed,Home Loan,No
+CUST00140,21,142941.96,695.0,132266.94,60,0.53,10.16,Female,Self-Employed,PhD,Married,Car Loan,No
+CUST00141,25,78658.53,745.0,10989.07,36,0.21,6.62,Female,Salaried,Bachelor,Widowed,Personal Loan,No
+CUST00142,46,29165.29,520.0,95300.02,72,0.71,11.83,Male,Business,Master,Single,Business Loan,No
+CUST00143,34,30526.01,596.0,67362.36,72,0.66,6.42,Other,Contract,PhD,Single,Education Loan,No
+CUST00144,59,34888.01,652.0,230051.53,60,0.25,7.64,Male,Salaried,High School,Single,Education Loan,No
+CUST00145,47,154151.22,704.0,310006.49,48,0.6,17.98,Male,Self-Employed,High School,Divorced,Personal Loan,Yes
+CUST00146,29,165531.16,668.0,114411.65,72,0.61,12.04,Male,Self-Employed,Diploma,Married,Personal Loan,No
+CUST00147,35,37895.35,677.0,470137.98,48,0.74,8.69,Female,Contract,Bachelor,Divorced,Personal Loan,No
+CUST00148,35,56216.78,833.0,13274.24,48,0.47,17.93,Male,Contract,High School,Widowed,Car Loan,Yes
+CUST00149,46,44814.32,589.0,388427.5,84,0.11,17.57,Other,Salaried,PhD,Divorced,Personal Loan,No
+CUST00150,62,48183.98,765.0,316350.34,48,0.5,10.73,Male,Salaried,PhD,Married,Home Loan,No
+CUST00151,33,153673.51,654.0,193041.85,12,0.49,8.39,Female,Self-Employed,High School,Divorced,Business Loan,No
+CUST00152,52,71807.72,721.0,34739.58,84,0.5,15.9,Other,Contract,PhD,Single,Personal Loan,No
+CUST00153,59,68453.97,840.0,317468.42,36,0.27,14.3,Other,Salaried,PhD,Widowed,Car Loan,No
+CUST00154,69,54838.09,732.0,198950.62,36,0.65,13.93,Other,Self-Employed,Diploma,Widowed,Business Loan,No
+CUST00155,52,116478.89,708.0,468770.9,72,0.72,16.61,Other,Contract,Bachelor,Single,Education Loan,No
+CUST00156,24,79447.52,800.0,275575.14,72,0.2,13.96,Male,Self-Employed,Diploma,Single,Personal Loan,No
+CUST00157,50,138568.44,764.0,470429.24,48,0.11,8.69,Female,Business,Bachelor,Single,Business Loan,Yes
+CUST00158,57,51303.93,620.0,118037.01,84,0.19,14.02,Other,Contract,PhD,Married,Education Loan,No
+CUST00159,43,145621.96,702.0,365605.7,84,0.62,8.98,Other,Salaried,Bachelor,Divorced,Car Loan,Yes
+CUST00160,59,115802.89,551.0,312452.02,12,0.52,14.87,Female,Salaried,PhD,Widowed,Home Loan,No
+CUST00161,65,36511.3,639.0,372310.03,48,0.5,13.06,Male,Business,PhD,Divorced,Personal Loan,No
+CUST00162,35,85149.74,704.0,115187.25,12,0.33,6.01,Other,Contract,Diploma,Single,Home Loan,No
+CUST00163,63,157889.94,635.0,335847.31,48,0.45,11.67,Male,Self-Employed,Diploma,Single,Car Loan,No
+CUST00164,49,167519.56,701.0,254039.79,24,0.27,9.46,Male,Salaried,Master,Divorced,Business Loan,Yes
+CUST00165,56,93443.42,679.0,373984.24,24,0.38,9.27,Male,Business,High School,Widowed,Business Loan,No
+CUST00166,33,95895.59,720.0,170251.88,60,0.61,12.83,Male,Business,Master,Married,Car Loan,Yes
+CUST00167,52,166789.67,648.0,446127.94,48,0.74,9.19,Other,Contract,Master,Divorced,Car Loan,Yes
+CUST00168,27,113105.05,609.0,51307.64,84,0.7,15.1,Other,Contract,Bachelor,Single,Personal Loan,No
+CUST00169,42,23321.16,791.0,405522.77,72,0.7,5.92,Male,Salaried,PhD,Single,Education Loan,Yes
+CUST00170,48,165865.41,643.0,432046.62,36,0.33,13.59,Male,Business,PhD,Married,Home Loan,No
+CUST00171,22,58212.68,730.0,410453.63,60,0.38,15.52,Female,Self-Employed,PhD,Divorced,Home Loan,No
+CUST00172,62,111576.38,788.0,261235.93,72,0.54,13.75,Female,Business,High School,Married,Business Loan,No
+CUST00173,65,44813.16,692.0,224808.64,24,0.7,11.46,Female,Self-Employed,Bachelor,Married,Business Loan,Yes
+CUST00174,26,23488.42,616.0,498168.52,48,0.15,17.35,Other,Self-Employed,Bachelor,Widowed,Personal Loan,Yes
+CUST00175,48,68458.65,667.0,122294.26,60,0.26,8.9,Female,Salaried,PhD,Widowed,Car Loan,Yes
+CUST00176,48,144440.3,756.0,277969.22,48,0.15,5.25,Other,Business,Master,Single,Home Loan,No
+CUST00177,64,62969.12,695.0,338631.01,24,0.48,10.62,Other,Self-Employed,High School,Divorced,Personal Loan,No
+CUST00178,64,53655.75,590.0,353425.14,60,0.26,5.43,Other,Contract,Master,Widowed,Business Loan,No
+CUST00179,40,52454.29,725.0,109972.09,24,0.28,17.4,Other,Self-Employed,Diploma,Single,Business Loan,No
+CUST00180,50,101458.14,738.0,330457.11,12,0.1,7.73,Female,Contract,Bachelor,Divorced,Home Loan,No
+CUST00181,31,176037.69,653.0,411001.09,24,0.29,15.26,Male,Contract,Bachelor,Single,Business Loan,No
+CUST00182,48,92356.22,726.0,34509.1,84,0.65,15.07,Male,Business,Master,Widowed,Business Loan,Yes
+CUST00183,45,108283.47,698.0,456645.43,84,0.21,7.83,Male,Contract,High School,Single,Education Loan,No
+CUST00184,59,157422.39,665.0,24456.99,48,0.54,13.08,Female,Self-Employed,Bachelor,Divorced,Car Loan,No
+CUST00185,53,104681.29,583.0,184425.81,36,0.49,5.63,Male,Contract,Master,Divorced,Business Loan,No
+CUST00186,21,47882.99,761.0,17748.47,24,0.65,11.29,Female,Business,High School,Single,Education Loan,No
+CUST00187,47,66534.54,737.0,47801.13,72,0.14,5.19,Female,Salaried,Master,Divorced,Personal Loan,No
+CUST00188,33,68209.78,724.0,456472.46,84,0.73,16.97,Female,Self-Employed,High School,Single,Business Loan,Yes
+CUST00189,61,82365.53,796.0,183881.81,36,0.46,17.69,Male,Self-Employed,PhD,Divorced,Personal Loan,No
+CUST00190,23,87139.8,751.0,218138.05,12,0.75,7.89,Male,Business,High School,Single,Business Loan,Yes
+CUST00191,59,147564.69,731.0,115518.75,60,0.69,7.71,Male,Business,Diploma,Single,Home Loan,No
+CUST00192,26,74600.69,514.0,302576.93,60,0.21,14.8,Other,Business,PhD,Single,Education Loan,Yes
+CUST00193,28,93853.56,770.0,301453.58,84,0.09,8.29,Female,Business,Master,Married,Education Loan,No
+CUST00194,47,119246.11,686.0,192378.19,36,0.23,16.64,Other,Self-Employed,PhD,Divorced,Home Loan,No
+CUST00195,29,79191.6,703.0,173187.09,84,0.42,12.46,Female,Salaried,PhD,Widowed,Car Loan,No
+CUST00196,57,153523.5,704.0,443632.51,60,0.17,9.56,Male,Contract,Master,Single,Education Loan,No
+CUST00197,53,113167.48,738.0,197809.28,24,0.17,15.83,Female,Contract,Master,Married,Personal Loan,No
+CUST00198,62,65635.24,764.0,251815.49,36,0.37,11.41,Female,Salaried,Diploma,Widowed,Education Loan,No
+CUST00199,64,133677.59,728.0,148819.33,48,0.07,16.85,Other,Salaried,Master,Single,Car Loan,Yes
+CUST00200,44,103478.93,716.0,395517.06,24,0.14,17.06,Female,Salaried,Bachelor,Widowed,Personal Loan,No
+CUST00201,35,104581.85,697.0,204749.6,24,0.34,7.15,Male,Business,Bachelor,Married,Personal Loan,No
+CUST00202,52,95936.25,429.0,261669.41,24,0.09,5.03,Female,Self-Employed,Diploma,Widowed,Home Loan,No
+CUST00203,52,98515.94,658.0,134145.01,48,0.33,17.79,Female,Self-Employed,High School,Single,Business Loan,No
+CUST00204,44,141987.72,609.0,493953.2,12,0.38,16.78,Female,Self-Employed,High School,Widowed,Home Loan,Yes
+CUST00205,61,34683.0,771.0,152832.91,72,0.37,5.72,Other,Business,Bachelor,Widowed,Business Loan,No
+CUST00206,69,72166.78,726.0,387663.84,84,0.66,15.83,Female,Self-Employed,Master,Single,Home Loan,No
+CUST00207,69,30231.54,646.0,219472.87,60,0.42,10.95,Female,Business,Diploma,Married,Business Loan,No
+CUST00208,32,140025.89,653.0,111046.53,84,0.38,8.37,Other,Self-Employed,High School,Married,Education Loan,No
+CUST00209,59,62112.9,650.0,401862.19,36,0.34,16.42,Other,Salaried,High School,Widowed,Personal Loan,No
+CUST00210,22,163383.73,649.0,173467.33,12,0.62,7.56,Other,Contract,PhD,Divorced,Business Loan,Yes
+CUST00211,23,103305.71,572.0,433944.74,36,0.68,17.31,Other,Contract,Bachelor,Widowed,Education Loan,Yes
+CUST00212,69,147721.46,555.0,458476.02,84,0.65,7.67,Male,Business,Master,Divorced,Car Loan,Yes
+CUST00213,57,176586.89,682.0,431313.68,60,0.52,12.98,Male,Self-Employed,Diploma,Widowed,Home Loan,No
+CUST00214,69,154045.8,761.0,27153.88,48,0.15,7.9,Female,Contract,High School,Married,Car Loan,No
+CUST00215,37,158452.99,640.0,395812.94,84,0.24,12.09,Male,Salaried,PhD,Widowed,Education Loan,No
+CUST00216,69,84093.49,703.0,211556.34,24,0.08,13.89,Female,Salaried,Bachelor,Widowed,Car Loan,No
+CUST00217,22,107379.06,735.0,438124.23,84,0.7,7.47,Male,Salaried,Bachelor,Divorced,Car Loan,No
+CUST00218,22,59129.95,605.0,322597.59,24,0.51,11.77,Other,Business,Diploma,Married,Education Loan,No
+CUST00219,48,49770.32,679.0,418485.14,48,0.57,11.1,Other,Business,High School,Divorced,Personal Loan,No
+CUST00220,43,99892.28,630.0,254721.57,84,0.27,5.92,Male,Self-Employed,Diploma,Widowed,Business Loan,No
+CUST00221,57,114397.93,800.0,272162.5,12,0.64,15.64,Male,Salaried,Diploma,Single,Home Loan,No
+CUST00222,52,72961.94,797.0,80749.94,12,0.23,9.36,Female,Self-Employed,PhD,Widowed,Business Loan,No
+CUST00223,53,110249.85,606.0,394153.81,36,0.05,12.47,Female,Self-Employed,Bachelor,Widowed,Home Loan,No
+CUST00224,21,161768.6,709.0,215500.91,48,0.31,11.69,Female,Salaried,Master,Divorced,Business Loan,No
+CUST00225,39,108188.9,760.0,255039.26,12,0.45,11.67,Other,Self-Employed,Bachelor,Single,Car Loan,No
+CUST00226,22,,744.0,394697.88,84,0.39,6.39,Other,Contract,Bachelor,Single,Personal Loan,No
+CUST00227,64,148461.02,686.0,303434.25,48,0.65,10.51,Other,Business,PhD,Divorced,Car Loan,Yes
+CUST00228,46,178174.06,778.0,108538.38,60,0.12,10.88,Other,Self-Employed,Master,Married,Personal Loan,No
+CUST00229,52,115717.98,612.0,299214.0,24,0.44,14.54,Female,Salaried,High School,Single,Education Loan,No
+CUST00230,26,148709.72,657.0,209740.1,84,0.41,15.92,Other,Business,Master,Single,Home Loan,Yes
+CUST00231,52,173949.19,614.0,240067.52,24,0.25,12.08,Other,Business,High School,Divorced,Home Loan,No
+CUST00232,24,,739.0,23872.52,24,0.63,6.13,Other,Self-Employed,Master,Married,Education Loan,No
+CUST00233,31,40855.26,636.0,112914.38,48,0.58,8.08,Other,Contract,Diploma,Married,Business Loan,No
+CUST00234,37,83835.55,667.0,147708.66,48,0.56,7.14,Male,Self-Employed,Master,Widowed,Education Loan,No
+CUST00235,58,70486.39,726.0,359350.4,36,0.66,6.62,Female,Contract,PhD,Widowed,Education Loan,No
+CUST00236,44,32081.85,732.0,15631.31,24,0.56,9.76,Female,Business,High School,Divorced,Personal Loan,No
+CUST00237,25,120585.01,612.0,210300.86,36,0.21,7.98,Other,Self-Employed,Bachelor,Married,Education Loan,No
+CUST00238,54,137216.55,759.0,462773.17,24,0.54,7.84,Male,Salaried,PhD,Divorced,Home Loan,No
+CUST00239,26,155396.75,714.0,64821.5,36,0.27,5.71,Female,Self-Employed,High School,Widowed,Car Loan,No
+CUST00240,42,37889.86,599.0,263047.95,36,0.22,5.23,Female,Contract,High School,Divorced,Personal Loan,No
+CUST00241,31,159983.94,580.0,395395.97,60,0.1,6.34,Other,Contract,Bachelor,Divorced,Personal Loan,No
+CUST00242,68,122153.94,679.0,471840.34,36,0.57,7.24,Other,Self-Employed,Diploma,Single,Business Loan,No
+CUST00243,36,132039.27,744.0,375920.55,48,0.55,10.6,Female,Contract,PhD,Single,Car Loan,No
+CUST00244,53,165521.09,746.0,363077.12,36,0.21,11.64,Female,Business,Bachelor,Single,Personal Loan,No
+CUST00245,29,119211.33,707.0,414979.16,24,0.57,6.83,Male,Self-Employed,Bachelor,Widowed,Education Loan,Yes
+CUST00246,26,72410.27,684.0,228638.6,36,0.69,10.52,Female,Contract,Diploma,Divorced,Personal Loan,No
+CUST00247,36,151667.39,,404863.82,12,0.13,9.44,Female,Self-Employed,PhD,Single,Personal Loan,No
+CUST00248,49,76815.59,616.0,13902.56,72,0.21,7.38,Other,Self-Employed,Bachelor,Single,Personal Loan,No
+CUST00249,23,23544.95,807.0,463034.92,24,0.58,5.09,Female,Salaried,Diploma,Single,Business Loan,No
+CUST00250,40,152566.03,806.0,227220.19,12,0.24,11.07,Other,Self-Employed,PhD,Widowed,Personal Loan,No
+CUST00251,56,73921.13,712.0,281156.29,24,0.49,13.91,Female,Salaried,Master,Widowed,Personal Loan,No
+CUST00252,39,143361.19,695.0,134892.3,48,0.11,7.94,Female,Contract,High School,Divorced,Business Loan,No
+CUST00253,46,76766.78,649.0,373840.11,72,0.37,6.71,Female,Salaried,Diploma,Divorced,Car Loan,No
+CUST00254,23,157493.02,720.0,47551.55,72,0.57,16.53,Male,Salaried,High School,Divorced,Home Loan,No
+CUST00255,39,53560.71,628.0,437591.54,48,0.53,8.58,Other,Salaried,Master,Single,Business Loan,No
+CUST00256,40,175876.66,513.0,415777.25,72,0.62,7.91,Male,Business,Bachelor,Married,Business Loan,Yes
+CUST00257,52,144320.92,476.0,115869.46,48,0.66,16.14,Female,Salaried,Bachelor,Widowed,Personal Loan,Yes
+CUST00258,27,36506.54,620.0,406568.96,12,0.59,15.62,Male,Self-Employed,PhD,Single,Personal Loan,Yes
+CUST00259,61,109655.81,692.0,395315.29,60,0.52,10.83,Other,Salaried,Diploma,Single,Home Loan,Yes
+CUST00260,53,177629.5,705.0,319786.13,24,0.07,11.36,Female,Self-Employed,Diploma,Divorced,Personal Loan,No
+CUST00261,60,94312.6,643.0,193024.89,48,0.42,7.83,Male,Salaried,PhD,Divorced,Education Loan,No
+CUST00262,59,47501.36,691.0,143034.39,24,0.08,6.02,Male,Business,High School,Single,Personal Loan,No
+CUST00263,38,96534.1,659.0,123573.96,12,0.62,12.45,Other,Contract,Bachelor,Widowed,Personal Loan,Yes
+CUST00264,60,101018.14,605.0,166118.39,60,0.27,6.28,Male,Salaried,Bachelor,Widowed,Education Loan,No
+CUST00265,21,138153.28,676.0,452743.64,12,0.44,10.84,Other,Salaried,Diploma,Single,Home Loan,No
+CUST00266,31,131213.03,741.0,48043.98,72,0.25,17.23,Female,Business,Diploma,Married,Education Loan,No
+CUST00267,48,83213.11,608.0,416146.93,24,0.6,17.39,Female,Salaried,PhD,Married,Business Loan,No
+CUST00268,45,53319.74,608.0,180956.14,84,0.67,8.11,Male,Self-Employed,Master,Widowed,Education Loan,No
+CUST00269,70,122498.78,600.0,265583.7,60,0.33,13.11,Female,Salaried,High School,Divorced,Car Loan,No
+CUST00270,43,86316.04,535.0,399297.96,72,0.65,11.16,Female,Salaried,Master,Married,Business Loan,Yes
+CUST00271,51,39428.75,644.0,443344.51,60,0.24,16.38,Male,Contract,Master,Married,Personal Loan,No
+CUST00272,50,163892.71,734.0,178942.9,72,0.42,8.53,Female,Contract,Diploma,Divorced,Business Loan,Yes
+CUST00273,62,129977.94,693.0,236303.31,12,0.65,5.05,Male,Salaried,Diploma,Married,Home Loan,Yes
+CUST00274,55,128675.78,667.0,213112.87,48,0.28,7.11,Other,Business,Diploma,Single,Home Loan,No
+CUST00275,27,151258.59,690.0,16493.01,24,0.72,9.54,Other,Contract,Master,Married,Education Loan,Yes
+CUST00276,36,103805.19,643.0,155012.02,36,0.14,9.1,Other,Salaried,High School,Divorced,Business Loan,No
+CUST00277,46,150038.82,534.0,235002.72,36,0.06,15.29,Male,Contract,Diploma,Single,Personal Loan,Yes
+CUST00278,68,98690.7,739.0,211435.87,12,0.68,13.85,Male,Salaried,Bachelor,Married,Home Loan,Yes
+CUST00279,69,28882.41,760.0,363745.32,24,0.1,8.89,Female,Contract,High School,Widowed,Personal Loan,No
+CUST00280,22,83650.19,625.0,198553.77,24,0.74,10.95,Female,Contract,Bachelor,Single,Car Loan,Yes
+CUST00281,21,98589.31,669.0,249794.46,12,0.72,6.24,Female,Self-Employed,High School,Single,Home Loan,No
+CUST00282,68,134672.82,662.0,220508.21,24,0.15,16.68,Female,Salaried,Diploma,Widowed,Education Loan,No
+CUST00283,32,35265.75,706.0,372906.81,48,0.43,17.16,Female,Salaried,PhD,Widowed,Car Loan,No
+CUST00284,25,40683.0,807.0,432856.48,12,0.18,17.74,Male,Salaried,Diploma,Married,Business Loan,No
+CUST00285,57,60716.78,767.0,270625.65,48,0.35,16.29,Male,Salaried,Master,Married,Personal Loan,No
+CUST00286,52,61172.74,652.0,396821.78,24,0.09,7.26,Other,Contract,Master,Divorced,Home Loan,No
+CUST00287,29,136613.9,721.0,155425.47,12,0.21,5.6,Other,Self-Employed,High School,Divorced,Car Loan,Yes
+CUST00288,61,58618.37,774.0,275271.11,24,0.3,12.53,Other,Self-Employed,Master,Single,Car Loan,No
+CUST00289,55,120561.89,711.0,179162.68,12,0.36,16.86,Other,Business,Diploma,Widowed,Home Loan,No
+CUST00290,39,98072.36,680.0,212958.45,24,0.73,7.31,Male,Salaried,Bachelor,Widowed,Business Loan,No
+CUST00291,68,110873.69,713.0,368882.79,48,0.62,5.09,Male,Business,Diploma,Divorced,Business Loan,No
+CUST00292,36,153773.33,627.0,442014.62,84,0.57,15.47,Male,Contract,High School,Single,Education Loan,Yes
+CUST00293,23,83509.8,638.0,69532.74,48,0.43,6.0,Female,Business,Master,Single,Business Loan,No
+CUST00294,40,142887.64,600.0,320973.24,24,0.64,10.38,Female,Salaried,Bachelor,Divorced,Education Loan,Yes
+CUST00295,44,86369.84,703.0,295250.47,12,0.29,13.83,Other,Self-Employed,PhD,Divorced,Car Loan,No
+CUST00296,53,75327.16,670.0,68023.37,36,0.55,8.08,Female,Self-Employed,Bachelor,Divorced,Home Loan,Yes
+CUST00297,44,173297.6,618.0,113828.22,48,0.75,6.09,Male,Salaried,Bachelor,Married,Business Loan,No
+CUST00298,31,47868.09,668.0,162391.22,48,0.27,15.01,Other,Contract,Diploma,Single,Education Loan,No
+CUST00299,69,32634.59,715.0,91796.22,72,0.52,13.19,Other,Salaried,PhD,Single,Car Loan,No
+CUST00300,28,142899.72,824.0,129427.45,36,0.64,17.85,Female,Contract,High School,Single,Business Loan,No
+CUST00301,56,29056.45,756.0,141124.39,24,0.69,9.48,Other,Self-Employed,High School,Divorced,Personal Loan,No
+CUST00302,58,153606.8,509.0,174480.18,84,0.55,5.8,Female,Contract,Bachelor,Divorced,Car Loan,No
+CUST00303,60,88825.33,698.0,377201.32,12,0.25,14.55,Female,Salaried,Bachelor,Divorced,Business Loan,No
+CUST00304,40,166313.22,787.0,290236.98,72,0.28,11.78,Other,Salaried,Master,Divorced,Car Loan,Yes
+CUST00305,55,134888.32,580.0,493260.87,24,0.06,7.77,Female,Salaried,PhD,Widowed,Home Loan,No
+CUST00306,68,116885.56,721.0,213220.56,60,0.58,15.16,Female,Contract,Bachelor,Divorced,Home Loan,No
+CUST00307,45,171787.7,662.0,379393.89,84,0.08,7.65,Female,Contract,Master,Married,Home Loan,No
+CUST00308,55,82257.2,766.0,437019.53,48,0.66,8.39,Female,Contract,PhD,Widowed,Personal Loan,No
+CUST00309,45,172562.08,710.0,342699.46,60,0.13,6.2,Other,Self-Employed,High School,Widowed,Home Loan,No
+CUST00310,49,39870.21,614.0,211813.72,48,0.17,10.19,Male,Business,Master,Divorced,Personal Loan,No
+CUST00311,38,96368.3,665.0,379261.37,48,0.38,10.45,Male,Business,PhD,Single,Home Loan,No
+CUST00312,66,61725.62,669.0,109796.9,60,0.57,11.69,Female,Salaried,Master,Divorced,Car Loan,No
+CUST00313,38,105454.53,671.0,170500.56,84,0.15,14.22,Female,Self-Employed,Bachelor,Single,Business Loan,No
+CUST00314,22,44246.25,764.0,277875.77,60,0.36,16.78,Female,Contract,Diploma,Divorced,Business Loan,No
+CUST00315,55,154327.8,617.0,291950.6,24,0.39,6.79,Male,Salaried,High School,Divorced,Home Loan,No
+CUST00316,36,155118.07,755.0,20849.32,72,0.2,5.71,Female,Self-Employed,Bachelor,Single,Business Loan,No
+CUST00317,61,172748.28,657.0,473105.95,72,0.13,5.24,Other,Salaried,Bachelor,Single,Home Loan,No
+CUST00318,56,43056.89,697.0,351347.36,60,0.64,6.87,Other,Self-Employed,PhD,Single,Home Loan,Yes
+CUST00319,53,118979.87,685.0,252894.84,24,0.4,13.55,Other,Self-Employed,Master,Single,Education Loan,No
+CUST00320,24,94826.44,678.0,467232.34,72,0.06,14.46,Male,Business,High School,Married,Education Loan,No
+CUST00321,53,73790.16,679.0,225156.83,24,0.61,15.22,Female,Salaried,Bachelor,Single,Education Loan,Yes
+CUST00322,34,74949.51,789.0,490413.43,24,0.74,8.17,Female,Contract,PhD,Divorced,Personal Loan,No
+CUST00323,41,84872.56,743.0,261019.53,48,0.47,8.98,Female,Business,High School,Divorced,Education Loan,No
+CUST00324,68,132197.94,653.0,66000.03,72,0.4,11.28,Male,Business,Master,Married,Home Loan,No
+CUST00325,40,114922.34,799.0,384752.48,72,0.66,5.82,Male,Contract,Bachelor,Single,Car Loan,No
+CUST00326,28,92468.41,701.0,342659.89,48,0.72,12.94,Male,Self-Employed,Bachelor,Divorced,Education Loan,No
+CUST00327,27,30301.21,707.0,388763.49,60,0.58,17.79,Male,Contract,Bachelor,Married,Education Loan,No
+CUST00328,23,30597.99,617.0,476206.59,48,0.36,9.69,Other,Salaried,High School,Divorced,Car Loan,No
+CUST00329,37,18378.98,643.0,390479.76,72,0.46,14.79,Male,Contract,High School,Married,Home Loan,No
+CUST00330,53,174767.3,628.0,309554.94,72,0.54,11.5,Male,Self-Employed,High School,Married,Personal Loan,Yes
+CUST00331,68,18851.12,686.0,430081.36,84,0.19,6.66,Male,Contract,High School,Widowed,Education Loan,No
+CUST00332,32,34701.19,728.0,339890.76,60,0.36,12.57,Female,Self-Employed,PhD,Widowed,Car Loan,No
+CUST00333,42,68964.64,708.0,209978.34,48,0.63,8.9,Female,Self-Employed,Diploma,Single,Home Loan,No
+CUST00334,42,148803.7,799.0,443953.68,12,0.51,5.45,Female,Salaried,PhD,Widowed,Business Loan,No
+CUST00335,66,173860.0,613.0,118731.23,12,0.34,13.25,Other,Contract,Bachelor,Married,Personal Loan,Yes
+CUST00336,50,145982.2,689.0,360174.22,60,0.51,16.17,Other,Contract,PhD,Divorced,Car Loan,No
+CUST00337,58,129870.76,584.0,441966.09,48,0.13,9.48,Male,Salaried,Master,Divorced,Car Loan,No
+CUST00338,58,102450.71,611.0,368345.09,48,0.33,10.07,Female,Self-Employed,High School,Single,Car Loan,No
+CUST00339,65,32046.24,775.0,351664.96,24,0.61,16.58,Other,Contract,Master,Widowed,Education Loan,No
+CUST00340,28,173223.67,645.0,378792.76,72,0.2,15.58,Female,Salaried,Master,Single,Business Loan,No
+CUST00341,47,140859.57,620.0,237877.07,36,0.18,14.29,Other,Self-Employed,Bachelor,Married,Personal Loan,Yes
+CUST00342,47,121509.8,520.0,438343.63,84,0.72,8.23,Other,Salaried,High School,Widowed,Home Loan,No
+CUST00343,54,140963.81,619.0,109683.87,60,0.2,16.83,Male,Contract,Master,Single,Home Loan,No
+CUST00344,41,135304.74,665.0,72419.34,36,0.23,7.01,Male,Salaried,Bachelor,Divorced,Business Loan,No
+CUST00345,50,121231.52,578.0,149899.3,36,0.73,13.15,Other,Business,High School,Divorced,Car Loan,No
+CUST00346,53,176853.44,660.0,270472.92,60,0.56,5.37,Male,Self-Employed,Diploma,Single,Car Loan,No
+CUST00347,48,164344.94,775.0,260175.28,48,0.54,13.37,Other,Business,Bachelor,Single,Car Loan,No
+CUST00348,67,122759.72,627.0,412093.39,60,0.65,8.6,Other,Business,PhD,Single,Car Loan,Yes
+CUST00349,53,130294.38,609.0,208238.64,36,0.13,10.85,Female,Self-Employed,High School,Married,Car Loan,No
+CUST00350,25,26358.52,596.0,247328.77,72,0.54,9.49,Male,Self-Employed,Master,Married,Business Loan,No
+CUST00351,68,126526.63,594.0,16550.16,84,0.4,7.25,Male,Salaried,Master,Divorced,Education Loan,No
+CUST00352,39,25154.8,720.0,210772.23,84,0.63,13.09,Male,Self-Employed,PhD,Married,Personal Loan,No
+CUST00353,24,113298.73,684.0,327409.37,72,0.41,16.47,Female,Business,PhD,Married,Car Loan,No
+CUST00354,55,179895.27,752.0,17599.08,72,0.48,17.47,Female,Business,Master,Widowed,Education Loan,No
+CUST00355,69,,831.0,147632.16,48,0.38,7.5,Female,Contract,High School,Married,Home Loan,No
+CUST00356,37,94660.04,543.0,111898.62,12,0.38,14.33,Male,Self-Employed,Bachelor,Widowed,Business Loan,Yes
+CUST00357,64,68682.49,709.0,30572.86,60,0.59,13.64,Male,Business,PhD,Married,Education Loan,No
+CUST00358,48,37524.66,596.0,244837.44,84,0.49,9.46,Male,Contract,PhD,Divorced,Car Loan,No
+CUST00359,50,136425.83,739.0,99044.41,72,0.49,5.25,Female,Contract,PhD,Single,Car Loan,No
+CUST00360,49,49201.04,660.0,374109.95,60,0.37,13.97,Female,Salaried,Diploma,Divorced,Car Loan,No
+CUST00361,66,36675.69,682.0,425484.66,84,0.42,17.29,Other,Business,High School,Married,Education Loan,No
+CUST00362,26,86325.55,584.0,277336.74,72,0.57,13.22,Female,Salaried,High School,Single,Car Loan,Yes
+CUST00363,55,146845.38,648.0,491036.6,84,0.63,10.66,Other,Business,High School,Single,Education Loan,Yes
+CUST00364,61,138700.46,687.0,230734.5,48,0.54,11.83,Male,Salaried,High School,Single,Car Loan,No
+CUST00365,57,26890.98,782.0,261550.42,12,0.7,7.6,Female,Salaried,High School,Widowed,Home Loan,No
+CUST00366,44,91733.28,620.0,494716.7,12,0.62,14.76,Male,Self-Employed,Master,Divorced,Home Loan,Yes
+CUST00367,49,102634.4,639.0,123458.73,72,0.44,14.7,Male,Salaried,PhD,Widowed,Personal Loan,No
+CUST00368,69,122416.56,751.0,471847.51,84,0.52,6.89,Male,Self-Employed,Master,Single,Car Loan,Yes
+CUST00369,66,123327.11,616.0,30990.4,48,0.7,16.41,Male,Contract,Diploma,Divorced,Car Loan,No
+CUST00370,51,77080.95,766.0,228729.58,24,0.48,8.5,Female,Business,Bachelor,Divorced,Education Loan,No
+CUST00371,55,108829.71,679.0,44301.72,60,0.63,17.77,Male,Contract,PhD,Married,Education Loan,Yes
+CUST00372,53,95932.03,703.0,367325.02,60,0.53,9.98,Other,Business,Diploma,Widowed,Car Loan,Yes
+CUST00373,41,161369.73,708.0,308120.38,36,0.44,7.31,Female,Contract,Master,Widowed,Personal Loan,Yes
+CUST00374,52,103902.95,634.0,356250.79,48,0.22,9.57,Male,Business,Bachelor,Married,Car Loan,No
+CUST00375,43,89447.21,709.0,193495.4,84,0.35,10.72,Female,Salaried,Diploma,Widowed,Education Loan,No
+CUST00376,53,83526.64,622.0,191046.15,36,0.73,5.9,Other,Business,Bachelor,Single,Car Loan,No
+CUST00377,23,110733.3,642.0,32206.45,72,0.51,12.52,Male,Business,Diploma,Single,Education Loan,Yes
+CUST00378,38,148244.27,722.0,181473.02,84,0.45,12.77,Other,Contract,Master,Widowed,Car Loan,No
+CUST00379,45,105221.04,702.0,465351.32,36,0.7,14.61,Male,Contract,Bachelor,Married,Business Loan,No
+CUST00380,62,125188.14,674.0,195821.0,12,0.46,5.38,Other,Contract,Diploma,Divorced,Education Loan,No
+CUST00381,51,137532.63,586.0,417370.18,60,0.42,12.04,Male,Self-Employed,Master,Widowed,Personal Loan,Yes
+CUST00382,23,102267.23,604.0,422739.5,84,0.58,5.69,Female,Self-Employed,PhD,Divorced,Business Loan,No
+CUST00383,60,87144.36,701.0,192888.17,36,0.55,14.11,Male,Business,Master,Married,Car Loan,No
+CUST00384,66,160019.79,735.0,319674.45,12,0.19,5.72,Female,Business,Master,Divorced,Education Loan,No
+CUST00385,44,85635.99,597.0,56732.09,48,0.38,16.85,Male,Salaried,PhD,Married,Business Loan,No
+CUST00386,70,92834.74,,60802.5,36,0.38,14.13,Male,Salaried,Master,Married,Personal Loan,No
+CUST00387,52,178435.29,690.0,33842.26,72,0.31,11.6,Other,Business,PhD,Single,Education Loan,No
+CUST00388,67,18038.48,688.0,294697.4,72,0.41,10.74,Other,Self-Employed,PhD,Single,Business Loan,No
+CUST00389,42,48046.61,558.0,218774.78,72,0.34,6.7,Other,Business,PhD,Married,Business Loan,No
+CUST00390,43,80202.15,692.0,278535.85,84,0.19,8.78,Male,Salaried,Diploma,Widowed,Business Loan,No
+CUST00391,22,169079.57,635.0,265325.86,60,0.34,16.3,Male,Self-Employed,Bachelor,Single,Home Loan,Yes
+CUST00392,47,29344.81,803.0,181599.47,36,0.1,16.76,Male,Self-Employed,Diploma,Married,Car Loan,Yes
+CUST00393,62,19536.64,699.0,341961.97,48,0.45,5.01,Female,Salaried,PhD,Divorced,Education Loan,Yes
+CUST00394,22,26534.78,712.0,381665.92,36,0.65,12.72,Female,Business,Bachelor,Divorced,Education Loan,No
+CUST00395,46,32344.03,714.0,17167.85,60,0.56,14.35,Male,Contract,Bachelor,Widowed,Education Loan,No
+CUST00396,37,24090.68,589.0,111548.73,12,0.3,13.04,Other,Business,PhD,Divorced,Business Loan,No
+CUST00397,60,95724.57,826.0,359485.58,60,0.11,6.06,Other,Business,Bachelor,Divorced,Car Loan,Yes
+CUST00398,53,112082.67,558.0,199443.88,72,0.19,7.83,Other,Salaried,Bachelor,Married,Personal Loan,No
+CUST00399,29,62013.29,740.0,334617.13,84,0.43,8.25,Male,Self-Employed,Diploma,Divorced,Education Loan,No
+CUST00400,63,82522.56,726.0,180011.7,12,0.19,15.81,Other,Salaried,Bachelor,Divorced,Car Loan,No
+CUST00401,68,32855.29,644.0,201470.02,84,0.43,11.02,Male,Business,PhD,Divorced,Car Loan,No
+CUST00402,59,72492.02,730.0,87752.65,72,0.21,11.33,Female,Contract,High School,Divorced,Home Loan,No
+CUST00403,49,102648.11,656.0,136533.2,24,0.64,17.15,Other,Contract,High School,Married,Education Loan,No
+CUST00404,62,136628.03,629.0,306651.76,60,0.33,13.28,Female,Contract,High School,Divorced,Business Loan,No
+CUST00405,46,18542.11,715.0,222249.92,60,0.22,16.68,Other,Salaried,PhD,Widowed,Car Loan,No
+CUST00406,55,93704.34,605.0,389408.31,48,0.62,10.93,Male,Self-Employed,High School,Single,Car Loan,No
+CUST00407,70,66114.47,663.0,427766.63,36,0.29,6.94,Male,Salaried,Diploma,Widowed,Personal Loan,No
+CUST00408,45,156157.14,635.0,275406.74,12,0.13,17.09,Male,Contract,PhD,Single,Home Loan,No
+CUST00409,44,133919.64,655.0,381550.97,84,0.45,10.96,Male,Business,PhD,Widowed,Car Loan,No
+CUST00410,33,113435.58,712.0,160383.21,12,0.46,7.36,Other,Self-Employed,PhD,Single,Car Loan,No
+CUST00411,27,62917.03,635.0,213335.9,48,0.55,8.93,Female,Salaried,Bachelor,Single,Business Loan,No
+CUST00412,56,165474.93,666.0,359261.06,48,0.22,5.66,Male,Salaried,Bachelor,Single,Business Loan,No
+CUST00413,65,25306.31,642.0,199243.88,84,0.36,11.09,Other,Self-Employed,Bachelor,Single,Personal Loan,No
+CUST00414,40,35733.75,788.0,298367.42,36,0.25,16.09,Female,Self-Employed,Master,Married,Personal Loan,No
+CUST00415,21,81444.08,706.0,100832.66,84,0.11,17.14,Male,Business,Diploma,Widowed,Personal Loan,No
+CUST00416,28,38158.88,697.0,303887.94,84,0.66,17.12,Female,Self-Employed,PhD,Single,Business Loan,No
+CUST00417,66,172939.34,731.0,432141.72,72,0.56,6.63,Male,Business,PhD,Widowed,Business Loan,No
+CUST00418,36,147274.27,635.0,435633.42,36,0.26,9.97,Female,Contract,Bachelor,Divorced,Home Loan,No
+CUST00419,34,59955.19,744.0,364928.76,60,0.47,5.37,Female,Contract,PhD,Single,Education Loan,No
+CUST00420,32,113345.79,706.0,375419.16,72,0.19,16.12,Male,Salaried,PhD,Widowed,Education Loan,No
+CUST00421,43,177137.54,563.0,283384.45,24,0.67,9.66,Other,Contract,High School,Married,Home Loan,No
+CUST00422,35,161240.23,573.0,296487.36,36,0.13,13.2,Female,Contract,PhD,Widowed,Education Loan,Yes
+CUST00423,48,115329.35,637.0,75488.78,48,0.05,14.29,Male,Business,Master,Single,Business Loan,No
+CUST00424,54,164403.28,581.0,227491.0,72,0.4,10.59,Female,Salaried,Bachelor,Divorced,Education Loan,No
+CUST00425,22,178247.96,662.0,230880.38,36,0.46,8.98,Female,Self-Employed,Diploma,Widowed,Business Loan,No
+CUST00426,52,138423.16,604.0,479663.94,12,0.46,17.51,Other,Salaried,Diploma,Divorced,Home Loan,No
+CUST00427,43,28527.8,673.0,221232.56,84,0.09,17.54,Female,Contract,High School,Married,Personal Loan,No
+CUST00428,42,83056.0,786.0,279177.9,24,0.27,8.76,Female,Self-Employed,Diploma,Widowed,Home Loan,No
+CUST00429,45,153727.77,676.0,271293.19,60,0.4,11.24,Male,Salaried,Diploma,Widowed,Education Loan,No
+CUST00430,42,55352.21,657.0,322013.24,84,0.2,17.65,Male,Salaried,Bachelor,Married,Business Loan,No
+CUST00431,42,152564.09,709.0,376634.09,12,0.66,5.06,Other,Salaried,Bachelor,Married,Education Loan,Yes
+CUST00432,69,37494.88,628.0,120270.52,12,0.11,10.36,Female,Salaried,Master,Married,Education Loan,Yes
+CUST00433,62,25605.15,743.0,269074.97,24,0.39,6.31,Female,Business,High School,Single,Personal Loan,No
+CUST00434,26,80222.68,717.0,414699.68,60,0.53,11.62,Female,Salaried,Diploma,Single,Education Loan,No
+CUST00435,35,23950.57,683.0,236926.21,48,0.23,5.32,Other,Contract,Master,Widowed,Personal Loan,No
+CUST00436,63,173077.78,692.0,146444.2,72,0.49,10.29,Female,Contract,High School,Widowed,Business Loan,No
+CUST00437,57,151845.32,833.0,330807.45,60,0.63,7.87,Male,Business,Diploma,Widowed,Business Loan,No
+CUST00438,53,147724.69,751.0,413646.02,36,0.18,11.93,Other,Self-Employed,Diploma,Divorced,Personal Loan,No
+CUST00439,28,120024.02,845.0,40938.74,12,0.69,17.95,Male,Self-Employed,Bachelor,Married,Home Loan,No
+CUST00440,64,,720.0,390627.34,36,0.44,15.41,Male,Contract,PhD,Widowed,Business Loan,No
+CUST00441,64,101958.18,570.0,412607.49,48,0.26,15.99,Other,Contract,High School,Married,Home Loan,No
+CUST00442,25,114758.4,660.0,236146.23,36,0.35,13.26,Male,Business,Diploma,Single,Business Loan,No
+CUST00443,59,103055.1,552.0,491819.77,60,0.27,5.54,Female,Self-Employed,High School,Married,Business Loan,No
+CUST00444,24,60157.81,720.0,395487.09,36,0.56,7.69,Other,Self-Employed,Master,Divorced,Car Loan,No
+CUST00445,26,101470.16,736.0,389094.66,48,0.61,17.03,Male,Salaried,Master,Divorced,Education Loan,Yes
+CUST00446,65,97572.19,614.0,376440.9,48,0.63,9.76,Female,Salaried,PhD,Married,Education Loan,Yes
+CUST00447,52,179406.4,631.0,83797.97,48,0.74,6.35,Female,Salaried,Diploma,Divorced,Home Loan,No
+CUST00448,50,163384.66,691.0,116443.13,60,0.6,14.13,Male,Business,Bachelor,Divorced,Education Loan,No
+CUST00449,67,93067.68,590.0,237355.16,48,0.47,8.89,Female,Contract,Diploma,Single,Home Loan,Yes
+CUST00450,55,118915.86,585.0,139362.13,12,0.29,8.5,Other,Business,High School,Widowed,Business Loan,No
+CUST00451,60,139155.2,773.0,213468.08,84,0.43,17.97,Male,Self-Employed,Master,Divorced,Car Loan,No
+CUST00452,36,23648.16,689.0,445347.41,48,0.08,16.16,Female,Contract,High School,Widowed,Car Loan,No
+CUST00453,33,162977.27,638.0,413920.18,36,0.57,10.3,Female,Salaried,PhD,Married,Business Loan,No
+CUST00454,70,157340.54,553.0,318719.54,72,0.36,17.74,Male,Business,Master,Married,Personal Loan,No
+CUST00455,62,92104.0,744.0,430478.99,36,0.06,13.45,Male,Business,Bachelor,Divorced,Personal Loan,No
+CUST00456,50,81369.5,629.0,394048.47,72,0.09,14.65,Male,Salaried,Master,Married,Education Loan,Yes
+CUST00457,39,62219.42,820.0,220202.62,36,0.32,5.41,Male,Business,Diploma,Single,Home Loan,No
+CUST00458,37,95221.65,744.0,108521.92,60,0.46,6.58,Other,Salaried,Diploma,Divorced,Car Loan,No
+CUST00459,39,25189.02,,261958.51,36,0.37,13.23,Male,Self-Employed,Master,Divorced,Education Loan,No
+CUST00460,48,156055.35,626.0,370752.15,60,0.48,16.69,Other,Contract,PhD,Divorced,Business Loan,No
+CUST00461,46,23738.42,809.0,223845.6,60,0.39,13.11,Other,Self-Employed,Diploma,Married,Car Loan,No
+CUST00462,57,,674.0,336718.24,48,0.51,6.74,Male,Self-Employed,Diploma,Married,Home Loan,Yes
+CUST00463,46,168917.5,642.0,56220.44,12,0.2,6.5,Other,Salaried,Bachelor,Divorced,Home Loan,No
+CUST00464,43,137104.45,682.0,376522.32,72,0.13,15.97,Male,Business,Master,Widowed,Personal Loan,Yes
+CUST00465,29,63585.34,641.0,408229.67,48,0.47,6.81,Male,Self-Employed,Diploma,Married,Education Loan,Yes
+CUST00466,32,58929.15,698.0,356350.55,48,0.39,11.76,Female,Self-Employed,PhD,Married,Business Loan,No
+CUST00467,21,18823.31,674.0,483959.16,84,0.07,5.48,Male,Self-Employed,High School,Divorced,Car Loan,No
+CUST00468,21,130705.72,746.0,415059.51,60,0.32,6.05,Female,Business,Master,Widowed,Home Loan,No
+CUST00469,67,25902.94,651.0,452515.93,60,0.12,13.74,Other,Business,Bachelor,Divorced,Car Loan,Yes
+CUST00470,54,104281.61,614.0,467449.83,72,0.42,13.96,Female,Salaried,Diploma,Married,Business Loan,No
+CUST00471,52,173863.76,654.0,402660.52,36,0.33,9.44,Other,Self-Employed,PhD,Divorced,Car Loan,No
+CUST00472,68,35733.96,653.0,340386.83,36,0.48,7.8,Male,Contract,Master,Divorced,Education Loan,No
+CUST00473,45,162905.75,674.0,12802.1,48,0.61,15.58,Other,Business,PhD,Divorced,Personal Loan,No
+CUST00474,60,178619.0,728.0,238254.62,24,0.26,7.82,Other,Salaried,PhD,Widowed,Car Loan,No
+CUST00475,65,27965.76,723.0,289869.53,24,0.72,12.05,Male,Self-Employed,Bachelor,Divorced,Personal Loan,No
+CUST00476,21,161030.82,770.0,158974.83,36,0.42,17.59,Other,Contract,Master,Married,Business Loan,No
+CUST00477,36,101604.8,619.0,165871.18,24,0.48,6.92,Male,Business,Diploma,Divorced,Personal Loan,No
+CUST00478,59,164855.22,709.0,480968.11,84,0.53,17.23,Female,Contract,Bachelor,Widowed,Car Loan,No
+CUST00479,25,110553.67,735.0,446938.32,36,0.52,7.38,Male,Business,Diploma,Single,Car Loan,No
+CUST00480,42,125262.15,629.0,426097.71,60,0.41,12.38,Male,Salaried,High School,Widowed,Home Loan,No
+CUST00481,49,106092.18,664.0,208945.78,48,0.35,9.9,Other,Contract,PhD,Divorced,Car Loan,Yes
+CUST00482,23,158047.85,549.0,16712.29,12,0.09,17.54,Female,Self-Employed,High School,Single,Personal Loan,No
+CUST00483,32,136893.41,748.0,49308.9,48,0.07,8.56,Male,Self-Employed,PhD,Divorced,Home Loan,No
+CUST00484,46,102444.17,664.0,162976.22,36,0.3,10.2,Female,Business,Bachelor,Widowed,Car Loan,No
+CUST00485,36,158642.05,740.0,17714.03,84,0.28,17.78,Female,,Diploma,Single,Car Loan,No
+CUST00486,57,57736.26,695.0,18403.39,36,0.32,11.97,Other,Contract,Diploma,Single,Business Loan,No
+CUST00487,42,43489.19,666.0,459135.62,48,0.15,11.53,Male,Salaried,Bachelor,Divorced,Home Loan,No
+CUST00488,49,43984.82,561.0,356017.67,84,0.57,8.35,Other,Business,Master,Divorced,Business Loan,Yes
+CUST00489,34,72109.44,574.0,161388.44,84,0.65,14.12,Male,Contract,High School,Widowed,Business Loan,No
+CUST00490,48,56667.79,486.0,74995.84,84,0.71,5.19,Female,Business,High School,Divorced,Business Loan,No
+CUST00491,25,168674.64,638.0,260701.5,72,0.39,5.64,Male,Salaried,Diploma,Single,Education Loan,No
+CUST00492,67,35145.12,850.0,12619.62,36,0.54,12.79,Male,Business,Diploma,Married,Business Loan,No
+CUST00493,69,131236.5,583.0,469822.73,24,0.65,9.44,Female,Self-Employed,Diploma,Married,Personal Loan,No
+CUST00494,50,48653.89,483.0,213259.41,24,0.34,17.39,Female,Self-Employed,Bachelor,Widowed,Car Loan,No
+CUST00495,66,160825.22,752.0,207144.13,36,0.27,16.74,Male,Business,Master,Divorced,Education Loan,No
+CUST00496,25,173733.08,850.0,201390.87,36,0.71,14.28,Other,Salaried,High School,Widowed,Business Loan,No
+CUST00497,32,93406.14,702.0,43970.88,72,0.41,15.64,Male,Salaried,PhD,Married,Car Loan,No
+CUST00498,36,160409.58,702.0,322777.9,24,0.4,13.68,Female,Self-Employed,Bachelor,Married,Home Loan,No
+CUST00499,46,18833.52,657.0,369171.77,36,0.17,6.63,Other,Salaried,High School,Divorced,Home Loan,No
+CUST00500,46,150831.4,545.0,341301.44,36,0.13,14.95,Female,Business,Master,Single,Car Loan,Yes
+CUST00501,68,55037.28,571.0,77833.39,72,0.64,7.73,Female,Contract,Bachelor,Divorced,Personal Loan,Yes
+CUST00502,41,165209.61,656.0,293631.68,72,0.48,9.2,Other,Business,High School,Married,Car Loan,No
+CUST00503,59,18181.46,642.0,289047.4,48,0.28,15.65,Female,Self-Employed,Bachelor,Single,Car Loan,Yes
+CUST00504,56,108101.44,671.0,435521.29,72,0.18,11.97,Female,Self-Employed,High School,Widowed,Education Loan,No
+CUST00505,53,140575.0,742.0,195772.55,12,0.44,16.18,Female,Self-Employed,High School,Married,Home Loan,No
+CUST00506,50,59907.51,636.0,192028.11,24,0.46,7.77,Female,Salaried,Master,Widowed,Home Loan,Yes
+CUST00507,57,49287.52,744.0,313078.26,48,0.19,12.9,Female,Business,PhD,Single,Business Loan,No
+CUST00508,43,31623.91,637.0,320205.6,12,0.65,6.09,Female,Contract,Master,Widowed,Car Loan,Yes
+CUST00509,30,70882.24,758.0,239949.76,36,0.11,13.36,Female,Business,High School,Married,Car Loan,No
+CUST00510,25,108694.78,686.0,227099.09,36,0.3,14.91,Female,Contract,Bachelor,Divorced,Personal Loan,No
+CUST00511,56,36766.7,647.0,252132.36,48,0.53,12.6,Female,Business,Master,Widowed,Home Loan,No
+CUST00512,54,79024.65,685.0,431912.2,72,0.24,8.46,Male,Self-Employed,PhD,Married,Personal Loan,Yes
+CUST00513,51,19469.73,658.0,235971.78,84,0.63,5.41,Male,Contract,High School,Married,Education Loan,No
+CUST00514,30,150626.07,688.0,470566.58,84,0.57,6.55,Female,Business,Master,Single,Business Loan,No
+CUST00515,39,38808.69,737.0,256961.84,36,0.6,13.09,Male,Salaried,Master,Married,Personal Loan,No
+CUST00516,52,63901.56,673.0,475108.34,84,0.13,17.15,Other,Salaried,Master,Divorced,Home Loan,Yes
+CUST00517,21,20985.29,652.0,418087.63,60,0.15,7.68,Male,Business,Master,Divorced,Education Loan,No
+CUST00518,25,88023.01,596.0,187591.35,48,0.25,14.56,Female,Self-Employed,Bachelor,Widowed,Car Loan,No
+CUST00519,65,154099.68,723.0,433184.3,12,0.41,16.26,Female,Contract,PhD,Widowed,Education Loan,No
+CUST00520,24,81528.5,706.0,63931.01,48,0.57,11.77,Male,Business,PhD,Widowed,Personal Loan,No
+CUST00521,36,47078.57,591.0,463273.12,24,0.64,13.7,Female,Salaried,High School,Widowed,Home Loan,No
+CUST00522,44,140099.21,743.0,319505.32,72,0.54,15.6,Other,Contract,Diploma,Divorced,Personal Loan,Yes
+CUST00523,36,145786.73,590.0,36651.47,72,0.7,8.39,Other,Salaried,Bachelor,Single,Car Loan,No
+CUST00524,22,46148.06,757.0,325685.79,48,0.57,8.86,Female,Salaried,High School,Widowed,Car Loan,No
+CUST00525,69,142878.37,732.0,487381.35,36,0.26,5.01,Other,Business,High School,Single,Home Loan,No
+CUST00526,48,171462.26,711.0,44202.32,36,0.24,17.52,Other,Salaried,Master,Married,Business Loan,No
+CUST00527,52,44953.17,652.0,281796.98,60,0.54,16.93,Male,Contract,Diploma,Married,Education Loan,No
+CUST00528,47,142899.46,723.0,376419.23,60,0.19,14.94,Other,Self-Employed,Diploma,Widowed,Education Loan,No
+CUST00529,40,132788.66,761.0,407026.71,72,0.11,6.03,Male,Business,Bachelor,Married,Car Loan,No
+CUST00530,44,94718.97,724.0,212775.46,60,0.42,10.82,Female,Contract,Diploma,Single,Personal Loan,No
+CUST00531,32,27383.11,630.0,110041.61,12,0.63,6.32,Male,Business,High School,Single,Personal Loan,No
+CUST00532,70,30100.5,700.0,30747.72,60,0.12,5.21,Female,Salaried,Diploma,Married,Business Loan,No
+CUST00533,55,156091.17,765.0,294065.82,12,0.6,13.01,Female,Salaried,Diploma,Widowed,Personal Loan,No
+CUST00534,53,178404.04,845.0,231926.42,60,0.62,17.49,Female,Contract,PhD,Single,Education Loan,No
+CUST00535,53,127520.47,665.0,474884.75,72,0.39,16.74,Female,Contract,High School,Single,Personal Loan,No
+CUST00536,63,,744.0,39696.4,72,0.09,14.06,Female,Self-Employed,Diploma,Divorced,Business Loan,No
+CUST00537,57,122906.93,765.0,345843.72,12,0.17,6.26,Male,Contract,Diploma,Widowed,Education Loan,No
+CUST00538,32,114292.13,619.0,22233.45,48,0.55,8.56,Female,Contract,Master,Divorced,Personal Loan,No
+CUST00539,23,80145.19,814.0,94002.75,72,0.55,9.16,Other,Business,Diploma,Married,Education Loan,No
+CUST00540,21,28631.44,600.0,232253.71,48,0.68,14.92,Other,Salaried,Diploma,Married,Car Loan,No
+CUST00541,53,151085.1,741.0,232887.5,36,0.46,15.43,Female,Contract,PhD,Divorced,Car Loan,No
+CUST00542,60,78237.03,703.0,345993.27,12,0.14,10.01,Other,Self-Employed,High School,Widowed,Car Loan,Yes
+CUST00543,30,150643.27,684.0,456004.39,84,0.13,10.43,Male,Contract,Bachelor,Single,Personal Loan,No
+CUST00544,63,58906.42,850.0,323125.76,72,0.55,5.58,Male,Salaried,High School,Married,Business Loan,Yes
+CUST00545,64,18166.78,657.0,477232.2,24,0.18,8.76,Female,Contract,Master,Widowed,Education Loan,No
+CUST00546,49,43748.0,656.0,441991.66,36,0.28,10.87,Female,Business,High School,Widowed,Home Loan,No
+CUST00547,33,93903.39,780.0,296404.9,48,0.39,6.52,Female,Salaried,Diploma,Married,Car Loan,No
+CUST00548,32,170977.19,737.0,418558.06,72,0.07,10.89,Other,Contract,Master,Married,Car Loan,Yes
+CUST00549,51,34555.37,776.0,324863.03,12,0.22,16.09,Other,Business,High School,Widowed,Home Loan,No
+CUST00550,66,156381.98,689.0,48493.34,84,0.34,12.56,Male,Salaried,Master,Single,Home Loan,No
+CUST00551,22,103377.9,704.0,372876.71,60,0.25,6.03,Other,Contract,Bachelor,Divorced,Personal Loan,No
+CUST00552,70,151799.16,823.0,56505.14,84,0.15,7.49,Male,Business,High School,Married,Education Loan,No
+CUST00553,55,66336.66,617.0,301100.56,24,0.56,11.17,Other,Self-Employed,Diploma,Divorced,Car Loan,No
+CUST00554,43,154071.44,672.0,354293.7,48,0.62,9.7,Male,Business,Master,Widowed,Business Loan,No
+CUST00555,37,143197.29,740.0,42598.53,36,0.23,9.66,Female,Self-Employed,PhD,Divorced,Personal Loan,No
+CUST00556,46,55268.7,665.0,123089.38,84,0.59,11.88,Other,Contract,Master,Single,Personal Loan,No
+CUST00557,28,39276.29,637.0,458679.39,12,0.32,12.6,Male,Business,PhD,Widowed,Business Loan,No
+CUST00558,49,158624.8,726.0,311994.1,24,0.4,15.36,Other,Self-Employed,Diploma,Single,Business Loan,No
+CUST00559,46,174044.34,780.0,130680.15,12,0.65,9.43,Female,Salaried,Bachelor,Widowed,Business Loan,Yes
+CUST00560,30,23070.97,669.0,348433.09,72,0.57,15.47,Male,Business,PhD,Single,Home Loan,No
+CUST00561,46,136465.75,667.0,302420.45,60,0.61,9.4,Other,Contract,Bachelor,Widowed,Car Loan,No
+CUST00562,54,165342.97,631.0,255772.09,36,0.15,5.72,Other,Salaried,Master,Single,Home Loan,No
+CUST00563,61,156892.33,658.0,488331.62,12,0.1,12.2,Female,Self-Employed,Diploma,Widowed,Car Loan,No
+CUST00564,27,174252.32,761.0,344892.35,48,0.68,12.64,Female,Business,PhD,Single,Home Loan,Yes
+CUST00565,24,141135.24,686.0,193966.14,72,0.32,17.15,Male,Business,Master,Widowed,Education Loan,No
+CUST00566,70,89652.4,620.0,402035.98,72,0.25,14.44,Other,,High School,Single,Car Loan,No
+CUST00567,65,68536.22,700.0,443445.81,36,0.56,16.93,Other,Salaried,Master,Married,Personal Loan,No
+CUST00568,31,69960.32,759.0,71358.07,72,0.64,16.81,Female,Business,Bachelor,Divorced,Car Loan,No
+CUST00569,49,135356.47,638.0,108270.96,48,0.65,12.86,Female,,Diploma,Widowed,Car Loan,No
+CUST00570,56,138825.6,580.0,115951.23,12,0.27,11.86,Male,Salaried,Diploma,Single,Car Loan,Yes
+CUST00571,45,50458.18,844.0,348693.79,36,0.65,12.25,Other,Business,Master,Married,Education Loan,No
+CUST00572,41,158635.9,577.0,305489.38,72,0.08,17.72,Other,Salaried,High School,Widowed,Home Loan,No
+CUST00573,56,133817.69,653.0,313305.87,72,0.08,15.05,Male,Salaried,Bachelor,Widowed,Personal Loan,No
+CUST00574,30,109165.55,697.0,470978.92,48,0.49,6.38,Male,Salaried,Master,Widowed,Home Loan,No
+CUST00575,57,94388.26,660.0,390196.65,60,0.09,15.12,Female,Contract,Master,Divorced,Home Loan,No
+CUST00576,29,106003.71,674.0,72689.09,60,0.28,7.22,Female,Salaried,Diploma,Single,Business Loan,No
+CUST00577,44,43797.81,723.0,180278.47,84,0.52,10.82,Male,Salaried,Bachelor,Single,Education Loan,No
+CUST00578,55,50999.6,501.0,223342.89,72,0.29,7.74,Male,Self-Employed,High School,Widowed,Business Loan,No
+CUST00579,69,32768.65,585.0,204021.18,12,0.18,13.96,Other,Self-Employed,Diploma,Widowed,Education Loan,No
+CUST00580,55,42892.6,683.0,337961.22,36,0.25,16.41,Male,Contract,Master,Widowed,Home Loan,Yes
+CUST00581,68,91498.37,650.0,447027.62,72,0.37,8.77,Male,Salaried,Diploma,Married,Home Loan,No
+CUST00582,56,103917.41,690.0,159965.22,24,0.38,6.07,Other,Self-Employed,Diploma,Widowed,Education Loan,No
+CUST00583,38,20893.63,697.0,280419.8,36,0.6,8.88,Male,Self-Employed,PhD,Divorced,Home Loan,No
+CUST00584,69,147081.25,521.0,396810.62,84,0.58,13.74,Female,Business,Diploma,Single,Home Loan,Yes
+CUST00585,59,65655.21,776.0,213946.85,60,0.37,9.27,Female,Salaried,Diploma,Divorced,Personal Loan,No
+CUST00586,52,165717.44,643.0,92377.88,72,0.64,8.62,Other,Self-Employed,Bachelor,Widowed,Business Loan,No
+CUST00587,44,174736.82,615.0,242725.97,48,0.13,7.4,Male,Contract,Diploma,Married,Business Loan,No
+CUST00588,43,48044.34,696.0,37059.04,24,0.23,11.47,Female,Business,High School,Widowed,Business Loan,No
+CUST00589,52,92859.76,688.0,471767.89,72,0.63,8.59,Female,Business,Master,Widowed,Car Loan,Yes
+CUST00590,57,18199.56,770.0,46662.39,84,0.31,14.5,Female,Salaried,Bachelor,Widowed,Personal Loan,No
+CUST00591,32,114929.02,700.0,224843.79,12,0.74,6.0,Female,Salaried,Diploma,Widowed,Business Loan,Yes
+CUST00592,69,116383.64,767.0,269641.82,24,0.38,13.63,Male,Business,High School,Widowed,Business Loan,No
+CUST00593,33,58101.47,610.0,492798.88,84,0.6,8.09,Male,Contract,Master,Single,Personal Loan,Yes
+CUST00594,43,108462.85,691.0,91350.69,72,0.33,11.36,Male,Salaried,Bachelor,Divorced,Home Loan,No
+CUST00595,45,54537.5,596.0,66071.44,12,0.35,8.72,Male,Salaried,High School,Married,Business Loan,No
+CUST00596,55,44053.73,687.0,14266.01,24,0.32,14.4,Female,Business,Diploma,Widowed,Home Loan,No
+CUST00597,61,123546.15,671.0,86230.0,12,0.55,17.29,Other,Business,PhD,Married,Business Loan,Yes
+CUST00598,50,70799.93,668.0,111563.76,12,0.43,16.92,Other,Salaried,PhD,Single,Education Loan,No
+CUST00599,37,113622.76,669.0,318984.66,24,0.71,12.58,Female,Self-Employed,Bachelor,Divorced,Car Loan,Yes
+CUST00600,69,88185.97,735.0,117656.33,24,0.23,11.01,Female,Salaried,High School,Widowed,Business Loan,No
+CUST00601,40,177464.93,559.0,20055.2,12,0.12,15.64,Other,Self-Employed,Master,Single,Education Loan,No
+CUST00602,68,42232.06,613.0,415042.99,84,0.33,13.88,Other,Business,High School,Single,Personal Loan,No
+CUST00603,45,93264.97,677.0,189141.89,60,0.48,7.39,Female,,PhD,Divorced,Education Loan,No
+CUST00604,42,128233.97,592.0,183311.38,24,0.65,15.67,Female,Contract,Bachelor,Widowed,Personal Loan,No
+CUST00605,33,82078.3,683.0,158214.72,72,0.29,10.58,Male,Business,Diploma,Divorced,Business Loan,No
+CUST00606,39,175901.38,676.0,487932.91,36,0.51,7.46,Male,Salaried,High School,Divorced,Personal Loan,No
+CUST00607,69,134945.8,575.0,93356.55,48,0.3,8.66,Other,Salaried,PhD,Married,Education Loan,No
+CUST00608,56,124431.38,571.0,450136.65,12,0.48,8.48,Female,Business,Master,Married,Car Loan,No
+CUST00609,32,140643.6,483.0,390633.63,12,0.67,11.75,Other,Business,Bachelor,Divorced,Home Loan,Yes
+CUST00610,61,172329.08,588.0,47475.18,48,0.21,8.05,Male,Contract,Diploma,Married,Home Loan,No
+CUST00611,39,165066.62,681.0,493497.26,60,0.33,6.61,Male,Business,High School,Single,Car Loan,No
+CUST00612,32,135334.22,692.0,142969.32,48,0.75,6.61,Other,Salaried,Master,Divorced,Home Loan,Yes
+CUST00613,29,139364.19,695.0,58305.63,24,0.66,12.58,Male,Contract,Diploma,Widowed,Business Loan,No
+CUST00614,27,41639.38,622.0,416363.97,48,0.45,14.55,Female,Salaried,PhD,Widowed,Business Loan,No
+CUST00615,48,34652.37,679.0,356271.01,12,0.41,9.18,Other,Self-Employed,PhD,Single,Education Loan,Yes
+CUST00616,34,110486.53,710.0,312437.21,48,0.25,5.45,Female,Business,Master,Widowed,Education Loan,No
+CUST00617,51,20975.56,585.0,86430.62,36,0.41,6.65,Female,Self-Employed,PhD,Widowed,Personal Loan,No
+CUST00618,39,96141.73,689.0,244463.1,72,0.64,16.89,Male,Salaried,Bachelor,Divorced,Education Loan,No
+CUST00619,67,52076.63,729.0,392472.45,24,0.53,11.42,Female,Self-Employed,Master,Single,Business Loan,No
+CUST00620,36,74054.68,643.0,158775.73,48,0.25,10.9,Other,Self-Employed,PhD,Divorced,Education Loan,No
+CUST00621,25,143680.37,760.0,162728.02,12,0.19,5.49,Female,Salaried,High School,Single,Home Loan,Yes
+CUST00622,55,170480.48,645.0,11539.04,84,0.24,14.47,Female,Salaried,PhD,Divorced,Personal Loan,No
+CUST00623,32,29731.44,615.0,95379.27,72,0.17,11.86,Female,Business,Bachelor,Divorced,Personal Loan,No
+CUST00624,45,104547.24,722.0,438948.76,24,0.12,7.63,Female,Self-Employed,Diploma,Married,Business Loan,No
+CUST00625,41,160970.42,832.0,226455.78,12,0.34,6.43,Female,Contract,Diploma,Widowed,Education Loan,No
+CUST00626,56,31366.38,686.0,492274.9,60,0.13,9.98,Male,Contract,PhD,Single,Home Loan,No
+CUST00627,43,151571.28,728.0,203896.9,36,0.17,15.88,Other,Salaried,Diploma,Widowed,Education Loan,No
+CUST00628,36,75963.82,642.0,360441.36,60,0.43,16.25,Male,Salaried,PhD,Married,Car Loan,No
+CUST00629,59,70179.34,587.0,148140.33,36,0.17,12.84,Other,Self-Employed,Bachelor,Single,Education Loan,No
+CUST00630,65,176349.55,692.0,188266.72,48,0.09,14.46,Other,Salaried,Diploma,Married,Business Loan,No
+CUST00631,62,50539.17,704.0,103455.73,24,0.27,6.5,Other,Contract,High School,Widowed,Education Loan,No
+CUST00632,59,130297.42,653.0,180060.56,48,0.2,12.65,Other,Business,PhD,Divorced,Personal Loan,No
+CUST00633,34,151073.4,727.0,278146.39,36,0.41,13.67,Other,Business,Diploma,Married,Home Loan,No
+CUST00634,51,24671.73,631.0,495968.71,36,0.12,7.61,Female,Self-Employed,Bachelor,Married,Business Loan,No
+CUST00635,25,126602.44,612.0,335458.84,36,0.58,16.44,Male,Business,Bachelor,Divorced,Car Loan,No
+CUST00636,55,172151.1,760.0,107630.52,72,0.68,7.53,Male,Salaried,High School,Widowed,Home Loan,No
+CUST00637,43,38123.63,760.0,32031.11,12,0.57,9.08,Female,Salaried,Bachelor,Married,Home Loan,No
+CUST00638,49,163187.85,632.0,71914.68,24,0.42,13.07,Other,Salaried,Bachelor,Widowed,Personal Loan,No
+CUST00639,63,114353.82,809.0,285652.05,48,0.65,13.3,Male,Salaried,Diploma,Divorced,Personal Loan,No
+CUST00640,31,117889.94,658.0,384928.56,48,0.54,14.09,Female,Self-Employed,PhD,Single,Personal Loan,No
+CUST00641,38,117296.96,686.0,470805.41,60,0.06,6.46,Female,Business,Master,Married,Business Loan,No
+CUST00642,67,66411.41,674.0,17753.35,36,0.33,16.04,Male,Contract,Bachelor,Widowed,Education Loan,No
+CUST00643,32,169502.69,719.0,266152.47,84,0.65,11.93,Male,Business,Bachelor,Divorced,Home Loan,Yes
+CUST00644,29,171470.77,700.0,240725.0,36,0.29,11.13,Other,Salaried,Master,Divorced,Education Loan,No
+CUST00645,30,119299.35,699.0,331466.96,36,0.07,17.75,Other,Contract,Bachelor,Married,Education Loan,No
+CUST00646,64,144914.48,604.0,284193.64,84,0.57,14.62,Male,Self-Employed,Diploma,Single,Personal Loan,No
+CUST00647,37,117185.79,553.0,346649.18,48,0.61,6.53,Other,Salaried,Diploma,Married,Education Loan,No
+CUST00648,58,96472.55,766.0,332460.47,60,0.16,14.84,Female,Salaried,Master,Widowed,Home Loan,No
+CUST00649,27,125052.86,639.0,67335.75,12,0.43,6.24,Other,Contract,Bachelor,Divorced,Home Loan,No
+CUST00650,66,107586.24,676.0,401861.78,84,0.18,5.36,Other,Self-Employed,Bachelor,Single,Car Loan,No
+CUST00651,33,114791.09,705.0,70383.96,72,0.55,10.25,Female,Contract,PhD,Widowed,Business Loan,Yes
+CUST00652,60,144980.87,802.0,352280.01,24,0.24,17.92,Other,Self-Employed,Bachelor,Married,Education Loan,No
+CUST00653,62,95906.42,692.0,213911.23,84,0.27,7.27,Female,Salaried,Diploma,Divorced,Business Loan,No
+CUST00654,29,24602.17,650.0,261786.86,12,0.64,13.74,Other,Business,High School,Married,Business Loan,No
+CUST00655,70,44567.92,641.0,452616.03,48,0.38,7.25,Male,Salaried,High School,Single,Business Loan,No
+CUST00656,47,89054.37,677.0,446043.03,72,0.52,14.42,Other,Business,High School,Single,Business Loan,No
+CUST00657,22,135421.9,612.0,410749.59,72,0.33,11.57,Male,Business,High School,Single,Home Loan,Yes
+CUST00658,25,114111.14,682.0,259972.71,72,0.26,13.84,Male,Self-Employed,Bachelor,Single,Education Loan,No
+CUST00659,49,123347.66,676.0,370757.51,36,0.49,7.64,Male,Contract,Bachelor,Single,Car Loan,No
+CUST00660,57,95643.19,803.0,261319.56,24,0.16,14.69,Male,Self-Employed,PhD,Married,Business Loan,No
+CUST00661,58,117750.21,674.0,436106.98,48,0.31,17.94,Male,Salaried,Bachelor,Single,Car Loan,No
+CUST00662,39,71300.82,536.0,207360.16,48,0.2,13.65,Female,Contract,High School,Single,Home Loan,Yes
+CUST00663,28,94169.58,850.0,485415.32,72,0.54,11.42,Female,Business,Master,Divorced,Home Loan,No
+CUST00664,68,138573.21,752.0,466838.15,48,0.71,17.0,Female,Business,Master,Single,Personal Loan,No
+CUST00665,65,159236.91,836.0,373385.28,24,0.75,5.21,Male,Salaried,Diploma,Divorced,Business Loan,No
+CUST00666,21,88252.16,593.0,146913.78,24,0.37,14.49,Other,Contract,Diploma,Divorced,Personal Loan,Yes
+CUST00667,42,25073.19,663.0,74510.26,60,0.23,16.55,Female,Salaried,Bachelor,Divorced,Car Loan,No
+CUST00668,37,44190.95,731.0,428804.69,84,0.36,5.8,Other,Salaried,Master,Married,Education Loan,No
+CUST00669,27,21379.5,720.0,90998.12,84,0.64,10.85,Other,Self-Employed,High School,Married,Personal Loan,No
+CUST00670,45,123828.61,703.0,428587.79,60,0.19,7.66,Male,Salaried,High School,Widowed,Home Loan,No
+CUST00671,65,71834.97,515.0,250474.85,12,0.72,12.36,Male,Contract,High School,Widowed,Business Loan,No
+CUST00672,24,105881.54,552.0,209212.82,84,0.29,13.44,Male,Salaried,Bachelor,Divorced,Car Loan,No
+CUST00673,56,97910.85,794.0,452563.48,24,0.74,8.93,Female,Contract,Bachelor,Married,Home Loan,No
+CUST00674,26,31207.29,807.0,305886.98,24,0.64,10.98,Male,Business,PhD,Single,Education Loan,Yes
+CUST00675,51,83328.34,672.0,292540.86,84,0.62,8.63,Female,Salaried,High School,Widowed,Business Loan,No
+CUST00676,39,53730.9,784.0,283795.31,24,0.27,9.8,Female,Contract,High School,Married,Education Loan,No
+CUST00677,64,85780.77,603.0,191873.06,60,0.06,7.07,Female,Business,Bachelor,Single,Education Loan,No
+CUST00678,59,50979.68,620.0,394965.12,72,0.32,16.51,Female,Contract,Bachelor,Single,Business Loan,No
+CUST00679,47,154153.29,597.0,133871.24,72,0.26,5.13,Male,Business,PhD,Married,Business Loan,No
+CUST00680,30,46219.32,616.0,470058.53,48,0.08,16.47,Female,Self-Employed,PhD,Widowed,Education Loan,No
+CUST00681,46,173646.45,734.0,448052.75,72,0.4,12.43,Male,Salaried,Diploma,Married,Car Loan,No
+CUST00682,39,85376.99,615.0,175365.36,36,0.33,9.31,Male,Salaried,Master,Widowed,Business Loan,No
+CUST00683,59,155091.74,848.0,367437.25,60,0.49,14.4,Female,Business,High School,Divorced,Home Loan,No
+CUST00684,23,119859.9,715.0,290879.37,24,0.48,11.6,Male,Self-Employed,High School,Married,Personal Loan,No
+CUST00685,65,137126.75,761.0,175448.16,84,0.13,11.49,Other,Contract,PhD,Married,Car Loan,No
+CUST00686,33,142371.27,717.0,494375.61,72,0.73,6.43,Male,Self-Employed,PhD,Widowed,Business Loan,No
+CUST00687,70,99784.87,771.0,22366.3,60,0.18,10.06,Male,Contract,Diploma,Widowed,Business Loan,No
+CUST00688,48,106014.68,615.0,133796.56,72,0.36,8.13,Female,Contract,Master,Married,Car Loan,Yes
+CUST00689,40,101267.33,789.0,264836.29,12,0.39,5.2,Female,Salaried,Diploma,Single,Personal Loan,No
+CUST00690,48,113265.46,691.0,265756.97,24,0.62,9.68,Male,Business,Master,Single,Education Loan,No
+CUST00691,28,22761.9,771.0,298577.21,12,0.12,6.17,Female,Salaried,High School,Single,Home Loan,No
+CUST00692,61,82073.46,572.0,378321.32,24,0.35,8.34,Other,Salaried,Diploma,Divorced,Business Loan,No
+CUST00693,59,116202.57,694.0,315504.14,60,0.49,6.2,Other,Salaried,PhD,Divorced,Personal Loan,No
+CUST00694,21,114831.22,691.0,304137.92,48,0.2,6.31,Female,Contract,Diploma,Widowed,Home Loan,No
+CUST00695,23,146458.89,634.0,36222.09,72,0.49,7.59,Male,Salaried,Diploma,Divorced,Car Loan,No
+CUST00696,33,124111.51,703.0,194499.84,72,0.7,18.0,Other,Contract,High School,Single,Business Loan,No
+CUST00697,48,178725.6,795.0,123707.31,36,0.75,5.03,Other,Business,PhD,Married,Education Loan,No
+CUST00698,69,63984.43,628.0,140031.35,84,0.07,13.3,Male,Contract,PhD,Divorced,Car Loan,No
+CUST00699,45,76182.47,752.0,281625.36,12,0.21,6.84,Female,Contract,Bachelor,Divorced,Business Loan,No
+CUST00700,53,80183.24,595.0,107757.6,72,0.27,16.97,Other,Self-Employed,Bachelor,Single,Personal Loan,No
+CUST00701,58,93461.67,838.0,154035.06,60,0.33,6.22,Male,Salaried,Bachelor,Divorced,Home Loan,No
+CUST00702,26,153431.69,739.0,126171.51,48,0.22,17.42,Male,Salaried,High School,Widowed,Home Loan,No
+CUST00703,64,56198.32,809.0,474766.44,84,0.19,12.94,Other,Salaried,Diploma,Married,Business Loan,No
+CUST00704,65,143712.03,730.0,472886.21,60,0.72,5.02,Female,Salaried,PhD,Single,Car Loan,No
+CUST00705,52,83660.25,709.0,308871.36,12,0.69,16.62,Other,Self-Employed,PhD,Widowed,Education Loan,No
+CUST00706,65,115500.57,739.0,463016.01,36,0.08,11.78,Male,Self-Employed,Diploma,Single,Personal Loan,No
+CUST00707,67,120471.57,670.0,395048.2,72,0.29,8.41,Other,Self-Employed,PhD,Widowed,Business Loan,No
+CUST00708,41,78401.48,559.0,299074.46,60,0.33,14.97,Female,Self-Employed,Diploma,Married,Personal Loan,No
+CUST00709,36,101043.66,714.0,13153.25,84,0.22,17.05,Male,Salaried,High School,Married,Home Loan,No
+CUST00710,41,84911.05,623.0,388532.98,24,0.49,11.29,Female,Contract,High School,Widowed,Education Loan,No
+CUST00711,31,29199.51,597.0,354219.29,48,0.5,9.1,Other,Business,High School,Widowed,Personal Loan,No
+CUST00712,57,88820.79,728.0,311474.29,84,0.65,15.26,Other,Self-Employed,Diploma,Widowed,Business Loan,No
+CUST00713,56,33777.73,659.0,382607.91,60,0.57,13.86,Female,Contract,Diploma,Widowed,Education Loan,Yes
+CUST00714,55,83613.37,757.0,261331.86,48,0.43,16.55,Other,Self-Employed,Master,Widowed,Car Loan,No
+CUST00715,39,114052.78,621.0,355000.8,72,0.51,14.0,Female,Salaried,PhD,Widowed,Business Loan,Yes
+CUST00716,40,111865.21,645.0,468234.32,24,0.24,8.17,Other,Salaried,PhD,Married,Personal Loan,No
+CUST00717,38,125344.65,766.0,194144.46,36,0.47,17.11,Female,Contract,Master,Widowed,Education Loan,No
+CUST00718,67,33432.36,701.0,356979.7,84,0.39,6.36,Female,Contract,Master,Divorced,Business Loan,No
+CUST00719,61,123643.97,569.0,243087.03,36,0.14,8.48,Male,Contract,High School,Married,Education Loan,No
+CUST00720,69,68567.99,699.0,340455.83,24,0.22,11.76,Male,Salaried,Master,Single,Education Loan,No
+CUST00721,34,82645.44,791.0,383817.73,48,0.25,12.35,Female,Salaried,Diploma,Married,Education Loan,No
+CUST00722,35,156993.77,644.0,32271.73,72,0.7,5.2,Other,Business,Bachelor,Single,Personal Loan,No
+CUST00723,51,19462.93,725.0,326834.22,60,0.21,15.15,Other,Contract,Diploma,Single,Business Loan,No
+CUST00724,21,113322.85,616.0,121103.18,24,0.25,9.7,Other,Business,Master,Divorced,Home Loan,No
+CUST00725,23,114991.66,670.0,338315.94,12,0.31,10.28,Female,Self-Employed,PhD,Widowed,Home Loan,No
+CUST00726,36,82258.88,762.0,239481.79,48,0.51,15.52,Female,Business,Diploma,Widowed,Personal Loan,No
+CUST00727,43,56398.51,696.0,389040.84,36,0.13,9.93,Female,Self-Employed,PhD,Married,Personal Loan,No
+CUST00728,31,56017.19,777.0,70466.4,84,0.72,5.61,Female,Self-Employed,Diploma,Widowed,Education Loan,No
+CUST00729,32,161160.97,712.0,316897.95,24,0.66,7.29,Male,Business,PhD,Divorced,Business Loan,No
+CUST00730,30,89607.95,846.0,146450.66,36,0.45,17.43,Female,Contract,Diploma,Married,Business Loan,No
+CUST00731,52,71604.08,563.0,427961.18,48,0.52,5.92,Other,Self-Employed,PhD,Married,Car Loan,No
+CUST00732,36,90701.97,664.0,464907.92,36,0.06,9.61,Male,Contract,Bachelor,Married,Car Loan,No
+CUST00733,28,126441.25,599.0,498235.16,24,0.29,11.54,Other,Salaried,High School,Widowed,Home Loan,No
+CUST00734,58,41612.56,604.0,400043.63,48,0.61,11.41,Female,Self-Employed,Diploma,Widowed,Car Loan,Yes
+CUST00735,32,90808.28,604.0,379329.69,12,0.1,5.05,Male,Salaried,Bachelor,Widowed,Car Loan,No
+CUST00736,44,113237.27,693.0,115595.37,24,0.25,11.52,Female,Business,High School,Married,Home Loan,No
+CUST00737,48,171670.5,697.0,174643.46,60,0.46,9.99,Male,Contract,Diploma,Married,Home Loan,No
+CUST00738,28,58909.5,712.0,238184.45,72,0.23,17.64,Other,Business,Bachelor,Single,Car Loan,No
+CUST00739,48,76198.62,596.0,388956.71,24,0.7,7.07,Female,Self-Employed,Bachelor,Single,Business Loan,No
+CUST00740,56,79456.09,656.0,458333.27,48,0.14,9.6,Female,Salaried,Bachelor,Widowed,Car Loan,No
+CUST00741,46,116097.18,608.0,102678.16,84,0.61,10.45,Male,Self-Employed,Master,Married,Education Loan,Yes
+CUST00742,28,75790.59,750.0,461960.07,72,0.41,10.08,Male,Business,PhD,Widowed,Education Loan,No
+CUST00743,70,104428.93,615.0,350856.08,24,0.58,13.66,Female,Contract,High School,Widowed,Education Loan,Yes
+CUST00744,48,144650.03,664.0,309277.66,12,0.27,7.8,Male,Contract,PhD,Single,Personal Loan,No
+CUST00745,48,132272.47,722.0,107922.22,84,0.41,7.87,Female,Self-Employed,PhD,Divorced,Education Loan,No
+CUST00746,57,90311.72,634.0,37207.27,12,0.65,14.48,Male,Self-Employed,PhD,Widowed,Business Loan,Yes
+CUST00747,61,158003.02,732.0,288547.8,60,0.38,11.5,Other,Salaried,Bachelor,Divorced,Personal Loan,No
+CUST00748,56,108418.72,800.0,329242.68,84,0.3,10.4,Male,Business,PhD,Divorced,Personal Loan,Yes
+CUST00749,47,105464.75,694.0,113282.91,36,0.43,7.2,Other,Self-Employed,Master,Married,Education Loan,No
+CUST00750,37,23538.42,748.0,282663.54,84,0.55,7.44,Male,Salaried,Diploma,Married,Car Loan,Yes
+CUST00751,29,177844.26,524.0,429681.77,72,0.36,5.14,Male,Self-Employed,Bachelor,Widowed,Home Loan,No
+CUST00752,53,37921.27,648.0,419182.31,84,0.71,6.19,Female,Contract,High School,Single,Car Loan,Yes
+CUST00753,40,55443.21,694.0,464404.04,48,0.26,12.24,Male,Salaried,Diploma,Single,Car Loan,No
+CUST00754,33,26374.89,601.0,189284.05,48,0.38,16.59,Male,Salaried,Diploma,Widowed,Personal Loan,No
+CUST00755,48,121680.48,696.0,165844.29,36,0.58,8.73,Other,Self-Employed,Diploma,Widowed,Personal Loan,No
+CUST00756,68,54401.59,759.0,377218.74,84,0.53,9.26,Male,Business,PhD,Single,Personal Loan,Yes
+CUST00757,49,47161.69,539.0,221245.08,12,0.65,6.5,Female,Contract,PhD,Divorced,Business Loan,Yes
+CUST00758,33,32346.0,591.0,52898.85,12,0.75,10.05,Other,Business,Bachelor,Widowed,Business Loan,Yes
+CUST00759,66,34736.05,694.0,148572.55,24,0.35,5.48,Female,Salaried,PhD,Divorced,Home Loan,No
+CUST00760,55,112716.65,715.0,215105.32,60,0.13,16.93,Female,Business,PhD,Widowed,Personal Loan,No
+CUST00761,26,129489.67,735.0,153333.05,72,0.07,13.75,Female,Salaried,PhD,Widowed,Education Loan,No
+CUST00762,38,82375.4,688.0,172780.73,60,0.56,17.88,Female,Business,Bachelor,Divorced,Personal Loan,No
+CUST00763,25,95743.33,715.0,153950.19,84,0.66,16.48,Other,Self-Employed,Bachelor,Divorced,Business Loan,No
+CUST00764,67,129126.77,748.0,30334.59,60,0.2,11.15,Male,Business,Master,Single,Personal Loan,No
+CUST00765,45,20815.53,649.0,322176.4,24,0.16,11.76,Female,Salaried,Master,Widowed,Business Loan,No
+CUST00766,22,70347.17,634.0,302673.29,60,0.09,7.48,Other,Contract,Master,Married,Personal Loan,No
+CUST00767,30,175641.84,667.0,330157.91,36,0.63,11.01,Female,Contract,Master,Married,Education Loan,Yes
+CUST00768,50,111978.18,695.0,104231.85,24,0.27,16.74,Male,Contract,Diploma,Widowed,Home Loan,No
+CUST00769,70,59184.38,631.0,154870.73,36,0.33,5.66,Other,Salaried,Diploma,Widowed,Education Loan,No
+CUST00770,65,102520.27,650.0,313611.8,84,0.4,16.23,Other,Business,Master,Widowed,Business Loan,No
+CUST00771,25,73509.87,710.0,303817.51,24,0.64,9.43,Male,Contract,Master,Divorced,Car Loan,No
+CUST00772,53,104223.69,692.0,258101.85,84,0.51,16.69,Other,Contract,High School,Married,Education Loan,No
+CUST00773,21,38370.12,666.0,181702.49,84,0.48,17.23,Male,Contract,Diploma,Married,Personal Loan,No
+CUST00774,38,39499.77,549.0,457336.19,60,0.17,13.72,Other,Self-Employed,High School,Married,Home Loan,No
+CUST00775,52,41253.86,680.0,176487.42,36,0.41,13.64,Other,Salaried,High School,Widowed,Personal Loan,No
+CUST00776,67,170250.81,607.0,233253.39,84,0.55,10.89,Male,Salaried,PhD,Divorced,Personal Loan,No
+CUST00777,69,136729.62,,342275.78,36,0.73,15.86,Male,Salaried,Bachelor,Widowed,Education Loan,No
+CUST00778,31,44305.87,657.0,276080.5,36,0.19,17.5,Other,Salaried,Diploma,Single,Home Loan,No
+CUST00779,41,48512.55,605.0,179974.13,24,0.06,15.08,Other,Salaried,Master,Single,Car Loan,No
+CUST00780,46,136394.37,675.0,223465.95,48,0.1,13.09,Male,Self-Employed,Master,Married,Personal Loan,No
+CUST00781,45,43298.54,775.0,399295.6,60,0.31,12.89,Male,Business,Bachelor,Widowed,Home Loan,No
+CUST00782,42,55998.93,727.0,146283.29,84,0.62,16.04,Other,Self-Employed,Diploma,Single,Car Loan,No
+CUST00783,47,174062.19,696.0,79705.07,36,0.05,12.04,Other,Contract,Master,Single,Personal Loan,No
+CUST00784,69,59359.66,581.0,163449.97,72,0.37,15.45,Other,Self-Employed,Master,Widowed,Home Loan,Yes
+CUST00785,33,125184.44,802.0,426271.77,48,0.28,11.62,Male,Salaried,PhD,Divorced,Education Loan,No
+CUST00786,53,176538.27,633.0,53604.96,84,0.09,5.81,Other,Self-Employed,High School,Widowed,Personal Loan,Yes
+CUST00787,54,78636.08,750.0,495931.08,72,0.37,9.99,Female,Salaried,Master,Widowed,Personal Loan,No
+CUST00788,61,20837.59,656.0,275091.42,60,0.23,10.78,Male,Self-Employed,Diploma,Divorced,Home Loan,No
+CUST00789,55,57551.86,743.0,492574.41,60,0.3,6.84,Other,Salaried,Bachelor,Married,Personal Loan,No
+CUST00790,21,152602.1,778.0,470108.25,36,0.54,6.33,Male,Contract,PhD,Married,Car Loan,Yes
+CUST00791,41,158066.63,729.0,231878.72,36,0.42,11.96,Female,Salaried,Diploma,Married,Personal Loan,No
+CUST00792,68,142500.14,737.0,107260.63,84,0.14,6.11,Male,Self-Employed,PhD,Divorced,Business Loan,No
+CUST00793,26,36323.79,673.0,90793.54,24,0.72,8.94,Other,Contract,High School,Single,Car Loan,No
+CUST00794,48,146872.68,647.0,127594.79,48,0.5,14.68,Female,Self-Employed,Master,Divorced,Home Loan,Yes
+CUST00795,37,166825.8,690.0,357964.99,84,0.59,17.54,Female,Contract,Diploma,Widowed,Car Loan,No
+CUST00796,25,115298.75,655.0,143745.5,48,0.11,14.33,Other,Business,Bachelor,Divorced,Business Loan,No
+CUST00797,51,170421.81,850.0,177298.38,36,0.08,17.9,Other,Business,High School,Single,Business Loan,No
+CUST00798,25,151947.9,606.0,229901.61,60,0.06,14.08,Other,Business,High School,Single,Personal Loan,No
+CUST00799,58,126049.39,755.0,457484.01,36,0.18,8.82,Male,Self-Employed,PhD,Widowed,Personal Loan,No
+CUST00800,23,111504.01,719.0,102802.77,60,0.34,13.74,Male,Self-Employed,High School,Married,Education Loan,No
+CUST00801,43,74468.93,697.0,12463.01,84,0.71,14.13,Male,Contract,Diploma,Single,Car Loan,No
+CUST00802,57,43804.57,791.0,39447.24,60,0.37,9.83,Other,Contract,PhD,Single,Education Loan,No
+CUST00803,57,116002.54,702.0,453335.51,36,0.25,5.23,Other,Contract,High School,Single,Business Loan,No
+CUST00804,30,69534.07,632.0,327283.07,12,0.44,14.14,Male,Contract,Bachelor,Widowed,Personal Loan,No
+CUST00805,30,158363.06,702.0,143789.9,48,0.13,5.28,Female,Salaried,Diploma,Single,Personal Loan,No
+CUST00806,39,178920.58,666.0,96824.33,72,0.48,13.21,Male,Business,Bachelor,Married,Personal Loan,No
+CUST00807,37,139893.3,718.0,154190.7,60,0.45,7.13,Female,Salaried,Bachelor,Widowed,Home Loan,No
+CUST00808,41,32658.03,741.0,66250.49,60,0.6,12.35,Other,Salaried,PhD,Married,Business Loan,No
+CUST00809,34,64767.07,616.0,471351.13,12,0.74,11.55,Other,Salaried,Master,Single,Personal Loan,No
+CUST00810,29,35675.76,770.0,394261.03,84,0.23,5.18,Male,Salaried,PhD,Single,Business Loan,No
+CUST00811,66,123382.89,661.0,236571.68,84,0.41,9.72,Male,Business,Diploma,Married,Personal Loan,No
+CUST00812,21,141960.92,713.0,433831.68,84,0.69,12.81,Other,Salaried,Diploma,Widowed,Car Loan,No
+CUST00813,65,167959.32,726.0,132234.52,72,0.6,16.03,Male,Contract,PhD,Widowed,Business Loan,Yes
+CUST00814,33,88983.92,708.0,361389.08,24,0.39,16.55,Other,Self-Employed,Master,Married,Education Loan,No
+CUST00815,24,164022.86,672.0,429504.92,12,0.71,11.29,Other,Contract,PhD,Single,Home Loan,No
+CUST00816,21,160218.37,643.0,184816.67,72,0.09,14.47,Female,Self-Employed,Diploma,Divorced,Education Loan,No
+CUST00817,69,69385.71,660.0,381157.58,12,0.7,9.11,Male,Contract,Master,Married,Business Loan,Yes
+CUST00818,60,158761.9,797.0,154585.45,60,0.09,9.45,Other,Contract,Diploma,Married,Personal Loan,No
+CUST00819,52,78858.9,615.0,156440.0,48,0.43,7.53,Male,Self-Employed,Master,Married,Business Loan,Yes
+CUST00820,54,66092.82,626.0,62458.02,12,0.67,12.31,Female,Business,Master,Single,Home Loan,Yes
+CUST00821,48,123150.09,623.0,225628.44,24,0.23,9.09,Female,Salaried,PhD,Widowed,Business Loan,Yes
+CUST00822,51,71197.76,690.0,367558.83,36,0.38,6.1,Male,Contract,PhD,Single,Personal Loan,No
+CUST00823,28,120093.82,566.0,470708.19,72,0.28,13.91,Male,Business,PhD,Married,Education Loan,No
+CUST00824,59,116792.75,578.0,305860.53,12,0.72,14.2,Other,Salaried,Master,Single,Car Loan,Yes
+CUST00825,46,109277.11,660.0,432936.41,12,0.63,9.68,Female,Business,Master,Single,Education Loan,No
+CUST00826,54,79627.99,583.0,413022.38,24,0.55,6.0,Female,Business,Diploma,Married,Personal Loan,No
+CUST00827,23,106856.95,590.0,94938.1,48,0.46,10.54,Female,Salaried,Bachelor,Single,Personal Loan,No
+CUST00828,70,114630.65,584.0,248050.54,12,0.62,10.75,Male,Contract,PhD,Divorced,Home Loan,No
+CUST00829,32,106401.28,617.0,67292.53,12,0.32,13.69,Other,Business,Diploma,Single,Business Loan,No
+CUST00830,21,89995.95,735.0,344255.05,48,0.36,9.1,Male,Contract,Diploma,Single,Business Loan,No
+CUST00831,64,20376.06,752.0,475450.84,24,0.56,13.87,Male,Contract,High School,Widowed,Education Loan,No
+CUST00832,25,113104.0,824.0,77173.83,72,0.3,16.33,Male,Contract,PhD,Widowed,Car Loan,No
+CUST00833,50,45287.99,821.0,369602.73,72,0.09,8.09,Other,Salaried,Diploma,Married,Car Loan,No
+CUST00834,50,122097.31,739.0,319796.69,12,0.1,17.73,Male,Self-Employed,High School,Married,Home Loan,No
+CUST00835,37,141013.78,757.0,295966.47,48,0.13,10.02,Female,Contract,PhD,Widowed,Personal Loan,No
+CUST00836,68,99072.14,690.0,201158.91,12,0.66,8.47,Female,Self-Employed,Master,Divorced,Home Loan,No
+CUST00837,67,105862.91,719.0,184014.51,84,0.38,10.48,Female,Self-Employed,High School,Single,Business Loan,No
+CUST00838,43,172139.53,826.0,32172.1,36,0.55,6.23,Other,Business,Master,Divorced,Personal Loan,No
+CUST00839,35,155241.11,708.0,116775.27,72,0.33,6.63,Male,Contract,Bachelor,Divorced,Home Loan,No
+CUST00840,57,166106.32,766.0,17436.67,84,0.23,10.39,Other,Contract,Bachelor,Widowed,Education Loan,No
+CUST00841,41,149830.14,610.0,294894.38,60,0.29,14.91,Male,Contract,Bachelor,Married,Business Loan,No
+CUST00842,34,35644.77,630.0,61868.09,36,0.61,16.7,Female,Self-Employed,Bachelor,Single,Car Loan,Yes
+CUST00843,22,42136.68,703.0,437779.5,12,0.49,13.64,Male,Salaried,Diploma,Married,Home Loan,Yes
+CUST00844,31,103313.06,691.0,266340.08,24,0.71,6.37,Male,Self-Employed,Bachelor,Divorced,Business Loan,No
+CUST00845,59,57863.28,634.0,352848.06,72,0.53,13.74,Male,Contract,Diploma,Divorced,Business Loan,No
+CUST00846,58,95224.67,850.0,211319.98,60,0.45,13.26,Other,Contract,Diploma,Married,Car Loan,No
+CUST00847,54,81887.18,693.0,284684.11,36,0.48,15.47,Male,Contract,PhD,Married,Car Loan,No
+CUST00848,58,107005.11,647.0,471903.0,72,0.71,15.73,Male,Self-Employed,Diploma,Widowed,Car Loan,No
+CUST00849,70,138993.87,691.0,50539.68,48,0.6,16.29,Male,Contract,Diploma,Married,Home Loan,No
+CUST00850,54,133909.53,682.0,134429.51,24,0.07,10.38,Other,Business,Bachelor,Married,Car Loan,No
+CUST00851,38,102439.93,694.0,392194.28,36,0.42,14.07,Other,Contract,Diploma,Widowed,Education Loan,No
+CUST00852,50,151227.73,560.0,58381.23,48,0.53,8.49,Other,Salaried,Master,Married,Business Loan,No
+CUST00853,35,87799.66,777.0,47073.94,84,0.57,17.99,Male,Business,Bachelor,Divorced,Car Loan,No
+CUST00854,47,163267.71,781.0,187155.29,12,0.2,7.28,Female,Contract,High School,Married,Business Loan,No
+CUST00855,54,29547.4,790.0,55162.3,48,0.66,5.13,Female,Business,Bachelor,Single,Personal Loan,Yes
+CUST00856,58,172654.92,704.0,296688.44,36,0.72,6.93,Female,Contract,Diploma,Divorced,Personal Loan,No
+CUST00857,53,124060.28,730.0,120874.87,36,0.22,15.09,Male,Salaried,Master,Widowed,Car Loan,No
+CUST00858,44,79572.07,615.0,448892.0,84,0.67,10.81,Female,Contract,Bachelor,Divorced,Business Loan,Yes
+CUST00859,35,49938.97,742.0,393915.04,12,0.12,10.82,Female,Business,Master,Widowed,Personal Loan,No
+CUST00860,50,95627.68,,352855.55,48,0.09,17.42,Female,Salaried,High School,Single,Car Loan,No
+CUST00861,62,49518.45,645.0,312302.57,48,0.14,16.96,Male,Self-Employed,High School,Single,Business Loan,No
+CUST00862,37,44945.72,745.0,433098.21,12,0.09,9.05,Female,Salaried,PhD,Divorced,Car Loan,No
+CUST00863,25,118010.98,748.0,119300.41,48,0.64,7.72,Female,Salaried,PhD,Married,Business Loan,No
+CUST00864,49,102739.73,685.0,437823.33,72,0.09,16.03,Male,Salaried,Bachelor,Divorced,Personal Loan,No
+CUST00865,24,126555.56,713.0,396851.23,12,0.24,16.78,Other,Business,PhD,Divorced,Car Loan,No
+CUST00866,30,168596.15,603.0,376598.8,24,0.12,12.04,Female,,Master,Single,Personal Loan,No
+CUST00867,37,104226.15,773.0,285015.28,36,0.26,13.18,Other,Contract,PhD,Widowed,Car Loan,No
+CUST00868,30,112110.99,613.0,130659.64,24,0.11,8.34,Female,Salaried,Master,Divorced,Home Loan,No
+CUST00869,37,32519.47,627.0,217538.48,72,0.52,15.41,Male,Salaried,PhD,Married,Personal Loan,Yes
+CUST00870,40,134257.0,685.0,398849.62,84,0.14,13.22,Other,Contract,PhD,Single,Personal Loan,No
+CUST00871,44,82784.64,764.0,25571.46,72,0.65,11.55,Other,Contract,PhD,Divorced,Education Loan,No
+CUST00872,25,176229.49,764.0,393204.88,60,0.62,5.78,Other,Self-Employed,Diploma,Divorced,Personal Loan,No
+CUST00873,54,151354.19,680.0,127634.66,60,0.06,16.91,Other,Salaried,Diploma,Married,Business Loan,No
+CUST00874,26,102641.93,738.0,80711.51,60,0.68,13.0,Female,Business,PhD,Divorced,Car Loan,No
+CUST00875,22,37962.07,553.0,66693.65,12,0.07,7.5,Female,Salaried,Master,Divorced,Home Loan,Yes
+CUST00876,33,157225.36,626.0,23352.51,48,0.22,12.88,Other,Salaried,Bachelor,Divorced,Business Loan,No
+CUST00877,63,147564.54,628.0,266557.38,72,0.07,13.81,Female,Contract,High School,Divorced,Business Loan,No
+CUST00878,63,47902.79,774.0,116947.34,24,0.29,11.84,Other,Self-Employed,Diploma,Married,Business Loan,No
+CUST00879,68,65835.08,729.0,494821.57,84,0.41,14.34,Other,Salaried,PhD,Divorced,Business Loan,No
+CUST00880,31,146531.98,694.0,291474.01,24,0.61,12.56,Male,Business,High School,Divorced,Home Loan,No
+CUST00881,67,48007.01,701.0,77563.78,24,0.29,17.32,Other,Salaried,Diploma,Divorced,Education Loan,No
+CUST00882,43,166675.9,798.0,347493.64,24,0.54,5.7,Female,Business,Bachelor,Single,Personal Loan,No
+CUST00883,36,86773.44,667.0,449894.35,84,0.18,6.38,Other,Contract,Master,Married,Business Loan,No
+CUST00884,51,32100.31,581.0,375137.95,60,0.58,7.26,Male,Self-Employed,PhD,Single,Personal Loan,No
+CUST00885,31,150151.28,762.0,47455.53,24,0.22,13.97,Female,Salaried,Bachelor,Single,Personal Loan,No
+CUST00886,36,78508.57,694.0,448983.25,84,0.15,13.39,Male,Self-Employed,Diploma,Married,Business Loan,No
+CUST00887,28,103292.87,752.0,399025.4,84,0.18,16.6,Male,Salaried,PhD,Single,Education Loan,No
+CUST00888,24,36193.3,677.0,87568.91,48,0.18,14.53,Other,Business,High School,Single,Personal Loan,No
+CUST00889,60,18418.61,617.0,35375.09,84,0.41,11.61,Male,Self-Employed,Master,Single,Car Loan,No
+CUST00890,24,121353.6,710.0,283082.18,60,0.64,17.89,Male,Salaried,Diploma,Married,Personal Loan,No
+CUST00891,45,101458.38,681.0,86457.55,24,0.11,8.46,Female,Contract,Master,Divorced,Business Loan,No
+CUST00892,23,114153.25,694.0,418949.57,84,0.54,15.83,Male,Business,PhD,Widowed,Home Loan,No
+CUST00893,52,146586.5,801.0,185583.98,12,0.51,10.55,Other,Self-Employed,Bachelor,Widowed,Personal Loan,No
+CUST00894,23,122750.16,598.0,457317.3,84,0.66,13.43,Other,Salaried,Master,Married,Education Loan,No
+CUST00895,47,46313.3,701.0,287187.2,36,0.22,14.45,Other,Self-Employed,High School,Widowed,Car Loan,No
+CUST00896,49,76445.15,619.0,99509.47,36,0.37,13.24,Male,Salaried,Diploma,Married,Car Loan,No
+CUST00897,52,164754.36,486.0,78403.45,36,0.7,6.83,Female,Business,High School,Married,Home Loan,No
+CUST00898,70,142731.04,676.0,292471.49,84,0.51,10.76,Other,Contract,Master,Widowed,Home Loan,No
+CUST00899,39,108175.2,682.0,383322.97,60,0.32,12.3,Male,Business,Bachelor,Single,Personal Loan,No
+CUST00900,41,59414.49,727.0,392937.77,24,0.14,16.04,Other,Self-Employed,Bachelor,Divorced,Business Loan,No
+CUST00901,25,66933.8,664.0,145121.13,72,0.23,10.77,Other,Self-Employed,High School,Widowed,Education Loan,No
+CUST00902,38,136577.21,568.0,110080.91,72,0.46,16.94,Female,Salaried,PhD,Widowed,Car Loan,Yes
+CUST00903,48,155890.23,618.0,18210.59,72,0.55,10.72,Other,Business,PhD,Widowed,Home Loan,No
+CUST00904,62,126770.8,779.0,342807.58,60,0.14,12.13,Female,Salaried,Bachelor,Widowed,Education Loan,No
+CUST00905,42,149143.86,617.0,47518.45,48,0.47,15.35,Male,Business,High School,Married,Business Loan,No
+CUST00906,41,142198.29,799.0,216172.99,12,0.44,12.58,Other,Self-Employed,High School,Married,Car Loan,No
+CUST00907,26,42252.04,759.0,304824.26,12,0.41,17.48,Male,Salaried,High School,Divorced,Car Loan,No
+CUST00908,21,86679.06,656.0,469183.38,36,0.53,13.58,Male,Salaried,Master,Divorced,Business Loan,No
+CUST00909,25,42783.38,625.0,162783.05,36,0.64,11.8,Male,Business,PhD,Widowed,Car Loan,No
+CUST00910,61,56108.16,759.0,132388.36,84,0.28,5.31,Other,Contract,PhD,Widowed,Business Loan,No
+CUST00911,32,158820.06,662.0,330538.48,72,0.67,10.38,Female,Business,Master,Widowed,Car Loan,No
+CUST00912,46,94608.5,564.0,313427.13,84,0.16,8.89,Other,Contract,Diploma,Divorced,Personal Loan,No
+CUST00913,66,104728.01,722.0,172733.79,72,0.17,14.73,Male,Business,Master,Widowed,Business Loan,No
+CUST00914,54,,711.0,464769.9,36,0.24,7.71,Female,Self-Employed,High School,Single,Education Loan,No
+CUST00915,69,68588.03,765.0,423982.54,24,0.13,7.67,Male,Salaried,Master,Divorced,Personal Loan,No
+CUST00916,34,55299.88,706.0,119751.45,48,0.21,7.46,Female,Business,High School,Single,Education Loan,No
+CUST00917,46,51402.16,639.0,127179.85,84,0.12,6.63,Other,Self-Employed,Bachelor,Widowed,Car Loan,No
+CUST00918,65,121349.65,775.0,261027.17,48,0.63,9.04,Female,Business,High School,Married,Education Loan,Yes
+CUST00919,47,59615.18,783.0,389050.33,48,0.15,16.52,Other,Salaried,PhD,Single,Personal Loan,No
+CUST00920,29,120386.51,697.0,31579.79,48,0.57,15.07,Male,Business,Master,Divorced,Business Loan,No
+CUST00921,46,27469.65,685.0,349734.23,36,0.08,14.56,Female,Contract,High School,Single,Home Loan,No
+CUST00922,67,40967.45,581.0,327635.59,12,0.71,15.37,Male,Salaried,Diploma,Divorced,Education Loan,Yes
+CUST00923,42,62475.52,634.0,123425.25,36,0.55,8.5,Female,Contract,Bachelor,Widowed,Home Loan,Yes
+CUST00924,67,114721.6,737.0,343862.98,48,0.05,16.54,Other,Self-Employed,Diploma,Single,Education Loan,No
+CUST00925,50,127486.28,638.0,470689.76,36,0.58,6.78,Female,Self-Employed,Diploma,Married,Education Loan,No
+CUST00926,63,89720.15,571.0,32925.06,48,0.41,9.37,Female,Business,Diploma,Single,Business Loan,Yes
+CUST00927,68,90218.13,850.0,166629.51,60,0.6,12.63,Other,Contract,Bachelor,Married,Car Loan,No
+CUST00928,37,135371.73,570.0,224706.59,72,0.42,6.34,Other,Contract,Bachelor,Divorced,Personal Loan,No
+CUST00929,46,20563.02,849.0,450637.58,12,0.5,14.49,Other,Salaried,Bachelor,Widowed,Personal Loan,Yes
+CUST00930,56,73256.58,657.0,481508.11,60,0.6,10.03,Female,Contract,Bachelor,Widowed,Personal Loan,Yes
+CUST00931,21,150630.54,674.0,227616.47,24,0.33,15.2,Male,Contract,Diploma,Married,Car Loan,Yes
+CUST00932,28,115721.54,630.0,377513.92,36,0.05,11.41,Female,Salaried,PhD,Divorced,Home Loan,No
+CUST00933,69,72630.8,739.0,270513.9,24,0.64,7.35,Female,Salaried,PhD,Widowed,Personal Loan,No
+CUST00934,55,164695.02,572.0,273513.64,84,0.32,14.55,Male,Contract,Bachelor,Divorced,Home Loan,No
+CUST00935,35,143164.88,542.0,146268.76,36,0.4,8.28,Other,Business,Master,Married,Car Loan,Yes
+CUST00936,67,60913.06,801.0,116308.56,72,0.06,11.38,Female,Salaried,High School,Married,Car Loan,No
+CUST00937,42,122536.95,620.0,151122.62,60,0.39,5.98,Male,Salaried,Master,Single,Business Loan,No
+CUST00938,34,114511.62,736.0,282600.72,72,0.74,13.03,Other,Contract,Master,Widowed,Personal Loan,No
+CUST00939,46,82992.44,599.0,24286.04,84,0.24,13.66,Other,Contract,Master,Widowed,Business Loan,No
+CUST00940,48,77446.88,733.0,454551.98,48,0.33,9.92,Female,Salaried,PhD,Single,Personal Loan,No
+CUST00941,43,73656.8,806.0,86579.02,72,0.53,17.41,Other,Contract,High School,Married,Car Loan,No
+CUST00942,34,117979.24,640.0,117843.45,72,0.62,16.36,Other,Salaried,Master,Married,Car Loan,Yes
+CUST00943,44,89670.41,535.0,263955.33,48,0.34,14.2,Male,Business,Bachelor,Married,Education Loan,No
+CUST00944,22,152761.82,807.0,357956.24,36,0.27,14.28,Male,Business,PhD,Married,Education Loan,Yes
+CUST00945,65,126475.62,749.0,56907.24,48,0.71,8.28,Other,Salaried,Bachelor,Divorced,Car Loan,No
+CUST00946,46,29328.92,644.0,165670.4,60,0.52,13.54,Male,Salaried,Bachelor,Widowed,Car Loan,Yes
+CUST00947,34,121707.25,664.0,484650.56,72,0.13,7.58,Other,Self-Employed,Master,Widowed,Home Loan,No
+CUST00948,27,61925.88,597.0,138548.05,48,0.1,6.87,Female,Self-Employed,Bachelor,Married,Home Loan,Yes
+CUST00949,23,114035.54,787.0,163394.57,84,0.39,17.99,Male,Contract,High School,Married,Business Loan,No
+CUST00950,67,128181.37,640.0,419884.26,84,0.2,13.09,Other,Contract,Bachelor,Married,Education Loan,Yes
+CUST00951,43,55394.33,574.0,34605.07,72,0.23,10.6,Other,Salaried,Master,Widowed,Education Loan,No
+CUST00952,66,92011.1,696.0,237660.45,60,0.66,8.75,Male,Salaried,Bachelor,Widowed,Car Loan,No
+CUST00953,63,48832.63,615.0,196012.21,24,0.11,12.85,Male,Self-Employed,PhD,Married,Car Loan,No
+CUST00954,67,26478.9,603.0,165127.51,60,0.55,5.64,Female,Self-Employed,PhD,Divorced,Business Loan,No
+CUST00955,65,79313.18,648.0,149992.8,12,0.24,6.23,Other,Salaried,PhD,Single,Education Loan,No
+CUST00956,38,76796.97,686.0,54773.31,12,0.58,5.43,Female,Business,Diploma,Single,Home Loan,No
+CUST00957,58,179267.84,576.0,164264.66,12,0.56,11.49,Female,Business,PhD,Single,Personal Loan,Yes
+CUST00958,55,90309.08,784.0,31095.68,72,0.06,12.81,Female,Contract,PhD,Widowed,Business Loan,No
+CUST00959,35,72038.27,731.0,392672.29,84,0.41,5.81,Male,Salaried,Diploma,Widowed,Personal Loan,No
+CUST00960,45,112036.95,653.0,205131.62,36,0.15,14.38,Female,Salaried,PhD,Single,Home Loan,No
+CUST00961,57,32380.32,612.0,227512.88,84,0.66,8.0,Male,Contract,Master,Single,Home Loan,Yes
+CUST00962,48,173789.85,673.0,447861.35,36,0.66,13.91,Male,Self-Employed,PhD,Divorced,Personal Loan,No
+CUST00963,30,120863.53,747.0,332446.94,36,0.34,17.76,Female,Self-Employed,PhD,Widowed,Business Loan,No
+CUST00964,59,140283.73,736.0,13948.96,84,0.36,13.98,Female,Business,Diploma,Widowed,Personal Loan,No
+CUST00965,37,45617.43,759.0,472155.66,72,0.26,16.48,Other,Salaried,Master,Single,Business Loan,No
+CUST00966,59,84335.41,644.0,126200.79,60,0.55,17.33,Female,Self-Employed,Bachelor,Divorced,Business Loan,Yes
+CUST00967,42,86475.64,461.0,62730.95,36,0.3,11.33,Other,Business,High School,Divorced,Car Loan,No
+CUST00968,46,151132.64,774.0,386382.81,24,0.24,14.13,Female,Business,Master,Single,Education Loan,No
+CUST00969,64,18200.34,667.0,255233.88,84,0.35,16.08,Female,Business,Bachelor,Single,Education Loan,No
+CUST00970,45,66738.2,730.0,222547.58,84,0.11,9.64,Female,Self-Employed,Master,Widowed,Home Loan,No
+CUST00971,37,176960.29,805.0,132256.51,12,0.57,8.4,Female,Self-Employed,Bachelor,Single,Car Loan,No
+CUST00972,33,94931.62,850.0,278261.03,60,0.06,17.31,Other,Salaried,Bachelor,Married,Education Loan,Yes
+CUST00973,40,79969.26,631.0,144448.46,12,0.5,14.44,Other,Salaried,Master,Divorced,Business Loan,No
+CUST00974,45,37412.3,690.0,451775.67,84,0.18,7.86,Female,Business,Diploma,Single,Business Loan,No
+CUST00975,24,175814.67,783.0,115450.2,84,0.21,10.84,Female,Business,Master,Married,Personal Loan,Yes
+CUST00976,30,21244.27,617.0,443334.02,36,0.49,15.35,Other,Self-Employed,Master,Divorced,Personal Loan,Yes
+CUST00977,23,137423.2,636.0,284108.66,60,0.75,12.11,Male,Self-Employed,Bachelor,Married,Business Loan,No
+CUST00978,61,142513.17,636.0,415959.19,48,0.59,13.45,Male,Salaried,High School,Married,Business Loan,Yes
+CUST00979,65,57472.39,678.0,359294.54,24,0.21,14.8,Male,Salaried,Bachelor,Single,Personal Loan,No
+CUST00980,38,126792.47,663.0,351380.6,36,0.17,13.09,Other,Contract,PhD,Divorced,Education Loan,No
+CUST00981,67,33054.52,635.0,168929.45,84,0.66,12.02,Other,Salaried,Master,Married,Home Loan,No
+CUST00982,56,59641.66,608.0,124609.5,36,0.36,14.74,Male,Self-Employed,Master,Widowed,Personal Loan,No
+CUST00983,67,145640.12,741.0,113334.25,24,0.15,14.46,Male,Business,Diploma,Divorced,Education Loan,No
+CUST00984,42,158079.16,780.0,430023.91,84,0.65,13.19,Female,Contract,Bachelor,Widowed,Education Loan,No
+CUST00985,54,116574.8,791.0,412009.14,24,0.62,9.68,Other,Salaried,Diploma,Single,Education Loan,Yes
+CUST00986,67,100107.83,644.0,225881.03,48,0.74,10.28,Other,Salaried,Master,Widowed,Car Loan,No
+CUST00987,28,43807.25,744.0,74878.26,36,0.69,17.62,Male,Self-Employed,Bachelor,Divorced,Car Loan,No
+CUST00988,60,28223.66,698.0,197303.6,72,0.65,6.46,Male,Contract,Bachelor,Married,Education Loan,No
+CUST00989,69,37059.14,637.0,313478.29,36,0.09,8.49,Other,Salaried,PhD,Married,Business Loan,No
+CUST00990,64,54831.88,735.0,232657.55,12,0.12,11.4,Female,Business,PhD,Divorced,Car Loan,No
+CUST00991,39,73351.27,634.0,392292.74,60,0.45,15.88,Male,Self-Employed,High School,Married,Personal Loan,No
+CUST00992,62,79707.34,652.0,498835.18,60,0.42,7.13,Other,Contract,PhD,Widowed,Car Loan,No
+CUST00993,61,74104.13,577.0,103654.72,12,0.37,8.6,Other,Salaried,Bachelor,Married,Business Loan,No
+CUST00994,57,56726.96,645.0,235228.9,84,0.33,5.86,Female,Salaried,PhD,Married,Home Loan,No
+CUST00995,26,100575.33,699.0,221182.11,60,0.35,14.18,Female,Contract,High School,Widowed,Car Loan,No
+CUST00996,46,151696.35,798.0,159201.34,24,0.45,8.1,Male,Self-Employed,Master,Widowed,Education Loan,No
+CUST00997,54,63311.97,653.0,107066.8,60,0.05,10.05,Male,Contract,PhD,Widowed,Education Loan,No
+CUST00998,65,170666.7,602.0,42189.14,60,0.23,10.77,Male,Contract,Bachelor,Single,Education Loan,No
+CUST00999,26,159480.54,792.0,444688.47,12,0.41,16.59,Other,Self-Employed,Master,Widowed,Home Loan,No
+CUST01000,57,44205.8,642.0,215725.86,84,0.56,10.35,Male,Salaried,Bachelor,Widowed,Business Loan,No
